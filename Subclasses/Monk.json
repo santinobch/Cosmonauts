@@ -1,0 +1,711 @@
+{
+    "_meta": {
+		"sources": [
+			{
+				"json": "Cosmonauts",
+				"abbreviation": "Cos",
+				"full": "Trip trough the cosmos - Monk Subclasses",
+				"authors": [
+					"Nemo"
+				],
+				"convertedBy": [
+					"Nemo"
+				],
+				"version": "1.0",
+				"url": "",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1632430583,
+		"dateLastModified": 1632430586
+	},
+	"subclass": [
+		{
+			"name": "Way of the Ancient Roots",
+			"shortName": "Ancient Roots",
+			"source": "Cos",
+			"subclassFeatures": [
+				"Way of the Ancient Roots|Monk||Ancient Roots|Cos|3",
+				"Aprentice of Flow|Monk||Ancient Roots|Cos|6",
+				"Fury of Sticks|Monk||Ancient Roots|Cos|6",
+				"Master of Flow|Monk||Ancient Roots|Cos|11",
+				"Gentle Gardening|Monk||Ancient Roots|Cos|11",
+				"Flow Expert|Monk||Ancient Roots|Cos|17"
+			],
+            "className": "Monk",
+			"classSource": "PHB"
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Way of the Ancient Roots",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 3,
+			"entries": [
+				"Monks who follow the way of the Ancient Roots understand that Ki is not an exclusive thing to monks, every living organism has Ki flowing trough them, from a small flower to an gigant owlbear. All monks can stop the flow of Ki in other creatures, such as with the Stunning Strike technic, but only the Ancient Roots allows the monk to use its Ki to interact with anothers creatures flow.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Way of the Magic Stick|Monk||Ancient Roots|Cos|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Flow Technics|Monk||Ancient Roots|Cos|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Flow Begginer|Monk||Ancient Roots|Cos|3"
+				}
+			]
+		},
+		{
+			"name": "Way of the Magic Stick",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Your understanding of Ki and its flow in other creatures allows you to mold some basic shapes out of plants. You gain knowledge of the {@spell monk's shillelagh|Cos} cantrip and two more cantrips from the {@filter druid spell list|spells|class=druid}, you may use a Plant Focus (Explained in the section {@i Flow Technics}) to cast this spells. You may change your cantrips every time you level up on this class.",
+                "Wisdom is your spellcasting ability for your monk spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a monk spell you cast and when making an attack roll with one."
+			]
+		},
+        {
+			"name": "Flow Technics",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Your understanding of Ki flow has reached a point that allows you to make more than grow small flowers. You learn {@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} which allow you to mold plants in ways you would have never imagined.",
+                "{@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} work simiraly to spells and can be 'casted' from any living plant, fresh seed or from your {@spell monk's shillelagh|Cos} weapon, we call this a {@i Plant Focus}. 'Casting' trough a plant can extend the range of an ablity up to 300ft. maximum, furthermore your cantrips now benefit from this extra range. A new effects added is 'Technic Stacking':",
+				"<br/>",
+				"{@b Technic Stacking:} Some technics can be stacked which means that aditional uses in the same action don't add action time. Example: You may want to hit a creature 60Ft. from you using {@b Extending Vines}. You may stack the technic, using 2 Ki but only 1 bonus action. Technics that can be stacked will have the 'Stackable' property.",
+				"<br/>",
+                "{@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} use your wisdom modifier for damage and athletics checks. Technics are affected by spells such as {@spell dispel magic} and {@spell counterpell} dispelling any plant creation.",
+				{
+					"type": "inset",
+					"name": "DM notes and flavor",
+					"entries": [
+						{
+							"type": "list",
+							"items": [
+								"{@i 'Casting'} trough magical plants may present the player with unforeseen magical effects.", 
+								"Giving your player magical plants instead of weapons may be an interesting idea to explore.",
+								"A player may try to 'make' it's weapon, i do recommend you and the player read a bit about plant grafting.",
+								"Open battles with grass on the ground present this subclass with an unparalleled range at such low levels (330ft. if you use {@b Sting Flower}), this may become a headache or a way for players to express their creativity."
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Flow Begginer",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"You learn {@b Entangle} and {@b Extending Vines} from the {@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} list."
+			]
+		},
+		{
+			"name": "Fury of Sticks",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 6,
+			"header": 1,
+			"entries": [
+				"You may use a weapon created wih {@spell monk's shillelagh|Cos} instead of unarmed strikes when you hit with Fury of Blows and if you used a flow technic as your action you may use fury of blows as your bonus action."
+			]
+		},
+		{
+			"name": "Aprentice of Flow",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 6,
+			"header": 1,
+			"entries": [
+				"You learn {@b Dust Flower}, {@b Fire Flower}, {@b Slippery Flower} and {@b Sting Flower} from the {@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} list."
+			]
+		},
+        {
+			"name": "Master of Flow",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 11,
+			"header": 1,
+			"entries": [
+				"You learn {@b Air Flower}, {@b Green Fist} and {@b Wall of Plants} from the {@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} list."
+			]
+		},
+		{
+			"name": "Gentle Gardening",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 11,
+			"header": 1,
+			"entries": [
+				"You now understand how to make your plants last longer. All flower technics now have the following rules:",
+				{
+					"type": "list",
+					"items": [
+						"Flower technics may trigger it's written ability instantly or you may choose to trigger it later, the flower lives for a day, after that time it dries up and dies. To trigger it you will need to be able to to touch the flower or a plant conected to it.",
+						"You may have a maximum of 'Flowers' up to your wisdom modifier."
+					]
+				}
+			]
+		},
+        {
+			"name": "Flow Expert",
+			"source": "Cos",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Cos",
+			"level": 17,
+			"header": 1,
+			"entries": [
+				"You learn {@b Ancient Flow} and {@b Poison Flower} from the {@filter Flow Technics|optionalfeatures|feature type=ft|source=Cos} list."
+			]
+		}
+	],
+
+    "spell": [
+        {
+            "name": "Monk's Shillelagh",
+			"source": "Cos",
+			"level": 0,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "A piece of a living plant or a fresh seed"
+			},
+            "duration": [
+				{
+					"type": "permanent",
+					"ends": [
+						"dispel"
+					]
+				}
+			],
+            "entries": [
+				"The piece of plant or seed you are holding grows in interaction with your Ki into a quarterstaff. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d6. The weapon also becomes magical. If the piece of plant used to create the quarterstaff was magical it may develop extra effects, DM discretion.",
+                "The staff is considered alive and the spell ends if it dies, the spell also ends if you cast it again.",
+                "Your magical staff damage increases when you reach 5th level ({@damage 1d8}), 11th level ({@damage 1d10}), and 17th level ({@damage 1d12})."
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Cos"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Cos"
+						}
+					}
+				]
+			}
+        }
+    ],
+	"optionalfeature": [
+		{
+			"name": "Extending Vines",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 3,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: 30Ft.}", 
+				"{@i Technic time: Depends}",
+				"{@i Stackable}",
+				"<br/>",
+				"Vines extend from you and transmit your Ki flow. You may extend the Range of  any technic for 30Ft. up to a maximum of 300Ft. Extending a technic adds no action time, making this technic free in time use.",
+				"You may also use this technic as a ranged weapon attack, 30Ft. for Martial Arts Dice + wisdom modifier magical piercing damage. This cost 1 Bonus Action. Can also be used to pull/push on things or make an improvised rope.",
+				"Vines stay alive a day after {@i 'casting'} and can be reused in battle, example: A creature lies above one of your vines wich you created last turn, you may cast a new set of vines from the old set, hitting the creature from below, as long as the vine its alive.",
+				"Vines can pass trough a hole an inch in diameter."
+			]
+		},
+		{
+			"name": "Entangle",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 3,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: Melee}", 
+				"{@i Technic time: 1 Action}",
+				"{@i Stackable}",
+				"<br/>",
+				"You try to entangle a creature in vines, the creature must make a Dex saving throw Against your Spell DC or become restrained. A creature restrained by the vines can use its action to cut the vines with a sharp object or weapon.",
+				"You may {@i 'cast'} this ability multiple times as the same action if you are in melee range of multiple creatures, for each creature you want to restrain use 1 Ki point."
+			]
+		},
+		{
+			"name": "Sting Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 6,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: 30Ft. Attack range}", 
+				"{@i Technic time: 1 Attack Action}",
+				"<br/>",
+				"You grow a dark green flower, make a ranged weapon attack, the damage is your Martial Arts Dice + wisdom modifier magical piercing damage."
+			]
+		},
+		{
+			"name": "Dust Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 6,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 2}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: 1 Action}",
+				"<br/>",
+				"You grow a dark grey flower, it makes a dense cloud 20Ft. diameter of dark polen which is iritating to the eyes, creatures in this area can't see, except by wearing some eye protection."
+			]
+		},
+		{
+			"name": "Slippery Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 6,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 2}", 
+				"{@i Range: 20Ft. Cone}", 
+				"{@i Technic time: 1 Action}",
+				"<br/>",
+				"You grow a bright ocre flower, every creature in a 20ft cone must succed a dexterity saving throw against your spell save DC or be covered in oil. A creature covered in oil may use its action to clean it in any way it has. If the creature doesn't clean the oil it must succed a dexterity saving throw against your spell save DC every time it decides to start to move or be nocked prone and loose all movement left.",
+				"The oil is flamable, a creature set a flame recieves your Martial Arts Dice as magic fire damage at the start of every turn for a minute or till extinguished. The fire damage it's not stackable if you splash a creature with more oil."
+			]
+		},{
+			"name": "Fire Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 6,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 2}", 
+				"{@i Range: 10Ft. Cone}", 
+				"{@i Technic time: 1 Action}",
+				"<br/>",
+				"You grow a bright red flower, every creature in a 10ft. cone must succed a dexterity saving throw against your spell save DC or takes your Martial Arts Dice + wisdom magic fire damage. If a creature succeds it takes half the damage rounded down.",
+				"The damage increases at level 11 to 2 times your Martial Arts Dice + wisdom modifier",
+				"The damage increases at level 11 to 3 times your Martial Arts Dice + wisdom modifier"
+			]
+		},
+		{
+			"name": "Air Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 11,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: 1 Action}",
+				"<br/>",
+				"You grow a light blue flower, it's petals bulk up as it becomes filled with air, and starts to slowly float upwards, a maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Air Flowers stacks the floating velocity. A Huge creature may float upwards at a speed of 15ft. per round with 4 flowers."
+			]
+		},
+		{
+			"name": "Green Fist",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 11,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 3}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: Concentration, 1 Action}",
+				"{@i Duration: 1 minute}",
+				"<br/>",
+				"You create gigant fist of veiny wood, roots and leaves. Make a melee attack against a creature, the damage is equal to 3 times your Martial Arts Dice + wisdom, if you create the Green Fist from a tree it's damage becomes 4 times your Martial Arts Dice + wisdom",
+				"You may move the fist & make another attack using your bonus action, to do so spend 1 Ki point. The Green Fist has your movement speed, has an AC equal to 10 + wis + dex, it's a large creature and may provide half cover.",
+				"At level 17 the damage increases to 4 times your Martial Arts Dice + wisdom and if you create the Green Fist from a tree it's damage becomes 5 times your Martial Arts Dice + wisdom"
+			]
+		},
+		{
+			"name": "Wall of Plants",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 11,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 2}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: 1 Action}",
+				"{@i Stackable}",
+				"<br/>",
+				"Wood and branches erupt from plant you are touching creating a wall of plant mush. You may create a 30ft. long, 10ft. tall and 5ft. width wall. You may instead create an object with twelve connected 5 foot cubes or a 10 foot diameter sphere.",
+				"If you are planning to trap a creature inside a sphere, it must make a dexterity saving throw against your spell save DC, on a fail it becomes trapped."
+			]
+		},
+		{
+			"name": "Cultivate",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 11,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: 1 Action}",
+				"<br/>",
+				"You may choose any of the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"Grow a seed or a bush into a tree (Large size).",
+						"Create 2 ancient fruits from a bush or 5 from a tree. An ancient fruit provides enough food an water for a day and last for a week without going bad.",
+						"Touching a tree create a simple object made out of wood, not larger than a 3ft cube."
+					]
+				}
+			]
+		},
+		{
+			"name": "Ancient Flow",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 17,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A weapon created by monk's shillelagh"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 5}", 
+				"{@i Range: Touch}", 
+				"{@i Technic time: 1 Action}",
+				"{@i Duration: 1 Minute}",
+				"<br/>",
+				"Touching a weapon that has been created with Monk's Shillelagh you enhance its power for the duration. Your weapon and technics now deal an extra 1d6 bludgeoning damage. You may use {@b Extending Vines}, {@b Sting Flower} and {@b Wall of Plants} for free for the duration."
+			]
+		},
+		{
+			"name": "Poison Flower",
+			"source": "Cos",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 17,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A plant focus"
+					]
+				}
+			],
+			"entries": [
+				"",
+				"{@i Ki cost: 1}", 
+				"{@i Range: Melee attack}", 
+				"{@i Technic time: 1 Attack Action}",
+				"<br/>",
+				"You grow a deep blue flower, it's petals open and rows of teeth show in them. The teeth of the flower are covered in a ultramarine colored poison which on contact can stun an enemy. Make a melee weapon attack against a creature on a hit it takes your Martial Arts Dice + wisdom modifier bludgeoning damage, the creature must make a constitution saving throw against your spell DC or become stuned till the start of your next turn and becoming poisoned for a minute"
+			]
+		}
+	],
+	"monster": [
+		{
+			"name": "Green Fist",
+			"source": "Cos",
+			"page": 19,
+			"summonedByClass": "Monk|Cos",
+			"size": "L",
+			"type": "plant construct",
+			"ac": [
+				{
+					"ac": 15,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"special": "half your hp"
+			},
+			"speed": {
+				"walk": 40
+			},
+			"con": 12,
+			"int": 4,
+			"wis": 6,
+			"cha": 6,
+			"save": {
+				"str": "your wisdom modifier plus PB",
+				"con": "+1 plus PB"
+			},
+			"skill": {
+				"athletics": "your wisdom modifier plus PB"
+			},
+			"senses": [
+			],
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"charmed",
+				"frightened",
+				"exhaustion",
+				"prone",
+				"blinded",
+				"deafned"
+			],
+			"languages": [
+			],
+			"pbNote": "equals your bonus",
+			"trait": [
+				{
+					"name": "Ancient Link",
+					"entries": [
+						"The Green Fist's Strenght score becomes your Wisdom score, and the Dexterity score is your Dexterity score."
+					]
+				}
+			],
+			"actionNote": "Requires Your Bonus Action",
+			"action": [
+				{
+					"name": "Nature's Force",
+					"entries": [
+						"{@atk mw} Make a melee attack to hit, reach 5 ft., one target you can see. {@h}{@damage Martial Arts Dice x 3 + Wisdom modifier} magic bludgeoning damage."
+					]
+				}
+			],
+			"reaction": [
+			],
+			"fluff": {
+			},
+			"tokenUrl": "https://i.pinimg.com/originals/41/45/e2/4145e2f0ddecc89a08b44c11228adf9e.jpg",
+			"senseTags": [
+			],
+			"damageTags": [
+			],
+			"miscTags": [
+			],
+			"hasFluffImages": true
+		}
+	]
+}
