@@ -7,7 +7,7 @@ Monks who follow the way of the Ancient Roots understand that Ki is not an exclu
 
 <div class='descriptive'>
 
-*"Some call my control of Ki magical, i don't see the magic in watering the plants of the temple. You can do this old job if you want."*
+*"Some call my control of Ki magical, i don't see the magic in watering the plants of the temple. You can do this damn job if you want."*
 
 <br/>
 *- Rembras Triadona*
@@ -50,7 +50,7 @@ Your understanding of Ki flow has reached a point that allows you to make more t
 
 Flow Technics are a mix of spellcasting and battle maneuvers, this mix allows for a tactital deployment of magical plants against enemies.
 
-Flow Technics require a Plant Focus to cast. Technics share some rules with spells, for example they some require concentration and all are affected by spells such as dispel magic and counterpell dispelling any plant creation. When in doubt use the spellcasting rules.
+Flow Technics require a Plant Focus to cast. Technics share some rules with spells, for example some require concentration and all are affected by spells such as dispel magic and counterpell dispelling any plant creation. When in doubt use the spellcasting rules.
 
 
 
@@ -84,7 +84,7 @@ You learn *Cultivate*, *Leaf Baloon*, *Green Fist* and *Wall of Plants* from the
 ### Monastic tradition (level 17)
 #### Flow Expert
 
-You learn *Ancient Flow* and *Last Breath* from the Flow Technics list.
+You learn *Ancient Flow* and *Last Meal* from the Flow Technics list.
 
 
 
@@ -104,7 +104,7 @@ ___
 - **Components:** V, S, M (A piece of a living plant, mushroom, fresh seed or 1/16 pounds of spores)
 - **Duration:** Until dispelled
 
-The piece of plant or seed you are holding grows in interaction with your Ki into a quarterstaff. For the duration, you can use your spellcasting ability instead of Strength or Dexterity for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d6.
+The piece of plant/fungi you are holding grows in interaction with your Ki into a quarterstaff. For the duration, you can use your spellcasting ability instead of Strength or Dexterity for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d6.
 
 The staff is considered alive and the spell ends if it dies, the spell also ends if you cast it again.
 
@@ -123,7 +123,7 @@ ___
 
 You throw a seed to a point 30ft. from you. Grasping weeds and vines sprout from the ground in a 10-foot radius starting from the seed. For the duration, these plants turn the ground in the area into difficult terrain for creatures other than you.
 
-A creature in the area when you cast the technic must succeed on a Strength saving throw or be restrained by the entangling plants until the technic ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+A creature in the area (Except you) when you cast the technic must succeed on a Strength saving throw or be restrained by the entangling plants until the technic ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
 
 If you loose concentration or the technic ends all creatures are set free, but the plants live for a day before drying up and dying.
 
@@ -153,7 +153,7 @@ ___
 - **Range:** 10ft. cone
 - **Duration:** Instant
 
-You grow 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 10ft. cone, every creature must succed a dexterity saving throw against your spell save DC or takes your Martial Arts Dice plus wisdom magic fire damage. If a creature succeds it takes half the damage rounded down.
+You grow 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 10ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or takes your Martial Arts Dice plus wisdom magic fire damage. If a creature succeds it takes half the damage rounded down.
 
 The damage increases at level 11 to 2 times your Martial Arts Dice plus wisdom modifier.
 
@@ -285,6 +285,9 @@ You throw a bag of spores to a creature 30ft. from you, the creature must succed
 
 \page
 
+<div style='margin-top:50px'></div>
+
+<img src='https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/green_fist.png' style='position:absolute;top:50px;left:300px;width:170px;z-index:16' />
 ___
 > ## Green Fist
 >*Large plant, true neutral*
