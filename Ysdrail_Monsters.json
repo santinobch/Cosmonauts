@@ -1,0 +1,292 @@
+{
+	"siteVersion": "1.166.1",
+	"_meta": {
+		"sources": [
+			{
+				"json": "YsdrailMonsters",
+				"abbreviation": "YM",
+				"full": "Ysdrail Monsters",
+				"url": "",
+				"authors": [
+					"Vito"
+				],
+				"convertedBy": []
+			}
+		],
+		"dateAdded": 1660424298,
+		"dateLastModified": 1660424298
+	},
+	"monster": [
+		{
+			"name": "Aracnid Automaton",
+			"source": "YsdrailMonsters",
+			"size": [
+				"S"
+			],
+			"type": "construct",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				18
+			],
+			"hp": {
+				"formula": "12d8 + 24",
+				"average": 78
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 7,
+			"dex": 19,
+			"con": 15,
+			"int": 16,
+			"wis": 11,
+			"cha": 9,
+			"save": {
+				"dex": "+7",
+				"int": "+6"
+			},
+			"skill": {
+				"acrobatics": "+7",
+				"investigation": "+9",
+				"perception": "+6",
+				"stealth": "+10",
+				"sleight of hand": "+7"
+			},
+			"senses": [
+				"darkvision 120 ft."
+			],
+			"passive": 16,
+			"immune": [
+				"poison"
+			],
+			"vulnerable": [
+				"lightning"
+			],
+			"conditionImmune": [
+				"poisoned",
+				"prone"
+			],
+			"cr": "8",
+			"trait": [
+				{
+					"name": "Nimble construct",
+					"entries": [
+						"The Aracnid Automaton does not provoke opportunity attacks."
+					]
+				},
+				{
+					"name": "Difficult to Hit",
+					"entries": [
+						"When attached to a creature 1/4 of the damage done by melee and ranged attacks to the Aracnid Automaton is instead recived by the attached creature if that attack rol would hit their AC."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Aracnid Automaton makes three attacks, choose between three Bites, two Leech, one Web or one Attach."
+					]
+				},
+				{
+					"name": "Bite",
+					"entries": [
+						"{@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}14 ({@damage 1d8 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Attach",
+					"entries": [
+						"The Aracnid Automaton jumps to a creature, make a {@atk rw} {@hit 7} to hit, range 25/50 ft., one target. {@h}12 ({@damage 1d4 + 4}) piercing damage. On a hit the creature must make a an acrobatics or atlethics contest against the Aracnid Automaton acrobatics. On a fail the Aracnid Automaton lands in a unocuppied space 5ft. from the creature, on a success it attaches to the creatures neck. ",
+						"The aflicted creature may try to remove the Aracnid Automaton at the start of their turn by making a atlethics check against the Aracnid Automaton acrobatics."
+					]
+				},
+				{
+					"name": "Leech",
+					"entries": [
+						"Only if attached, {@atk mw} {@hit 7} to hit, reach 5 ft., one target. {@h}20 ({@damage 3d6 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Web",
+					"entries": [
+						"The Aracnid Automaton throws a thick web to a point 50ft. from it, it covers a 10ft. cube in sticky strings which is considered difficult terrain."
+					]
+				}
+			],
+			"reaction": [
+				{
+					"name": "Uncanny Dodge",
+					"entries": [
+						"When an attacker that the Aracnid Automaton can see, hits it with an attack, the Aracnid Automaton can use it's reaction to halve the attack's damage."
+					]
+				}
+			],
+			"legendaryActions": 2,
+			"legendary": [
+				{
+					"name": "Attach",
+					"entries": [
+						"Use the attach action above."
+					]
+				}
+			],
+			"environment": [
+				"urban"
+			],
+			"senseTags": [
+				"SD"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"P"
+			],
+			"miscTags": [
+				"MW",
+				"RW"
+			]
+		},
+		{
+			"name": "Guardian Automaton",
+			"source": "YsdrailMonsters",
+			"size": [
+				"H"
+			],
+			"type": "construct",
+			"alignment": [
+				"N"
+			],
+			"ac": [
+				20
+			],
+			"hp": {
+				"formula": "10d10 + 50",
+				"average": 105
+			},
+			"speed": {
+				"walk": 50
+			},
+			"str": 22,
+			"dex": 12,
+			"con": 20,
+			"int": 9,
+			"wis": 13,
+			"cha": 4,
+			"save": {
+				"str": "+10",
+				"con": "+9"
+			},
+			"skill": {
+				"athletics": "+10"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 11,
+			"immune": [
+				"lightning",
+				"poison",
+				"psychic"
+			],
+			"vulnerable": [
+				"thunder"
+			],
+			"conditionImmune": [
+				"charmed",
+				"exhaustion",
+				"frightened",
+				"petrified",
+				"poisoned",
+				"prone"
+			],
+			"cr": "9",
+			"trait": [
+				{
+					"name": "Connected",
+					"entries": [
+						"The Guardian Automaton has 3 pilars that radiate ligthing energy, they have 18AC and 30hp, they share vulnerabilities and Immunities with the Guardian Automaton.",
+						"At the start of the Guardian Automaton turn a ray of ligthing connects the pilars and the Guardian (A pilar can only connect with one other pilar or one Guardian), any creature in the path must make a DC17 Dexterity saving throw or take {@damage 3d10} ligthing damage or half on a success.",
+						"The Guardian Automaton can move the pillars 20ft. at the end of it's turn."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Guardian Automaton makes three attacks, two Perforate and one Closing Mechanisms."
+					]
+				},
+				{
+					"name": "Perforate",
+					"entries": [
+						"{@atk mw} {@hit 10} to hit, reach 10 ft., one target. {@h}9 ({@damage 1d6 + 6}) damage."
+					]
+				},
+				{
+					"name": "Closing Mechanism",
+					"entries": [
+						"{@i 10ft. cone} DC17 dex Save, {@h}12 ({@damage 1d12 + 6}) damage."
+					]
+				},
+				{
+					"name": "Unstable Core",
+					"entries": [
+						"The Guardian Automaton starts with 5 Unstable points. At the start of the Guardian Automaton's turn roll a {@dice d20} and add that ammount to the unstable points, if you have 10 or more points it may use the Core Surge ability below and reset the points to 0. ",
+						"Each time you use Core Surge level it up."
+					]
+				},
+				{
+					"name": "Core Surge Lv.1",
+					"entries": [
+						"An explotion of energy surges in vecinity of the Guardian Automaton, all creatures within 20ft. of the automaton must make a DC15 Con save or become {@condition stunned} till the end of thier next turn."
+					]
+				},
+				{
+					"name": "Core Surge Lv.2",
+					"entries": [
+						"The air near the Guardian Automaton becomes magically unstable, the Gaurdian and all creatures within 20ft. of the Guardian are afflicted by the Levitation spell. Blue, pulsating waves of energy radiate from the core."
+					]
+				},
+				{
+					"name": "Core Surge Lv.3",
+					"entries": [
+						"The Guardian Automaton releases pent up energy from it's ligthing core, all creatures in a 60ft. cone must make a DC17 Dexterity saving throw or recive {@damage 4d10} ligthing damage plus {@damage 4d10} force damage and receiving half on a success.",
+						"After activating this ability the Guardian Automaton recives 10 force damage and cannot use Unstable Core till a replacement core can be provided."
+					]
+				}
+			],
+			"legendaryActions": 1,
+			"legendary": [
+				{
+					"name": "Protect the pillar",
+					"entries": [
+						"The Guardian Automaton teleports to the location of one pillar changing places with it, and creating a explotion of electricity as it arrives to it's destination. Any creature within 5ft. of the Guardian Automaton must make a DC17 Dexterity saving throw or take {@damage 3d10} ligthing damage and half on a success."
+					]
+				}
+			],
+			"environment": [
+				"desert",
+				"urban"
+			],
+			"tokenUrl": "https://5e.tools/img/ERLW/Warforged%20Titan.png",
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"O"
+			],
+			"miscTags": [
+				"MW",
+				"RCH"
+			]
+		}
+	]
+}
