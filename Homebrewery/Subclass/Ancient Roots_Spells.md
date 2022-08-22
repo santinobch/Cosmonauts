@@ -113,10 +113,14 @@ style='position:absolute;top:235px;right:-50px;width:200px;'
 
 ## Way of the Ancient Roots
 
+<div style='margin-top:20px'></div>
+
+
 ### Monastic tradition (level 3)
 
-Monks who follow the way of the Ancient Roots track Ki is not an exclusive thing to monks, every living organism has Ki flowing trough them, from a small flower to an gigant owlbear. All monks can stop the flow of Ki in other creatures, such as with the Stunning Strike technic, but only the Ancient Roots allows the monk to use its Ki to interact with anothers creatures flow and see some *grow*.
+Monks who follow the way of the Ancient Roots track Ki is not an exclusive thing to monks, every living organism has Ki flowing trough them, from a small flower to a gigant owlbear. All monks can stop the flow of Ki in other creatures, such as with the Stunning Strike technic, but only the Ancient Roots allows the monk to use its Ki to interact with anothers creatures flow and see some *grow*.
 
+<div style='margin-top:10px'></div>
 
 <div class='descriptive'>
 
@@ -125,6 +129,8 @@ Monks who follow the way of the Ancient Roots track Ki is not an exclusive thing
 <br/>
 *- Rembras Triadona*
 </div>
+
+<div style='margin-top:40px'></div>
 
 
 #### Spellcasting
@@ -137,14 +143,14 @@ Wisdom is your spellcasting ability for your monk spells. You use your Wisdom wh
 
 <br/>
 
-Spell save DC = 8 + your proficiency bonus + your Wisdom modifier
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
-Spell attack modifier = your proficiency bonus + your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
 
 
 #### Spellcasting Focus
 
-To cast your monk spells you can use a *Plant Focus*, it can be: seeds, spores, mushrooms, small plants, bushes, trees, etc...
+To cast your monk spells you can use a *Plant Focus*, it can be: seeds, spores, fungi, small plants, bushes, trees, etc...
 
 Using this focus you may extend the range of your spells trough the body of the *Plant Focus*, a distant branch, exposed roots, unblosomed flowers, etc...
 
@@ -159,6 +165,10 @@ If you want to upcast a monk spell you know, you may add the Ki cost of the spel
 
 Example: *Extending Vines* upcasted at level 2 is 2 Ki, *Wall of Plants* upcasted at level 5 is 4 Ki.
 
+<div style='margin-top:170px'></div>
+<br/>
+
+<div style='margin-top:250px'></div>
 
 
 #### Cantrips
@@ -169,26 +179,19 @@ You may change your cantrips every time you level up on this class.
 
 
 
-<div style='margin-top:170px'></div>
-<br/>
-
-<div style='margin-top:250px'></div>
-
-
-
 
 #### Flow Begginer
-You add *Barkskin (Source: PHB, 1 Ki)*, *Entangle (Source: PHB, 1 Ki)* and *Extending Vines (1 Ki)* to your know spells list.
+You add *Barkskin (Source: PHB)*, *Entangle (Source: PHB)* and *Extending Vines* to your know spells list.
 
 
 ### Monastic tradition (level 6)
 #### Fury of Sticks
 
-Your Martial Arts Dice is now your *Living Weapon's* dice.
+As long you are wielding your *Living Weapon*, your martial dice becomes the spell's damage dice.
 
 #### Aprentice of Flow
 
-You add  *Beetlebomber's Fire Flowers  (2 Ki)*, *Caltrops's Spines (1 Ki)*, *Fruity Explotion (2 Ki)*, *Spike Growth (Source: PHB, 2 Ki)* and *Wolf Dust Mushroom (2 Ki)* to your know spells list.
+You add  *Beetlebomber's Fire Flowers*, *Caltrops's Spines*, *Fruity Explotion*, *Spike Growth (Source: PHB)* and *Wolf Dust Mushroom* to your know spells list.
 
 
 
@@ -196,16 +199,16 @@ You add  *Beetlebomber's Fire Flowers  (2 Ki)*, *Caltrops's Spines (1 Ki)*, *Fru
 
 #### Green Foot
 
-You gain the ability to move freely along plant surfaces. You may end your turn on a wall or ceilling, you will not fall as plants grab your feet and keep you in place.
+You gain the ability to move freely along plant and fungi surfaces. You may end your turn on a wall or ceilling, as long as that 5ft² surface is covered in plants or fungi, you will not fall.
 
 #### Master of Flow
 
-You add *Cultivate (1 Ki)*, *Leaf Baloon (1 Ki)*, *Green Fist (3 Ki)* and *Wall of Plants (2 Ki)* to your know spells list.
+You add *Cultivate*, *Leaf Baloon*, *Green Fist* and *Wall of Plants* to your know spells list.
 
 ### Monastic tradition (level 17)
 #### Flow Expert
 
-You add *Ancient Tools of Soil (4 Ki)* and *Last Meal (4 Ki)* to your know spells list.
+You add *Ancient Tools of Soil* and *Last Meal* to your know spells list.
 
 
 <div style='margin-top:30px'></div>
@@ -230,8 +233,7 @@ You add *Ancient Tools of Soil (4 Ki)* and *Last Meal (4 Ki)* to your know spell
 | 17th | 4 | Last Meal |
 | 17th | 4 | Tools of Soil |
 
-
-<br/>
+<div style='margin-top:30px'></div>
 
 ### New spells
 
@@ -240,14 +242,14 @@ You add *Ancient Tools of Soil (4 Ki)* and *Last Meal (4 Ki)* to your know spell
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
-- **Components:** V, S, M (A piece of a living plant, mushroom, fresh seed or 1/16 pounds of spores)
+- **Components:** V, S, M (A piece of a living plant, fungus, fresh seed or 1/16 pounds of spores)
 - **Duration:** Until dispelled
 
-Touching a piece of plant/fungi it grows in interaction with your Ki into a quarterstaff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
+As you touch a piece of plant/fungi, it grows in interaction with your Ki into a quarterstaff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
 
 You may use your spell ability modifier for the attack and damage rolls of melee attacks of this weapon. 
 
-The staff is considered alive. The spell ends if you cast it again.
+The staff is considered alive. The spell ends if you cast it again, the staff dies or it's dispelled.
 
 <br/>
 Your magical staff damage increases when you reach 5th level (1d8), 11th level (1d10), and 17th level (1d12).
@@ -258,7 +260,7 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10ft cone) 
-- **Components:** M (Two flower buds)
+- **Components:** V, M (Two flower buds)
 - **Duration:** Instant
 
 You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 10ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3 times your *martial arts dice* or 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
@@ -267,8 +269,6 @@ You blossom 2 flowers in your hand, as they touch each other they react. A hot s
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one *martial arts dice or 1d6*.
 
-<div style='margin-top:100px'></div>
-
 
 
 #### Caltrops's Spines
@@ -276,12 +276,10 @@ You blossom 2 flowers in your hand, as they touch each other they react. A hot s
 ___
 - **Casting Time:** 1 attack action.
 - **Range:** 60ft./120ft.
-- **Components:** M (A torny branch)
+- **Components:** V, S, M (A torny branch)
 - **Duration:** Instant
 
-You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make a ranged spell attack, 30Ft. on a hit deal your *Martial Arts Dice* plus spell ability modier magical bludgeoning damage. If you don't have a *Martial Arts Dice* use a 1d4 instead.
-
-If you don't have a *Living Weapon* deal 1d6 plus spell ability bludgeoning damage.
+You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make a ranged spell attack, 30Ft. on a hit deal your *Martial Arts Dice or 1d6* plus spell ability modier magical piercing damage.
 
 <br/>
 
@@ -295,9 +293,9 @@ ___
 - **Components:** M (A piece of a dried climbing plant)
 - **Duration:** Instant
 
-Vines sprout from your focus. Choose between: 
+Vines sprout to any direction you choose. Choose between: 
 
-***Slap.*** Make a ranged spell attack, 30Ft. on a hit deal your *Martial Arts Dice* plus spell ability modier magical bludgeoning damage. If you don't have a *Martial Arts Dice* use a 1d4 instead.
+***Slap.*** Make a ranged spell attack, 30Ft. on a hit deal your *Martial Arts Dice or 1d4* plus spell ability modier magical bludgeoning damage.
 
 
 ***Grab.*** Pull/push/hold/catch on to any thing within 30ft. of you using the vines. If you would need to do an atlethics check use your spell ability modifier for the roll.
@@ -306,11 +304,15 @@ Vines sprout from your focus. Choose between:
 
 The vines can be used as improvised common rope. 
 
-If you are aiming for a target the vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls. The vines don't disapear after the casting unless dispelled.
+If you are aiming for a target the vines can twist around corners but you must be able to see the target. 
+
+They can pass trough a hole an inch in diameter and can *root* themselves to the ground and walls, *as long as the DM allows it to stick to those surfaces*. 
+
+The vines don't disapear after the casting unless dispelled.
 
 <br/>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more and add your *martial arts dice or 1d4* to the damage, per level.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more, per level.
 
 
 #### Leaf Baloon
@@ -318,14 +320,18 @@ If you are aiming for a target the vines can twist around corners but you must b
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft.
-- **Components:** M (A white leaf)
-- **Duration:** Instant
+- **Components:** V, S, M (A white leaf)
+- **Duration:** 1 minute.
 
 You create a sphere of silky white leaves, it rapidly bulks up as it becomes filled with air, slowly it floats upwards. 
 
-A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons stacks the floating velocity.
+A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons adds to the floating velocity.
 
-For each size beyond large you may add an extra baloon to float at 15ft.
+For each size beyond large you may add an extra baloon to make them float at 15ft.
+
+<br/>
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level, increase the duration to 10 minutes. When you cast this spell using a spell slot of 4th level, increase the duration to 1 hour. When you cast this spell using a spell slot of 5th level, increase the duration to 24 hours.
 
 
 
@@ -430,14 +436,11 @@ You may choose one of the following effects:
 
 * Grow a seed or a bush into a bush or size large tree.
 
-* Provided of a suitable ground (Earth or stones), grow a patch of grass or moss from a seed. The patch is a 80ft. square centered on you, it can cover vertical surfaces.
+* Provided of a suitable ground (Earth, clay, sand, etc...), grow a patch of moss or mycelium from a *seed or 1/16 pounds of spores*. The patch is a 80ft. square centered on you, it can cover vertical surfaces.
 
 * Create 2 *Goodberries* from a bush or 5 from a tree. A *Goodberry* provides enough food an water for a day and lasts for a week without going rotten.
 
-
-
 * Create a *Fruit of Fertility* from a bush or tree which contains 50 seeds that last fresh for a month.
-
 
 * From 1 ration of food, which is consumed, create a *Fungus of Propagation*, you may take a pound of spores from it. 
 You may take 1 pound of spores each day by feeding it 1 ration of food each day. Spores last fresh for a month.
@@ -450,14 +453,16 @@ You may take 1 pound of spores each day by feeding it 1 ration of food each day.
 ___
 - **Casting Time:** 1 action
 - **Range:** 30ft.
-- **Components:** M (A seed, which is consumed)
+- **Components:** V, S, M (A seed, which is consumed)
 - **Duration:** Instant
 
 You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice. 
 
 A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices, all terrain is considered difficult terrain for them.
 
-The juice is flamable, a creature set a flame recieves your *martial arts dice or 1d6* as magic fire damage at the start of every turn for two turns or till extinguished. 
+The juice is flamable, a creature set a flame recieves your *martial arts dice or 1d6* as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.
+
+<br />
 
 If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones.
 
@@ -473,7 +478,7 @@ If a creature is covered in juice and other flamable material use the highest da
 ___
 - **Casting Time:** 1 action
 - **Range:** 30ft.
-- **Components:** M (1/16 pounds of spores dust, which is consumed)
+- **Components:** V, S, M (1/16 pounds of spores dust, which is consumed)
 - **Duration:** 1 Minute
 
 You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the bag. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. Creatures in this area can't see, except by wearing some eye protection.
@@ -486,7 +491,7 @@ The spores are extremly flamable any contact with fire will light them up, and a
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 5ft.
-- **Components:** M (A hard piece of wood or hard mushroom cap)
+- **Components:** S, M (A hard piece of wood or hard mushroom cap)
 - **Duration:** 1 minute
 
 You summon a ***Green Fist*** made of veiny wood, roots and leaves in an area within 5ft. of you. You may immediately use the *Green Fist's Nature's Force* attack and move it up to 30ft.
@@ -501,18 +506,18 @@ After the duration the fist dries up and dies. You may only have one *Green Fist
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft.
-- **Components:** M (A handful of roots or mycelium)
+- **Components:** V, S, M (A handful of roots or mycelium)
 - **Duration:** Instant
 
 A wall of living mush and branches erupts from a space 5ft. from you. You may create a 20ft. x 10ft. x 5ft. wall of plants or you may choose to instead create an object with eight connected 5ft. cubes or a 10ft. diameter sphere.
 
 If you are planning to trap a creature inside a sphere, it must make a Dexterity saving throw against your spell save DC, on a fail it becomes trapped.
 
-The wall has an AC of 15 and 12 hit points, they are vulnerable to fire.
+The wall has an AC of 15 and 12 hit points, it's vulnerable to fire.
 
 <br>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you may add 8 more plant cubes to the wall, up to 32 cubes.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you may add 8 more plant cubes to the wall, up to 32 cubes, the sphere increases it's wall thickness 5ft. per spell level.
 
 
 
@@ -525,12 +530,12 @@ The wall has an AC of 15 and 12 hit points, they are vulnerable to fire.
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** touch
-- **Components:** M (A weapon created by *Living Weapon*)
+- **Components:** V, S, M (A weapon created by *Living Weapon*)
 - **Duration:** 1 minute
 
-Touching a weapon that has been created by the *Living Weapon* cantrip you enhance its power for the duration, growing a wood blade of any color, out of your staff, transforming it into a living scythe. 
+Touching a weapon that has been created by the *Living Weapon* cantrip you enhance its power for the duration, growing a wood blade of any color, out of your staff, transforming it into a **living scythe**. 
 
-For the duration your weapon and spells now deal an extra 1d6 magic damage of the spell/weapon damage, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration as long as you know them. 
+For the duration your weapon and spells now deal an extra 1d6 magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration as long as you know them. 
 
 The spells can be upcasted if you pay the necesary cost, minus the initial cost, which is free.
 
@@ -541,10 +546,10 @@ The spells can be upcasted if you pay the necesary cost, minus the initial cost,
 ___
 - **Casting Time:** 1 action
 - **Range:** 30ft.
-- **Components:** M (1 pound of spores dust, which is consumed)
+- **Components:** V, S, M (1 pound of spores dust, which is consumed)
 - **Duration:** instant
 
-You throw a bag of spores to a creature 30ft. from you, the creature must succed a Constitution saving throw against your spell save DC or become the food of a giant mushroom. If the creature fails it becomes stunned till the beginning of your next turn and receives 6d10 magic acid damage. If it succeds it only takes 3d10 magic acid damage.
+You throw a bag of spores to a creature 30ft. from you, the creature must succed a Constitution saving throw against your spell save DC or become the food of a giant mushroom. If the creature fails it becomes stunned till the beginning of your next turn and receives 6d10 magic necrotic damage. If it succeds it only takes 3d10 magic necrotic damage.
 
 
 <br/>
@@ -600,13 +605,15 @@ ___
 >
 > ***Massive.*** The Green Fist may provide half cover.
 > ### Actions
-> ***Nature's Force.*** *Melee Weapon Attack:* Str plus PB to hit, reach 5 ft., one target you can see. 
+> ***Nature's Force.*** *Melee Weapon Attack:* Str + PB to hit, reach 5 ft., one target you can see. 
 >
 >3 times your *martial arts dice* + Str magic bludgeoning damage.
 >
 >***If you dont have a *martial arts dice*, you may use a d8.***
 >
->**If the caster is a monk** the damage of this ability increases by one *martial arts dice* if the Green Fist was casted from a tree and it increases again by one *martial arts dice* if you reach level 17.
+>If the Green Fist was summoned from a tree or large mushroom the damage of this ability increases by one *martial arts dice or d8* was casted from a tree. 
+>
+>**If the caster is a monk** it increases again by one *martial arts dice or d8* if you reach level 17.
 
 
 
@@ -621,4 +628,4 @@ ___
 > * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 > * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 >
-> *Made 11/05/2022, Spell version 1.03*
+> *Made 22/08/2022, Spell version 1.04*
