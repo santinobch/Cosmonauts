@@ -1,5 +1,5 @@
 {
-	"siteVersion": "1.166.1",
+	"siteVersion": "1.167.5",
 	"_meta": {
 		"sources": [
 			{
@@ -13,8 +13,8 @@
 				"convertedBy": []
 			}
 		],
-		"dateAdded": 1660424298,
-		"dateLastModified": 1660424298
+		"dateAdded": 1662239202,
+		"dateLastModified": 1662239202
 	},
 	"monster": [
 		{
@@ -59,7 +59,8 @@
 			],
 			"passive": 16,
 			"immune": [
-				"poison"
+				"poison",
+				"psychic"
 			],
 			"vulnerable": [
 				"lightning"
@@ -87,7 +88,7 @@
 				{
 					"name": "Multiattack",
 					"entries": [
-						"The Aracnid Automaton makes three attacks, choose between three Bites, two Leech, one Web or one Attach."
+						"The Aracnid Automaton makes three attacks, choose between three Bites or two Leech"
 					]
 				},
 				{
@@ -209,7 +210,7 @@
 					"name": "Connected",
 					"entries": [
 						"The Guardian Automaton has 3 pilars that radiate ligthing energy, they have 18AC and 30hp, they share vulnerabilities and Immunities with the Guardian Automaton.",
-						"At the start of the Guardian Automaton turn a ray of ligthing connects the pilars and the Guardian (A pilar can only connect with one other pilar or one Guardian), any creature in the path must make a DC17 Dexterity saving throw or take {@damage 3d10} ligthing damage or half on a success.",
+						"At the start of the Guardian Automaton turn a ray of ligthing connects the pilars and the Guardian (A pilar can only connect with one other pilar or one Guardian), any creature in the path takes {@damage 3d10} ligthing damage.",
 						"The Guardian Automaton can move the pillars 20ft. at the end of it's turn."
 					]
 				}
