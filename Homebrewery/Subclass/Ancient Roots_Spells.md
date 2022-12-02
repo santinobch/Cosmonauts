@@ -169,7 +169,7 @@ As a monk you don't have spell slots you instead use your Ki. The cost is equal 
 
 
 #### Ki Upcasting
-When you cast a spell you can spend additional ki points to increase the spell level. You may increase the spell level by 1 by adding the base Ki spell cost to the total cost. You may do this any number of times up to a 9th level spell.
+When you cast a spell you can spend additional ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.
 
  For example, if you cast "Wall of Plants", you can spend 4 ki points to cast it as a 3rd-level spell (the spells's base cost of 2 ki plus 2 ki for the upcast).
 
@@ -209,7 +209,7 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 
 
 ### Monastic tradition (level 6)
-
+<br/>
 
 #### Fury of Sticks
 
@@ -227,7 +227,7 @@ As long you are wielding your *Living Weapon*, your martial dice becomes the spe
 You add  *Barkskin (PHB p217)*, *Beetlebomber's Fire Flowers*, *Cultivate*, *Fruity Explotion*, *Spike Growth (PHB p277)* and *Wolf Dust Mushroom* to your know spells list.
 
 ### Monastic tradition (level 11)
-
+<br/>
 
 #### Green Foot
 
@@ -239,7 +239,7 @@ You gain the ability to move freely along plant and fungi surfaces. You may end 
 You add *Leaf Baloon*, *Green Fist* and *Wall of Plants* to your know spells list.
 
 ### Monastic tradition (level 17)
-
+<div style='margin-top:10px'></div>
 
 #### Ancient Tools of Soil
 
@@ -257,7 +257,9 @@ You add *Last Meal* to your know spells list.
 
 ### New spells
 
-
+<div style="position: absolute; z-index: 2; right: 72px; bottom: 378px; border-bottom: 2px solid #C0AD6A; width: 355px;">
+	
+</div>
 
 <div style='margin-top:10px'></div>
 
@@ -309,11 +311,8 @@ You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit co
 
 
 
-<div style='margin-top:125px'></div>
+<div style='margin-top:145px'></div>
 
-<div style="position: absolute; z-index: 2; right: 72px; bottom: 399px; border-bottom: 2px solid #C0AD6A; width: 355px;">
-	
-</div>
 
 #### Extending Vines
 *1-st level transmutation*
