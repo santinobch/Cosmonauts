@@ -200,20 +200,20 @@ As and action you may touch a plant or fungi, it grows in interaction with your 
 
 You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon. 
 
-The staff is considered alive. The staff rots if you use this ability again, it's dispelled or dies.
+The staff is considered alive. The staff instantly rots if you use this ability again, it's dispelled or dies.
 
 <div style='margin-top:10px'></div>
 
 Your magical staff damage increases when you reach 5th level (1d8), 11th level (1d10), and 17th level (1d12).
 
+<div style='margin-top:10px'></div>
 
 
 ### Monastic tradition (level 6)
-<br/>
 
 #### Fury of Sticks
 
-As long you are wielding your *Living Weapon*, your martial dice becomes the spell's damage dice.
+As long you are wielding your *Living Weapon*, your martial dice becomes the weapon's damage dice.
 
 
 
