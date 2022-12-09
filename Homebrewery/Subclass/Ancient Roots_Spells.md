@@ -118,7 +118,9 @@ style='position:absolute;top:235px;right:-50px;width:200px;'
 
 ### Monastic tradition (level 3)
 
-Monks who follow the Way of the Ancient Roots think Ki is not an exclusive thing to monks, every living organism has Ki flowing trough them, from a small flower to a gigant owlbear. All monks can stop the flow of Ki in other creatures, such as with the Stunning Strike technic, but only the Ancient Roots allows the monk to use its Ki to interact with anothers creatures flow and see some *grow*.
+Monks who follow the Way of the Ancient Roots have learned from studying the simplest organisms, plants and fungi. And trough their studies they managed to control the flow of Ki in other beings.
+
+One may hold a seed of a fruit in the morning and go to sleep with a full harvest, this is the way we walk.
 
 <div style='margin-top:10px'></div>
 
@@ -141,9 +143,15 @@ Wisdom is your spellcasting ability for your monk spells. You use your Wisdom wh
 
 <br/>
 
-**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
+<div style="text-indent: 1em">
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+</div>
+
+<div style="text-indent: 1em">
 **Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+</div>
+
 
 
 #### Spellcasting Focus
@@ -226,8 +234,10 @@ As long you are wielding your *Living Weapon*, your martial dice becomes the wea
 
 You add  *Barkskin (PHB p217)*, *Beetlebomber's Fire Flowers*, *Cultivate*, *Fruity Explotion*, *Spike Growth (PHB p277)* and *Wolf Dust Mushroom* to your know spells list.
 
+<div style='margin-top:10px'></div>
+
 ### Monastic tradition (level 11)
-<br/>
+
 
 #### Green Foot
 
@@ -238,16 +248,15 @@ You gain the ability to move freely along plant and fungi surfaces. You may end 
 
 You add *Leaf Baloon*, *Green Fist* and *Wall of Plants* to your know spells list.
 
-### Monastic tradition (level 17)
 <div style='margin-top:10px'></div>
+
+### Monastic tradition (level 17)
 
 #### Ancient Tools of Soil
 
-Using an action and 4 Ki points you may touch a weapon that has been created by the *Living Weapon* ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a **living scythe**. 
+Using a bonus action and 4 Ki points you may touch a weapon that has been created by the *Living Weapon* ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a **living scythe**. 
 
 For the duration your weapon and spells now deal an extra 1d6 magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration. 
-
-<div style='margin-top:10px'></div>
 
 Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free.
 
@@ -255,9 +264,11 @@ Spells cast this way can be upcast if you pay the necesary Ki cost, minus the in
 
 You add *Last Meal* to your know spells list.
 
+<div style='margin-top:20px'></div>
+
 ### New spells
 
-<div style="position: absolute; z-index: 2; right: 72px; bottom: 378px; border-bottom: 2px solid #C0AD6A; width: 355px;">
+<div style="position: absolute; z-index: 2; right: 72px; bottom: 386px; border-bottom: 2px solid #C0AD6A; width: 355px;">
 	
 </div>
 
@@ -311,7 +322,7 @@ You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit co
 
 
 
-<div style='margin-top:145px'></div>
+<div style='margin-top:138px'></div>
 
 
 #### Extending Vines
@@ -554,7 +565,7 @@ For each size beyond large you may add an extra baloon to make them float at 15f
 **Components:**     :: S, M (A hard piece of wood, hard mushroom cap, large tree or large mushroom, which is consumed)
 **Duration:**       :: 1 minute
 
-You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** attack and move it up to 30ft.
+You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
 
 In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
 
@@ -562,23 +573,23 @@ The creature is an ally to you and your companions. It obeys your verbal command
 
 If the ***Green Fist*** was summoned by consuming as component for the spell a large tree or large mushroom, the damage of ***Nature's Force*** increases by one *martial arts dice* or *1d8*. 
 
-<br/>
+<div style='margin-top:10px'></div>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the damage from the *Nature's Force* attack increases by *two martial arts dice* or *2d8* for each slot level above 5th.
-
-
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
 
 
 
 
-<img src='https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/green_fist.png' style='position:absolute;top:-10px;right:10px;width:170px;z-index:16' />
+
+
+<img height="130px" src='https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/Ancient%20Roots/green_fist.png' style='position:absolute;top:-10px;right:10px;z-index:16' />
 
 {{monster,frame
 ## Green Fist
 *Large plant, true neutral*
 ___
-**Armor Class** :: 15 (natural)
-**Hit Points**  :: *half your hp, rounded down.*
+**Armor Class** :: 11 + the level of the spell (natural armor)
+**Hit Points**  :: 50 + 10 for each spell level above 4th
 **Speed**       :: 30ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -587,7 +598,7 @@ ___
 ___
 **Condition Immunities**   :: blinded, charmed, deafned, exhaustion, frightened, prone
 **Damage Vulnerabilities** :: Fire
-**Senses**                 :: Has no senses, shares your knowledge of creature location.
+**Senses**                 :: Has no senses of it's own, shares your knowledge of creature location.
 **Proficiency Bonus (PB)**      :: equals your bonus
 **Saving Throws**          :: Str: *Str + PB*, Con: *4 + PB*
 **Skills**                 :: Athletics: *Str + PB*
@@ -600,9 +611,13 @@ ___
 
 
 ### Actions
+***Multiattack.*** The Green Fist makes two attacks.
+
+<br>
+
 ***Nature's Force.*** *Melee Weapon Attack:* *Str + PB* to hit, reach 5 ft., one target you can see. 
 
-3 times your *martial arts dice* or *3d8* + *Str* magic bludgeoning damage.
+2 times your *martial arts dice* or *2d8* + *Str* magic bludgeoning damage. For each spell level above 4th add one time your *martial arts dice* or *1d8* to the damage formula.
 }}
 
 
@@ -657,10 +672,9 @@ The wall is an object made of living mush and branches that can be damaged and t
 **Components:**     :: V, S, M (1 pound of spores dust, which is consumed)
 **Duration:**       :: instant
 
-You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium mushroom on the creature's body. 
+You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium size mushroom inside the creature's body, pulsating and devouring.
 
-
-On a hit the creature takes 3d10 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*. 
+On a hit the creature takes 3d10 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
 
 <!--
 #### Realm of Calmness
@@ -733,5 +747,5 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 12/09/2022, Spell version 1.08*
+*Made 09/12/2022, Spell version 1.09*
 }}
