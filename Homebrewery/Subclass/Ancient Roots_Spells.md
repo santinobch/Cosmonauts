@@ -327,7 +327,7 @@ You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit co
 | 11th  | 2       | Wall of Plants              					|
 | 11th  | 4       | Green Fist                  					|
 | 17th  | 4       | Freedom of Movement (PHB p244)				|
-| 17th  | 4       | Great Tree														|
+| 17th  | 4       | Great Tree (Edited version of Guardian of Nature, XGE p157)	|
 | 17th  | 3       | Last Meal                   					|
 }}
 
