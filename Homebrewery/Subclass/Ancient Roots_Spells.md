@@ -199,7 +199,7 @@ You may change them every time you level up on this class.
 
 
 #### Begginer's Roots
-You add *Caltrops's Spines*, *Entangle (PHB p238)* and *Extending Vines* to your know spells list.
+You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
 
 #### Living Weapon
@@ -232,7 +232,7 @@ As long you are wielding your *Living Weapon*, your martial dice becomes the wea
 
 #### Plant Connoisseur
 
-You add  *Barkskin (PHB p217)*, *Beetlebomber's Fire Flowers*, *Cultivate*, *Fruity Explotion*, *Spike Growth (PHB p277)* and *Wolf Dust Mushroom* to your know spells list.
+You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
 <div style='margin-top:10px'></div>
 
@@ -246,7 +246,7 @@ You gain the ability to move freely along plant and fungi surfaces. You may end 
 
 #### Master of the Watering Can
 
-You add *Leaf Baloon*, *Green Fist* and *Wall of Plants* to your know spells list.
+You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
 <div style='margin-top:10px'></div>
 
@@ -262,13 +262,13 @@ Spells cast this way can be upcast if you pay the necesary Ki cost, minus the in
 
 #### Gardening Leyend
 
-You add *Last Meal* to your know spells list.
+You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
 <div style='margin-top:20px'></div>
 
 ### New spells
 
-<div style="position: absolute; z-index: 2; right: 72px; bottom: 386px; border-bottom: 2px solid #C0AD6A; width: 355px;">
+<div style="position: absolute; z-index: 2; right: 72px; bottom: 402px; border-bottom: 2px solid #C0AD6A; width: 355px;">
 	
 </div>
 
@@ -280,49 +280,60 @@ You add *Last Meal* to your know spells list.
 *1-st level evocation*
 
 **Casting Time:**   :: 1 attack action
-**Range:**          :: 60ft./120ft.
+**Range:**          :: 30ft./60ft.
 **Components:**     :: V, S, M (A torny branch)
 **Duration:**       :: Instant
 
-You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make a ranged spell attack, 30ft. on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
+You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
 
 <div style='margin-top:10px'></div>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one *martial arts dice* or *1d6*.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one *martial arts dice* or *1d4*.
 
 
 <div style='margin-top:200px'></div>
-<br/>
-<div style='margin-top:80px'></div>
+
 
 ### Ancient Roots Spells List
 
 
 {{classTable,frame
 
-| Lv. in this class | Ki Cost / Spell Lv. | Spell |
-|:-----:|:-------:|:----------------------------|
+| Lv. in this class | Spell Lv. | Spell |
+|:-----:|:-------:|:--------------------------------------|
 |  3rd  | Cantrip | 1st cantrip from the druid spell list |
 |  3rd  | Cantrip | 2nd cantrip from the druid spell list |
-|  3rd  | 1       | Caltrops's Spines           |
-|  3rd  | 1       | Entangle (PHB p238)         |
-|  3rd  | 1       | Extending Vines             |
-|  6th  | 1       | Beetlebomber's Fire Flowers |
-|  6th  | 1       | Cultivate                   |
-|  6th  | 1       | Wolf Dust Mushroom          |
-|  6th  | 2       | Barkskin (PHB p217)         |
-|  6th  | 2       | Fruity Explotion            |
-|  6th  | 2       | Spike Growth (PHB p277)     |
-| 11th  | 1       | Leaf Baloon                 |
-| 11th  | 2       | Wall of Plants              |
-| 11th  | 4       | Green Fist                  |
-| 17th  | 3       | Last Meal                   |
+|  3rd  | 1       | Caltrops's Spines           					|
+|  3rd  | 1       | Detect Magic (PHB p231)     					|
+|  3rd  | 1       | Detect Poison and Disease (PHB p231)  |
+|  3rd  | 1       | Entangle (PHB p238)         					|
+|  3rd  | 1       | Extending Vines             					|
+|  3rd  | 1       | Purify Food and Drink (PHB p270)			|
+|  3rd  | 1       | Snare (XGE p165)											|
+|  6th  | 1       | Beetlebomber's Fire Flowers 					|
+|  6th  | 1       | Continual Flame (PHB p227)						|
+|  6th  | 1       | Cultivate                   					|
+|  6th  | 1       | Hold Person (PHB p251)       					|
+|  6th  | 1       | Pass Withut Trace (PHB p264) 					|
+|  6th  | 1       | Protection from Poison (PHB p270)			|
+|  6th  | 1       | Wolf Dust Mushroom          					|
+|  6th  | 2       | Barkskin (PHB p217)         					|
+|  6th  | 2       | Fruity Explotion            					|
+|  6th  | 2       | Spike Growth (PHB p277)     					|
+| 11th  | 1       | Erupting Earth (XGE p155)    					|
+| 11th  | 1       | Leaf Baloon                 					|
+| 11th  | 1       | Plant Growth (PHB p266)    					  |
+| 11th  | 1       | Speak with Plants (PHB p277)    		  |
+| 11th  | 2       | Wall of Plants              					|
+| 11th  | 4       | Green Fist                  					|
+| 17th  | 4       | Freedom of Movement (PHB p244)				|
+| 17th  | 4       | Great Tree														|
+| 17th  | 3       | Last Meal                   					|
 }}
 
 
 
-
-<div style='margin-top:138px'></div>
+<div style='margin-top:20px'></div>
 
 
 #### Extending Vines
@@ -452,7 +463,7 @@ They can pass trough a hole an inch in diameter and can *root* themselves to the
 
 **Casting Time:**   :: 1 action
 **Range:**          :: Self (10ft cone) 
-**Components:**     :: V, M (Two flower buds, which are consumed)
+**Components:**     :: V, M (Two flower buds)
 **Duration:**       :: Instant
 
 You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 10ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3 times your *martial arts dice* or 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
@@ -512,7 +523,7 @@ The spores are extremly flamable any contact with fire will light them up, and a
 
 You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice. 
 
-A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices, their walking speed gets reduced in half.
+A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices, their walking speed gets reduced in half as they have to walk carefully to not slip.
 
 The juice is flamable, a creature set a flame recieves your *martial arts dice or 1d6* as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.
 
@@ -562,14 +573,14 @@ For each size beyond large you may add an extra baloon to make them float at 15f
 
 **Casting Time:**   :: 1 bonus action
 **Range:**          :: 5ft.
-**Components:**     :: S, M (A hard piece of wood, hard mushroom cap, large tree or large mushroom, which is consumed)
+**Components:**     :: S, M (A hard piece of wood/hard mushroom cap, not consumed or large tree/large mushroom, which is consumed)
 **Duration:**       :: 1 minute
 
 You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
 
 In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
 
-The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. The creature rots when it drops to 0 hit points or when the spell ends.
+The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it's still alive.
 
 If the ***Green Fist*** was summoned by consuming as component for the spell a large tree or large mushroom, the damage of ***Nature's Force*** increases by one *martial arts dice* or *1d8*. 
 
@@ -663,6 +674,21 @@ The wall is an object made of living mush and branches that can be damaged and t
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to 40 cubes or 80 half-cubes.
 
+#### Great Tree
+*4-th level evocation*
+
+**Casting Time:**   :: 1 bonus action
+**Range:**          :: Self
+**Components:**     :: V
+**Duration:**       :: Concentration, up to 1 minute
+
+Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
+- You gain 10 temporary hit points.
+- You make Constitution saving throws with advantage.
+- You make Dexterity- and Wisdom-based attack rolls with advantage.
+- While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
+
+
 
 #### Last Meal
 *3-rd level evocation*
@@ -677,7 +703,7 @@ You throw a bag of spores to a creature in range of the spell from you, make a r
 On a hit the creature takes 3d10 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
 
 <!--
-#### Realm of Calmness
+#### Mouth of the Garden
 *4-th level evocation*
 
 **Casting Time:**   :: 1 action
@@ -685,8 +711,6 @@ On a hit the creature takes 3d10 magic necrotic damage. Either if it hits or mis
 **Components:**     :: V, S, M (1 seed or 1/16 pounds of spores from a magical plant/mushroom, which is consumed)
 **Duration:**       :: instant
 -->
-
-
 
 <div style='margin-top:400px'></div>
 
@@ -747,5 +771,5 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 09/12/2022, Spell version 1.09*
+*Made 10/12/2022, Spell version 1.10*
 }}
