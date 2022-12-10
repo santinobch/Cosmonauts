@@ -279,7 +279,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 #### Caltrops's Spines
 *1-st level evocation*
 
-**Casting Time:**   :: 1 attack action
+**Casting Time:**   :: 1 bonus action
 **Range:**          :: 30ft./60ft.
 **Components:**     :: V, S, M (A torny branch)
 **Duration:**       :: Instant
