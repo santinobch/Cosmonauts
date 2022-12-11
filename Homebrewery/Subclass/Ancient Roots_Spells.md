@@ -802,7 +802,7 @@ We only played vanilla races from the *PHB*, i choosed a ***Wood Elf*** for my c
 
 My background was *Acolyte*, my proficient skills were: *Acrobatics, Stealth, Religion, Insight and Perception*. 
 
-I also picked a tool proficiency from the Monk class, i choose the "Herbalism Kit" as i saw it would make a great fit for the subclass.
+I also picked a tool proficiency from the Monk class, after everyone in the table was astonished that "Herbalism Kit" was not an Artisian Tool, my DM allowed me to pick it, it makes a great fit for the subclass thematically.
 
 <br/>
 
