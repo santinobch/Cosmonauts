@@ -32,7 +32,7 @@
   - Picking also ***Martial adept***:           32%
   - Picking also ***Figthing initiate***:       32.57%
   
-### At high levels you may have a +3 weapon, lets take tht in consideration:
+### At high levels you may have a +3 weapon, lets take that in consideration:
 
   - Only picking ***Elven Accuracy & Lucky***:  30.26%
   - Picking also ***Martial adept***:           35.11%
@@ -119,7 +119,7 @@ Weapon of choice (2 attacks + bonus action):
 
  **Crit 'Fishing':** Using ***Advantage + Lucky + Elven accuracy*** we can roll 4 times in a single attack, giving us a 1.3439 **Crit chance multiplier** damage in average. Last attack becomes a 1.271 **Crit chance multiplier**.
 
-  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + 2d4 ) x 1.3439 + 16 = 83,195‬
+  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + 2d4 ) x 1.3439 + 16 = 83,195
   > 
   > 2nd ( DSmite Lv 2 (4d8) + ESmite (5d8) + 2d4 ) x 1.3439 + 16 = 77,14745
   > 
@@ -127,9 +127,9 @@ Weapon of choice (2 attacks + bonus action):
   >  
   > 4th ( DSmite Lv 1 (3d8) + ESmite (2d8) + 1d4 ) x 1.2710 + 16 = 47,775
   > 
-  > **Total: 285,2649‬**
+  > **Total: 285,2649**
   >
-  > **With magic item: 297,2649‬**
+  > **With magic item: 297,2649**
 
   <br>
 
@@ -137,28 +137,28 @@ Weapon of choice (2 attacks + bonus action):
 
   ### ***Martial Adept*** gives us +2d6 & combat utility, this only affects 2 attacks:
 
-  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + 2d4 + 1d6 ) x 1.3439 + 16 = 87,89865‬
+  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + 2d4 + 1d6 ) x 1.3439 + 16 = 87,89865
   > 
-  > 2nd ( DSmite Lv 2 (4d8) + ESmite (5d8) + 2d4 + 1d6 ) x 1.3439 + 16 = 81,8511‬
+  > 2nd ( DSmite Lv 2 (4d8) + ESmite (5d8) + 2d4 + 1d6 ) x 1.3439 + 16 = 81,8511
   > 
-  > 3rd ( DSmite Lv 2 (4d8) + ESmite (5d8) + 2d4 ) x 1.3439 + 16 = 77,14745‬
+  > 3rd ( DSmite Lv 2 (4d8) + ESmite (5d8) + 2d4 ) x 1.3439 + 16 = 77,14745
   > 
   > 4th ( DSmite Lv 1 (3d8) + ESmite (2d8) + 1d4 ) x 1.2710 + 16 = 47,775
   > 
-  > **Total: 294,6722‬**
+  > **Total: 294,6722**
   >
-  > **With magic item: 306,6722‬**
+  > **With magic item: 306,6722**
 
 
-  ### With ***GWF*** (Fighting Initiate: Great Weapon Figther) you can reroll 1 & 2 from weapon damage (1,2178‬ chance multiplier):
+  ### With ***GWF*** (Fighting Initiate: Great Weapon Figther) you can reroll 1 & 2 from weapon damage (1,2178 chance multiplier):
 
-  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + (2d4 * 1,2178‬) + 1d6 ) x 1.3439 + 16 = 89,3621571‬
+  > 1st ( DSmite Lv 2 (5d8) + ESmite (5d8) + (2d4 * 1,2178) + 1d6 ) x 1.3439 + 16 = 89,3621571
   > 
-  > 2nd ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178‬) + 1d6 ) x 1.3439 + 16 = 83,4877
+  > 2nd ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178) + 1d6 ) x 1.3439 + 16 = 83,4877
   > 
-  > 3rd ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178‬) ) x 1.3439 + 16 = 78,6109571‬
+  > 3rd ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178) ) x 1.3439 + 16 = 78,6109571
   > 
-  > 4th ( DSmite Lv 1 (3d8) + ESmite (2d8) + (1d4 * 1,2178‬) ) x 1.2710 + 16 = 48,5067
+  > 4th ( DSmite Lv 1 (3d8) + ESmite (2d8) + (1d4 * 1,2178) ) x 1.2710 + 16 = 48,5067
   > 
   > **Total: 299,9675142**
   >
@@ -167,3 +167,24 @@ Weapon of choice (2 attacks + bonus action):
   <br>
   
    ***A +3 weapon gives us an extra +12 damage so 312 damage!***
+
+## Honorable mentions
+
+- Muticlassing into Druid, Circle of the Spores 2/5 levels. The `Symbiotic Entity` ability gives us an extra `1d6` to attacks but makes us waste an action to activate it, we also would need to sacrifice sorcerer levels, which would mean we need to use haste by other means, maybe potion of speed or spell scroll.
+- Multiclassing into Wizard, School of divination for 5 levels, sacrificing sorcerer levels. This gives us access to two more d20 per day, upping our crit chance. It does come with some disadvantages: We lose constitution saving trows proficiency, which is a nice have when casting `Haste`, and we lose `Twinned spell`.
+  
+The resulting damage from this path is the following: 
+
+|  Attack Nº  | New crit modifier |                       New formula (Base + MA + GWF)                         | Average Total |
+|:-----------:|:-----------------:|-----------------------------------------------------------------------------|---------------|
+|     1st     | 1.40951           | ( DSmite Lv 2 (5d8) + ESmite (5d8) + (2d4 * 1,2178) + 1d6 ) x 1.40951 + 16  | 92,94374139   |
+|     2nd     | 1.3439            | ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178) + 1d6 ) x 1.3439 + 16   | 83,4877       |
+|     3rd     | 1.3439            | ( DSmite Lv 2 (4d8) + ESmite (5d8) + (2d4 * 1,2178) ) x 1.3439 + 16         | 78,6109571    |
+|     4th     | 1.3439            | ( DSmite Lv 1 (3d8) + ESmite (2d8) + (1d4 * 1,2178) ) x 1.3439  + 16        | 50,32925355   |
+
+
+Total Damage: 305,37165204
+
+With +3 weapon: 317,37165204
+
+Used this website for dice probability: https://www.omnicalculator.com/statistics/dice
