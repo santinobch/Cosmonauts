@@ -311,11 +311,11 @@ You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit co
 |  3rd  | 1       | Purify Food and Drink (PHB p270)			|
 |  3rd  | 1       | Snare (XGE p165)											|
 |  6th  | 1       | Beetlebomber's Fire Flowers 					|
-|  6th  | 1       | Continual Flame (PHB p227)						|
+|  6th  | 2       | Continual Flame (PHB p227)						|
 |  6th  | 1       | Cultivate                   					|
-|  6th  | 1       | Hold Person (PHB p251)       					|
-|  6th  | 1       | Pass Withut Trace (PHB p264) 					|
-|  6th  | 1       | Protection from Poison (PHB p270)			|
+|  6th  | 2       | Hold Person (PHB p251)       					|
+|  6th  | 2       | Pass Withut Trace (PHB p264) 					|
+|  6th  | 2       | Protection from Poison (PHB p270)			|
 |  6th  | 1       | Wolf Dust Mushroom          					|
 |  6th  | 2       | Barkskin (PHB p217)         					|
 |  6th  | 2       | Fruity Explotion            					|
@@ -323,7 +323,7 @@ You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit co
 | 11th  | 1       | Erupting Earth (XGE p155)    					|
 | 11th  | 1       | Leaf Baloon                 					|
 | 11th  | 1       | Plant Growth (PHB p266)    					  |
-| 11th  | 1       | Speak with Plants (PHB p277)    		  |
+| 11th  | 3       | Speak with Plants (PHB p277)    		  |
 | 11th  | 2       | Wall of Plants              					|
 | 11th  | 4       | Green Fist                  					|
 | 17th  | 4       | Freedom of Movement (PHB p244)				|
@@ -553,11 +553,11 @@ If a creature is covered in juice and other flamable material use the highest da
 **Components:**     :: V, S, M (A white leaf)
 **Duration:**       :: 1 minute
 
-You create a sphere of silky white leaves, it rapidly bulks up as it becomes filled with air, slowly it floats upwards. 
+You create a sphere of silky white leaves, it rapidly bulks up as it becomes filled with air, slowly it floats upwards up to a height of 60ft. from the floor. 
 
 A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons adds to the floating velocity.
 
-For each size beyond large you may add an extra baloon to make them float at 15ft.
+For each size beyond large you may add an extra baloon to make them float at 15ft. per round.
 
 <br/>
 
@@ -675,7 +675,7 @@ The wall is an object made of living mush and branches that can be damaged and t
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to 40 cubes or 80 half-cubes.
 
 #### Great Tree
-*4-th level evocation*
+*4-th level transmutation*
 
 **Casting Time:**   :: 1 bonus action
 **Range:**          :: Self
@@ -773,3 +773,39 @@ Thanks to my dudes <3
 
 *Made 10/12/2022, Spell version 1.10*
 }}
+
+\page
+
+### Testing
+
+This supplement was tested by playing **"Curse of Strad"**, for our setting we used rules from supplements up to *"Tasha's Cauldron of Everything"*. 
+
+It is my intention to play this subclass as normally as i can, without min maxing. I will not multiclass.
+
+<br/>
+
+In our game we banned some spells that came after the initial *PHB* spells, the DM was trying to have a very vanilla campaign. No spells were banned from this subclass.
+
+We only played vanilla races from the *PHB*, i choosed a ***Wood Elf*** for my character. We used point buy for character creation, *TCE* ability score swapping was not allowed.
+
+##### Test Character initial Ability Scores
+| 		Ability 	| 	Score 	|
+|:-------------:|:----------|
+| Strenght      | 8 (-1)    |
+| Dexterity     | 14 (+2)   |
+| Constitution  | 14 (+2)   |
+| Intelligence  | 12 (+1)   |
+| Wisdom   			| 16 (+3)   |
+| Charisma   		| 13 (+1)   |
+
+My background was *Acolyte*, my proficient skills were: *Acrobatics, Stealth, Religion, Insight and Perception*. 
+
+I also picked a tool proficiency from the Monk class, i choose the "Herbalism Kit" as i saw it would make a great fit for the subclass.
+
+<br/>
+
+The other two players choose to play a **Bard** (College of Glamour) and a **Tamer** (Homebrew, see Heliana's Guide to Monster Hunting).
+
+#### Sesion 0 notes
+
+No remarks.
