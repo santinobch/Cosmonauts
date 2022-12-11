@@ -284,11 +284,13 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 **Components:**     :: V, S, M (A torny branch)
 **Duration:**       :: Instant
 
-You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
+You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. 
+
+Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
 
 <div style='margin-top:10px'></div>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one *martial arts dice* or *1d4*.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *martial arts dice* or *1d4*.
 
 
 <div style='margin-top:200px'></div>
@@ -809,3 +811,95 @@ The other two players choose to play a **Bard** (College of Glamour) and a **Tam
 #### Sesion 0 notes
 
 No remarks.
+
+### Game Min Maxing
+
+Here are some thoughts about how this sublclass can sinergise with other features.
+
+#### Battle Master / Maneuvers
+
+This subclass focuses on a utility oriented monk, adding maneuvers is always a plus for any martial subclass either from multiclassing or feats. **I don't see this to be unbalanced**.
+
+#### Caster multiclassing
+
+We only have two options if we are using point buy *Driud* or *Cleric*. 
+
+**In general.** I don't see *"Plant Bender"* with it's added 60ft. of range affecting play, that being said adding range to touch spells may create some shenanigans. Having access more spell slots does not appear to affect play.
+
+**Druid.** I don't see this subclass benefiting much from the base class abilities.
+
+*Circle of the Spores* seems to be the most apropiate for multiclassing with it's added *1d6* of damage to melee weapon attacks, while also being in theme. 
+
+The *Sheperd Circle* may be good with it's *Bear Spirit* totem giving you temporary HP.
+
+<br/>
+
+**Cleric.** I don't see this subclass benefiting much from the base class abilities.
+
+I found three subclasses that would be interesting to multiclass: *Peace Domain, Tempest Domian and Twilight Domain*.
+
+*Peace Domain* gives quite good utility spells and the *"Emboldening Bond"* ability is good for an ambush.
+
+*Tempest Domain* gives you more damaging spells and something to do with your reaction: moar damage.
+
+*Twilight Domain*: I know tables that **ban** this subclass, the second level ability of *1d6 temporary HP* every turn, without concentration is strong and you can also end the *charmed* and *frightned* condition of any creature in the area. Indeed very strong.
+
+#### Feats
+
+- Crusher
+- Fighting Initiate: Superior Technic
+- Martial Adept: Any two maneuvers, one that deals damage.
+
+#### Posible build
+
+- Any number of levels in this subclass you wish.
+- At least two levels in Druid, Circle of Spores, can be more.
+- Two levels in Cleric, Tempest Domain.
+- Maybe grab the *Martial Adept* Feat.
+
+
+**Level 10th build.**
+
+Monk, Way of the Ancient Roots, 6 levels.
+
+Druid, Circle of Spores, 4 levels.
+
+<br/>
+
+As a starter, you activate *Symbiotic Entity* (Druid), this strategy works better on an ambush due to you having to "waste" you action and wait for next turn.
+
+On the next turn you can do 4 attacks using *Fury of Blows*, lets suppose our PC has maxed wisdom, this means they can do 4 * (1d8 + 1d6 + 5), and we can add 2d6 with maneuvers, giving us 59 average damage. 
+
+For a comparasion a rogue can make about 28 damage at that level with a rapier.
+
+Except for the increased damage of fury of blows (a d8 instead of a d6) this is the damage any monk can do if they multiclass into druid. Lets do a higher level build.
+
+\page
+
+**Level 15th Build.**
+
+Monk, Way of the Ancient Roots, 11 levels.
+
+Druid, Circle of Spores, 4 levels.
+
+<br/>
+
+We want acces to "Summon Green Fist" as it has decent damage. Let's add the Green fist to our calculations:
+
+<br/>
+
+2 * (1d10 + 1d6 + 5) + 2 * (2d10 + 5) + 2d6 = **67 Average damage**
+
+<br/>
+
+It's a bit more, but not by a lot, by upcasting green fist to level 5 we can reach **78 average damage**, but we limit anything else we can do in battle, as we are only left with 3 Ki points.
+
+But we can consistently deal this damage, minus the maneuvers, as we are not wasting resources. Dealing an average of **71 Damage** on subsequent turns.
+
+<br/>
+
+A caster can consistently deal 40+ damage by upcasting fireball to a group of creatures.
+
+#### Conclusion
+
+Multiclassing does not seem unbalanced.
