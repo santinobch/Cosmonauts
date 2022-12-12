@@ -1,0 +1,554 @@
+{
+    "_meta": {
+		"sources": [
+			{
+				"json": "Filkiati",
+				"abbreviation": "Fil",
+				"full": "Filkiati Booster Pack - Way of the Ancient Roots",
+				"authors": [
+					"Vito"
+				],
+				"convertedBy": [
+					"Vito"
+				],
+				"version": "1.10",
+				"url": "",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1632430583,
+		"dateLastModified": 1632430586
+	},
+	"subclass": [
+		{
+			"name": "Way of the Ancient Roots",
+			"shortName": "Ancient Roots",
+			"source": "Fil",
+			"subclassFeatures": [
+				"Way of the Ancient Roots|Monk||Ancient Roots|Fil|3",
+
+				"Fury of Sticks|Monk||Ancient Roots|Fil|6",
+				"Plant Connoisseur|Monk||Ancient Roots|Fil|6",
+
+				"Green Foot|Monk||Ancient Roots|Fil|11",
+				"Master of the Watering Can|Monk||Ancient Roots|Fil|11",
+
+				"Ancient Tools of Soil|Monk||Ancient Roots|Fil|17",
+				"Gardening Leyend|Monk||Ancient Roots|Fil|17"
+			],
+            "className": "Monk",
+			"classSource": "PHB"
+		}
+	],
+	"subclassFeature": [
+		{
+			"name": "Way of the Ancient Roots",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"entries": [
+				"Monks who follow the Way of the Ancient Roots have learned from studying the simplest organisms, plants and fungi. And trough their studies they managed to control the flow of Ki in other beings.",
+
+				"One may hold a seed of a fruit in the morning and go to sleep with a full harvest, this is the way we walk",
+
+				{
+					"type": "quote",
+					"entries": [
+						"Some call my control of Ki magical, i don’t see the magic in watering the plants of the temple. You can do this damn job if you want. I’m already to old to be henching my back this much."
+					],
+					"by": "Rembras Triadona",
+					"from": ""
+				},
+
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Spellcasting|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Spell-Fueled Attack|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Cantrips|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Begginer's Roots|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Living Weapon|Monk||Ancient Roots|Fil|3"
+				}
+			]
+		},
+		{
+			"name": "Spellcasting",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Spellcasting ability|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Spellcasting focus|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Plant Bender|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Ki Casting|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Ki Upcasting|Monk||Ancient Roots|Fil|3"
+				}
+			]
+		},
+		{
+			"name": "Spellcasting ability",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"Wisdom is your spellcasting ability for your monk spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a monk spell you cast and when making an attack roll with one. In addition, you use your Wisdom modifier when setting the saving throw DC for a monk spell you cast and when making an attack roll with one",
+				{
+					"type": "abilityDc",
+					"name": "Spell",
+					"attributes": [
+						"wis"
+					]
+				},
+				{
+					"type": "abilityAttackMod",
+					"name": "Spell",
+					"attributes": [
+						"wis"
+					]
+				},
+				"<br/>"
+			]
+		},
+		{
+			"name": "Spellcasting focus",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"To cast your monk spells you may use a Plant Focus, it can be anything that it’s a plant or fungi as long as it is alive."
+			]
+		},
+		{
+			"name": "Plant Bender",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"As long as you are touching a focus, you may choose to cast a spell from any of it’s surfaces, distant branches, roots, flowers, etc… are valid up to a range of 60ft. Spells that consume materials also can be cast from any point of the focus, but you still require the materials."
+			]
+		},
+		{
+			"name": "Ki Casting",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"As a monk you don’t have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the Ancient Roots Spells List."
+			]
+		},
+		{
+			"name": "Ki Upcasting",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"When you cast a spell you can spend additional ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.",
+
+				"For example, if you cast “Wall of Plants”, you can spend 4 ki points to cast it as a 3rd-level spell (the spells’s base cost of 2 ki plus 2 ki for the upcast)."
+			]
+		},
+
+		{
+			"name": "Spell-Fueled Attack",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"If you cast a spell part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn."
+			]
+		},
+
+		{
+			"name": "Cantrips",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"At 3rd level you gain knowledge of two cantrips from the druid spell list.",
+
+				"You may change them every time you level up on this class."
+			]
+		},
+		{
+			"name": "Begginer's Roots",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+			]
+		},
+		{
+			"name": "Living Weapon",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a quarterstaff that does 1d6 bludgeoning damage. It has the Finesse and Light properties.",
+
+				"You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon.",
+				
+				"The staff is considered alive. The staff instantly rots if you use this ability again, it’s dispelled or dies.",
+				
+				"Your magical staff damage increases when you reach 5th level (1d8), 11th level (1d10), and 17th level (1d12)."
+			]
+		},
+
+		{
+			"name": "Fury of Sticks",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 6,
+			"header": 1,
+			"entries": [
+				"As long you are wielding your Living Weapon, your martial dice becomes the weapon’s damage dice."
+			]
+		},
+		{
+			"name": "Plant Connoisseur",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 6,
+			"header": 1,
+			"entries": [
+				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+			]
+		},
+		{
+			"name": "Green Foot",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 11,
+			"header": 1,
+			"entries": [
+				"You gain the ability to move freely along plant and fungi surfaces. You may end your turn on a wall or ceilling, as long as that space is covered in plants or fungi, you will not fall."
+			]
+		},
+		{
+			"name": "Master of the Watering Can",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 11,
+			"header": 1,
+			"entries": [
+				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+			]
+		},
+		{
+			"name": "Ancient Tools of Soil",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 17,
+			"header": 1,
+			"entries": [
+				"Using a bonus action and 4 Ki points you may touch a weapon that has been created by the Living Weapon ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a living scythe.",
+
+				"For the duration your weapon and spells now deal an extra 1d6 magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops’s Spines and Wall of Plants for free, at their lowest levels, for the duration.",
+				
+				"Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free."
+			]
+		},
+
+		{
+			"name": "Gardening Leyend",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 17,
+			"header": 1,
+			"entries": [
+				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+			]
+		}
+	],
+
+    "spell": [
+        {
+            "name": "Caltrops's Spines",
+			"source": "Fil",
+			"level": 1,
+			"school": "E",
+            "time": [
+				{
+					"number": 1,
+					"unit": "attack action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "A torny branch"
+			},
+            "duration": [
+				{
+					"type": "instant",
+					"ends": [
+						"dispel"
+					]
+				}
+			],
+            "entries": [
+				"You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make a ranged spell attack, 30ft. on a hit deal your martial arts dice or 1d4 plus spell ability modifier magical piercing damage.",
+
+				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one martial arts dice or 1d6."
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        }
+    ],
+
+	"optionalfeature": [
+
+		{
+			"name": "Fruity Explotion",
+			"source": "Fil",
+			"page": 1,
+			"featureType": [
+				"FT"
+			],
+			"prerequisite": [
+				{
+					"level": {
+						"level": 6,
+						"class": {
+							"name": "Monk"
+						}
+					},
+					"item": [
+						"A seed"
+					]
+				}
+			],
+			"entries": [
+				"{@i Ki cost: 2}", 
+				"{@i Casting time: 1 action}",
+				"{@i Range: 30ft}", 
+				"{@i Components: M (A seed, which is consumed)}",
+				"{@i Duration: Instant}",
+				"<br/>",
+				"You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice.",
+				"A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices it must succed a dexterity saving throw against your spell save DC every time it decides to start to move or be nocked prone and loose half it's movement.",
+				"The juice is flamable, a creature set a flame recieves your Martial Arts Dice as magic fire damage at the start of every turn for a minute or till extinguished.",
+				"The fire damage it's not stackable if you splash a creature with more juice or oil."
+			]
+		}
+	],
+
+	"monster": [
+		{
+			"name": "Green Fist",
+			"source": "Fil",
+			"page": 1,
+			"summonedBySpell": "Summon Green Fist|Fil",
+			"summonedBySpellLevel": 4,
+			"size": [
+				"L"
+			],
+			"type": "plant",
+			"ac": [
+				{
+					"special": "11 + the level of the spell (natural armor)"
+				}
+			],
+			"hp": {
+				"special": "50 + 10 for each spell level above 4th"
+			},
+			"speed": {
+				"walk": 30
+			},
+
+			"dex": 14,
+			"con": 18,
+			"int": 6,
+			"wis": 12,
+			"cha": 10,
+
+			"save": {
+				"str": "Strenght plus PB",
+				"con": "4 plus PB"
+			},
+			"skill": {
+				"athletics": "Strenght plus PB"
+			},
+
+			"senses": [
+				"Has no senses of it’s own, shares your knowledge of creature location."
+			],
+			"passive": 10,
+			"vulnerable": [
+				"fire"
+			],
+			"conditionImmune": [
+				"blinded",
+				"charmed",
+				"deafned",
+				"exhaustion",
+				"frightened",
+				"unconscious",
+				"prone"
+			],
+			"languages": [
+				"None"
+			],
+			"pbNote": "Equals your bonus",
+			"trait": [
+				{
+					"name": "Ancient Link",
+					"entries": [
+						"The Green Fist’s Strenght modifier is equal to your spell ability modifier. It also shares your Proficiency Bonus (PB)."
+					]
+				},
+				{
+					"name": "Massive",
+					"entries": [
+						"The Green Fist may provide half cover."
+					]
+				}
+			],
+			"actionNote": "Requires Your Bonus Action",
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The Green Fist makes two attacks."
+					]
+				},
+				{
+					"name": "Nature’s Force",
+					"entries": [
+						"{@atk mw} {@hitYourSpellAttack} to hit, reach 5 ft., one target you can see. {@h}{@damage 2 times your martial arts dice or  2d8 + Strenght } bludgeoning damage.",
+						"For each spell level above 4th add {@h}{@damage one time your martial arts dice or 1d8} to the damage formula."
+					]
+				}
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"damageTags": [
+				"B"
+			],
+			"hasToken": true,
+			"tokenUrl": "https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/green_fist.png"
+		}
+	]
+}
