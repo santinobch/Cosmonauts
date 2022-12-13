@@ -272,8 +272,6 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 	
 </div>
 
-<div style='margin-top:10px'></div>
-
 
 
 #### Caltrops's Spines
@@ -322,9 +320,9 @@ Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plu
 |  6th  | 2       | Barkskin (PHB p217)         					|
 |  6th  | 2       | Fruity Explotion            					|
 |  6th  | 2       | Spike Growth (PHB p277)     					|
-| 11th  | 1       | Erupting Earth (XGE p155)    					|
+| 11th  | 3       | Erupting Earth (XGE p155)    					|
 | 11th  | 1       | Leaf Baloon                 					|
-| 11th  | 1       | Plant Growth (PHB p266)    					  |
+| 11th  | 3       | Plant Growth (PHB p266)    					  |
 | 11th  | 3       | Speak with Plants (PHB p277)    		  |
 | 11th  | 2       | Wall of Plants              					|
 | 11th  | 4       | Green Fist                  					|
@@ -346,17 +344,13 @@ Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plu
 **Components:**     :: M (A piece of a dried climbing plant)
 **Duration:**       :: Instant
 
-Vines sprout to any direction you choose. You may pull/push/hold on to any thing within the range of the spell using the vines. 
-
-If you are trying to **pull/push/hold** an unwilling creature they must make an athletics or acrobatics check against your spell save DC. 
+Vines sprout to any direction you choose. Choose a target which if unwilling, they must make an athletics or acrobatics check against your spell save DC. On a fail choose one the following effects:
 
 **Push or pull:** on a fail they are pushed or pulled 10ft. in the direction of your choosing. 
 
 **Hold**: on a fail their speed becomes 0 and can’t benefit from any bonus to their speed. 
 
-A creature can use their action to break the vines.
-
-
+If you are aiming for a target the vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.
 
 
 
@@ -447,11 +441,8 @@ style='position:absolute;bottom:140px;right:-50px;width:200px;'
 
 <!-- End Blending Area -->
 
-The vines can be used as improvised common rope. 
+The vines can be used as improvised common rope
 
-If you are aiming for a target the vines can twist around corners but you must be able to see the target. 
-
-They can pass trough a hole an inch in diameter and can *root* themselves to the ground and walls, *as long as the DM allows it to stick to those surfaces*. 
 
 <br/>
 
@@ -464,11 +455,11 @@ They can pass trough a hole an inch in diameter and can *root* themselves to the
 *1-st level evocation*
 
 **Casting Time:**   :: 1 action
-**Range:**          :: Self (10ft cone) 
+**Range:**          :: Self (15ft cone) 
 **Components:**     :: V, M (Two flower buds)
 **Duration:**       :: Instant
 
-You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 10ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3 times your *martial arts dice* or 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
+You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 15ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3 times your *martial arts dice* or 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
 
 <div style='margin-top:20px'></div>
 
@@ -481,7 +472,7 @@ You blossom 2 flowers in your hand, as they touch each other they react. A hot s
 
 **Casting Time:**   :: 1 action
 **Range:**          :: Touch
-**Components:**     :: S
+**Components:**     :: S, M (Depends on effect)
 **Duration:**       :: Instant
 
 You may choose one of the following effects:
@@ -490,14 +481,14 @@ You may choose one of the following effects:
 
 * Provided of a suitable ground (Earth, clay, sand, etc...), grow a patch of moss or mycelium from a *seed or 1/16 pounds of spores*. The patch is a 30ft. square centered on you, it can cover vertical surfaces.
 
-* Create 2 *Goodberries* from a bush or 5 from a tree. A *Goodberry* provides enough food an water for a day and lasts for a week without going rotten.
+* Create 2 *Goodberries* from a bush or 5 from a tree. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
 
 * Create a *Fruit of Fertility* from a bush or tree which contains 50 seeds that last fresh for a month.
 
 * From 1 ration of food, which is consumed, create a *Fungus of Propagation*, you may take a pound of spores from it. 
 You may take 1 pound of spores each day by feeding it 1 ration of food each day. Spores last fresh for a month.
 
-* Touching a living tree create a simple object or objects made out of wood, that must fit in a 3ft cube. If the object is complex in nature you may require proficiency in Artisan's Tools to make it.
+* Touching a living tree create a simple object or objects made out of wood, that must fit in a 3ft cube, part of the tree is consumed. If the object is complex in nature you may require proficiency in Artisan’s Tools to make it.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level, you may instead use a bonus action instead of an action to cast it.
 
@@ -520,7 +511,7 @@ The spores are extremly flamable any contact with fire will light them up, and a
 
 **Casting Time:**   :: 1 action
 **Range:**          :: 30ft.
-**Components:**     :: V, S, M (A seed)
+**Components:**     :: V, S, M (A seed, which is consumed)
 **Duration:**       :: Instant
 
 You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice. 
@@ -570,7 +561,7 @@ For each size beyond large you may add an extra baloon to make them float at 15f
 
 
 #### Summon Green Fist
-*4-th level transmutation*
+*4-th level conjuration*
 
 
 **Casting Time:**   :: 1 bonus action
@@ -609,10 +600,10 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |-      |14 (+2)|18 (+4)|6 (-2) |12 (+1) |10 (0) |
 ___
-**Condition Immunities**   :: blinded, charmed, deafned, exhaustion, frightened, prone
+**Condition Immunities**   :: blinded, charmed, deafned, exhaustion, frightened, prone, unconscious
 **Damage Vulnerabilities** :: Fire
 **Senses**                 :: Has no senses of it's own, shares your knowledge of creature location.
-**Proficiency Bonus (PB)**      :: equals your bonus
+**Proficiency Bonus (PB)** :: Equals your bonus
 **Saving Throws**          :: Str: *Str + PB*, Con: *4 + PB*
 **Skills**                 :: Athletics: *Str + PB*
 **Languages**              :: None
@@ -674,7 +665,7 @@ The wall is an object made of living mush and branches that can be damaged and t
 
 <br/>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to 40 cubes or 80 half-cubes.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
 
 #### Great Tree
 *4-th level transmutation*
@@ -702,7 +693,7 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 
 You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium size mushroom inside the creature's body, pulsating and devouring.
 
-On a hit the creature takes 3d10 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
+On a hit the creature takes 3d12 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
 
 <!--
 #### Mouth of the Garden

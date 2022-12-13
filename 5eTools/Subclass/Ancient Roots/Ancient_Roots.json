@@ -82,6 +82,10 @@
 				},
 				{
 					"type": "refSubclassFeature",
+					"subclassFeature": "Ancient Roots Spell List|Monk||Ancient Roots|Fil|3"
+				},
+				{
+					"type": "refSubclassFeature",
 					"subclassFeature": "Living Weapon|Monk||Ancient Roots|Fil|3"
 				}
 			]
@@ -187,7 +191,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As a monk you don’t have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the Ancient Roots Spells List."
+				"As a monk you don’t have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}."
 			]
 		},
 		{
@@ -233,7 +237,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"At 3rd level you gain knowledge of two cantrips from the druid spell list.",
+				"At 3rd level you gain knowledge of two cantrips from the {@filter druid spell list|spells|class=druid|level=0}.",
 
 				"You may change them every time you level up on this class."
 			]
@@ -249,7 +253,167 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
+			]
+		},
+		{
+			"name": "Ancient Roots Spell List",
+			"source": "Fil",
+			"className": "Monk",
+			"classSource": "PHB",
+            "page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Fil",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				{
+					"type": "table",
+					"colLabels": [
+						"Lv. in this class",
+						"Spell Lv.",
+						"Spell",
+						"Lv. in this class",
+						"Spell Lv.",
+						"Spell"
+					],
+					"colStyles": [
+						"col-1 text-center",
+						"col-1 text-center",
+						"col-4",
+						"col-1 text-center",
+						"col-1 text-center",
+						"col-4"
+					],
+					"rows": [
+						[
+							"3rd",
+							"Cantrip",
+							"1st cantrip from the {@filter druid spell list|spells|class=druid|level=0}",
+
+							"6th",
+							"2",
+							"{@spell Protection from Poison}"
+						],
+						[
+							"3rd",
+							"Cantrip",
+							"2nd cantrip from the {@filter druid spell list|spells|class=druid|level=0}",
+
+							"6th",
+							"1",
+							"{@spell Wolf Dust Mushroom|Fil}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Caltrops's Spines|Fil}",
+
+							"6th",
+							"2",
+							"{@spell Barkskin}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Detect Magic}",
+
+							"6th",
+							"2",
+							"{@spell Fruity Explotion|Fil}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Detect Poison and Disease}",
+
+							"6th",
+							"2",
+							"{@spell Spike Growth}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Entangle}",
+
+							"11th",
+							"3",
+							"{@spell Erupting Earth|XGE}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Extending Vines|Fil}",
+
+							"11th",
+							"1",
+							"{@spell Leaf Baloon|Fil}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Purify Food and Drink}",
+
+							"11th",
+							"3",
+							"{@spell Plant Growth}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Snare|XGE}",
+
+							"11th",
+							"3",
+							"{@spell Speak with Plants}"
+						],
+						[
+							"6th",
+							"1",
+							"{@spell Beetlebomber’s Fire Flowers|Fil}",
+
+							"11th",
+							"2",
+							"{@spell Wall of Plants|Fil}"
+						],
+						[
+							"6th",
+							"2",
+							"{@spell Continual Flame}",
+
+							"11th",
+							"4",
+							"{@spell Summon Green Fist|Fil}"
+						],
+						[
+							"6th",
+							"1",
+							"{@spell Cultivate|Fil}",
+
+							"17th",
+							"4",
+							"{@spell Freedom of Movement}"
+						],
+						[
+							"6th",
+							"2",
+							"{@spell Hold Person}",
+
+							"17th",
+							"4",
+							"{@spell Great Tree|Fil}"
+						],
+						[
+							"6th",
+							"2",
+							"{@spell Pass without Trace}",
+
+							"17th",
+							"3",
+							"{@spell Last Meal|Fil}"
+						]
+					]
+				}
 			]
 		},
 		{
@@ -263,13 +427,13 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a quarterstaff that does 1d6 bludgeoning damage. It has the Finesse and Light properties.",
+				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a quarterstaff that does {@damage 1d6} bludgeoning damage. It has the Finesse and Light properties.",
 
 				"You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon.",
 				
 				"The staff is considered alive. The staff instantly rots if you use this ability again, it’s dispelled or dies.",
 				
-				"Your magical staff damage increases when you reach 5th level (1d8), 11th level (1d10), and 17th level (1d12)."
+				"Your magical staff damage increases when you reach 5th level ({@damage 1d8}), 11th level ({@damage 1d10}), and 17th level ({@damage 1d12})."
 			]
 		},
 
@@ -298,7 +462,7 @@
 			"level": 6,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
 			]
 		},
 		{
@@ -326,7 +490,7 @@
 			"level": 11,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
 			]
 		},
 		{
@@ -340,9 +504,9 @@
 			"level": 17,
 			"header": 1,
 			"entries": [
-				"Using a bonus action and 4 Ki points you may touch a weapon that has been created by the Living Weapon ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a living scythe.",
+				"Using a bonus action and 4 Ki points you may touch a weapon that has been created by the {@subclassFeature Living Weapon|Monk|PHB|Ancient Roots|Fil|3} ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a living scythe.",
 
-				"For the duration your weapon and spells now deal an extra 1d6 magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops’s Spines and Wall of Plants for free, at their lowest levels, for the duration.",
+				"For the duration your weapon and spells now deal an extra {@damage 1d6} magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops’s Spines and Wall of Plants for free, at their lowest levels, for the duration.",
 				
 				"Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free."
 			]
@@ -359,7 +523,7 @@
 			"level": 17,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spells list as writen in the Ancient Roots Spells List"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
 			]
 		}
 	],
@@ -368,18 +532,20 @@
         {
             "name": "Caltrops's Spines",
 			"source": "Fil",
+
 			"level": 1,
-			"school": "E",
+			"school": "V",
             "time": [
 				{
 					"number": 1,
-					"unit": "attack action"
+					"unit": "bonus action"
 				}
 			],
             "range": {
 				"type": "point",
 				"distance": {
-					"type": "touch"
+					"type": "feet",
+					"amount": "30/60"
 				}
 			},
             "components": {
@@ -389,16 +555,619 @@
 			},
             "duration": [
 				{
-					"type": "instant",
-					"ends": [
-						"dispel"
-					]
+					"type": "instant"
 				}
 			],
             "entries": [
-				"You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. Make a ranged spell attack, 30ft. on a hit deal your martial arts dice or 1d4 plus spell ability modifier magical piercing damage.",
+				"You grow a pod of caltrop’s fruits, as you touch it the pod opens and a fruit covered in spines flies away.",
 
-				"At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one martial arts dice or 1d6."
+				"Make two ranged spell attacks, on a hit deal your {@damage martial arts dice} or {@damage 1d4} plus spell ability modifier magical piercing damage."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one {@damage martial arts dice} or {@damage 1d4}."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Extending Vines",
+			"source": "Fil",
+
+			"level": 1,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "bonus action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": "30"
+				}
+			},
+            "components": {
+				"m": "A piece of a dried climbing plant"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"Vines sprout to any direction you choose. Choose a target which if unwilling, they must make an athletics or acrobatics check against your spell save DC. On a fail choose one the following effects:",
+
+				"{@b Push or pull.} on a fail they are pushed or pulled 10ft. in the direction of your choosing.",
+
+				"{@b Hold.} on a fail their speed becomes 0 and can’t benefit from any bonus to their speed. A creature can use their action to break the vines.",
+
+				"If you are aiming for a target the vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.",
+
+				"The vines can be used as improvised common rope."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine’s range for 30ft more, per level."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Beetlebomber’s Fire Flowers",
+			"source": "Fil",
+
+			"level": 1,
+			"school": "V",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "cone",
+				"distance": {
+					"type": "feet",
+					"amount": 15
+				}
+			},
+            "components": {
+				"v": true,
+				"m": "Two flower buds"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 15ft. cone, a creature inside the cone’s area must succed a dexterity saving throw against your spell save DC or take 3 times your {@damage martial arts dice} or {@damage 3d6} magic fire damage. If a creature succeds it takes half the damage rounded down."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						" When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one {@damage martial arts dice} or {@damage 1d6}."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Cultivate",
+			"source": "Fil",
+
+			"level": 1,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+            "components": {
+				"s": true,
+				"m": "Depends on effect"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"You may choose one of the following effects:",
+				{
+					"type": "list",
+					"items": [
+						"Grow a seed or a bush into a bush or size large tree.",
+
+						"Provided of a suitable ground (Earth, clay, sand, etc…), grow a patch of moss or mycelium from a seed or 1/16 pounds of spores. The patch is a 30ft. square centered on you, it can cover vertical surfaces.",
+						
+						"Create 2 Goodberries from a bush or 5 from a tree. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
+						
+						"Create a Fruit of Fertility from a bush or tree which contains 50 seeds that last fresh for a month.",
+						
+						"From 1 ration of food, which is consumed, create a Fungus of Propagation, you may take a pound of spores from it. You may take 1 pound of spores each day by feeding it 1 ration of food each day. Spores last fresh for a month.",
+						
+						"Touching a living tree create a simple object or objects made out of wood, that must fit in a 3ft cube, part of the tree is consumed. If the object is complex in nature you may require proficiency in Artisan’s Tools to make it."
+					]
+				}
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level, you may instead use a bonus action instead of an action to cast it."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Wolf Dust Mushroom",
+			"source": "Fil",
+
+			"level": 1,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "1/16 pounds of spores dust, which is consumed"
+			},
+            "duration": [
+				{
+					"type": "minute",
+					"amount": 1
+				}
+			],
+            "entries": [
+				"You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the bag. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. Creatures in this area can’t see, except by wearing some eye protection and take your {@damage martial arts dice} or {@damage 1d6} magical necrotic damage at the start of their turn.",
+
+				"The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes your {@damage martial arts dice} or {@damage 1d6} as magic fire damage. This also removes the spore cloud."
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Leaf Baloon",
+			"source": "Fil",
+
+			"level": 1,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "A white leaf"
+			},
+            "duration": [
+				{
+					"type": "minute",
+					"amount": 1
+				}
+			],
+            "entries": [
+				"You create a sphere of silky white leaves, it rapidly bulks up as it becomes filled with air, slowly it floats upwards up to a height of 60ft. from the floor.",
+
+				"A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons adds to the floating velocity.",
+				
+				"For each size beyond large you may add an extra baloon to make them float at 15ft. per round."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level, increase the duration to 10 minutes. When you cast this spell using a spell slot of 3rd level, increase the duration to 1 hour. When you cast this spell using a spell slot of 4th level, increase the duration to 24 hours."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+
+
+		{
+            "name": "Fruity Explotion",
+			"source": "Fil",
+
+			"level": 2,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "A seed, which is consumed"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice.",
+
+				"A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn’t clean the juices, their walking speed gets reduced in half as they have to walk carefully to not slip.",
+
+				"The juice is flamable, a creature set a flame recieves your {@damage martial arts dice} or {@damage 1d6} as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.",
+
+				"If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones."
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Wall of Plants",
+			"source": "Fil",
+
+			"level": 2,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "A handful of roots or mycelium"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"A magical wall of living mush and branches springs into existence at a point you choose within range. The wall is composed of ten 10, 5ft cubes. Each cube must be contiguous with at least one other cube. Alternatively, you can create 20 half-cubes (2.5ft x 5ft. x 5ft).",
+
+				"If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.",
+				
+				"The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing cubes or ground to not fall. Thus, you can use this spell to bridge a chasm or create a ramp.",
+				
+				"If you create a span greater than 40 feet in length, you must create supports. You can crudely shape the wall to create crenellations, battlements, and so on.",
+				
+				"The wall is an object made of living mush and branches that can be damaged and thus breached. Each cube has AC 12 and 40 hit points. Each half-cube has AC 12 and 20 hit points. The wall is vulnerable to fire damage. Reducing a cube or half-cube to 0 hit points destroys it and might cause connected cubes to collapse at the DM’s discretion."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+
+		{
+            "name": "Last Meal",
+			"source": "Fil",
+
+			"level": 3,
+			"school": "V",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "1 pound of spores dust, which is consumed"
+			},
+            "duration": [
+				{
+					"type": "instant"
+				}
+			],
+            "entries": [
+				"You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium size mushroom inside the creature’s body, pulsating and devouring.",
+
+				"On a hit the creature takes {@damage 3d12} magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of Exhaustion, to a maximum of 3 levels of Exhaustion."
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+
+		{
+            "name": "Great Tree",
+			"source": "Fil",
+
+			"level": 4,
+			"school": "T",
+            "time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+            "components": {
+				"v": true,
+				"s": true,
+				"m": "1 pound of spores dust, which is consumed"
+			},
+            "duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+            "entries": [
+				"Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:",
+
+				{
+					"type": "list",
+					"items": [
+						"You gain 10 temporary hit points.",
+
+						"You make Constitution saving throws with advantage.",
+
+						"You make Dexterity- and Wisdom-based attack rolls with advantage.",
+
+						"While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies."
+					]
+				}
+			],
+			"classes": {
+				"fromSubclass": [
+					{
+						"class": {
+							"name": "Monk",
+							"source": "Fil"
+						},
+						"subclass": {
+							"name": "Way of the Ancient Roots",
+							"source": "Fil"
+						}
+					}
+				]
+			}
+        },
+		{
+            "name": "Summon Green Fist",
+			"source": "Fil",
+
+			"level": 4,
+			"school": "C",
+            "time": [
+				{
+					"number": 1,
+					"unit": "bonus action"
+				}
+			],
+            "range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+            "components": {
+				"s": true,
+				"m": "A hard piece of wood/hard mushroom cap, not consumed or large tree/large mushroom, which is consumed"
+			},
+            "duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					}
+				}
+			],
+            "entries": [
+				"You call forth a {@creature Green Fist|Fil} made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the Green Fist’s Nature’s Force multiattack and move it up to 30ft.",
+
+				"In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.",
+				
+				"The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don’t issue any, it takes the {@action Dodge} action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it’s still alive.",
+				
+				"If the {@creature Green Fist|Fil} was summoned by consuming as component for the spell a large tree or large mushroom, the damage of Nature’s Force increases by one martial arts dice or 1d8."
+			],
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block."
+					]
+				}
 			],
 			"classes": {
 				"fromSubclass": [
@@ -417,42 +1186,6 @@
         }
     ],
 
-	"optionalfeature": [
-
-		{
-			"name": "Fruity Explotion",
-			"source": "Fil",
-			"page": 1,
-			"featureType": [
-				"FT"
-			],
-			"prerequisite": [
-				{
-					"level": {
-						"level": 6,
-						"class": {
-							"name": "Monk"
-						}
-					},
-					"item": [
-						"A seed"
-					]
-				}
-			],
-			"entries": [
-				"{@i Ki cost: 2}", 
-				"{@i Casting time: 1 action}",
-				"{@i Range: 30ft}", 
-				"{@i Components: M (A seed, which is consumed)}",
-				"{@i Duration: Instant}",
-				"<br/>",
-				"You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice.",
-				"A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices it must succed a dexterity saving throw against your spell save DC every time it decides to start to move or be nocked prone and loose half it's movement.",
-				"The juice is flamable, a creature set a flame recieves your Martial Arts Dice as magic fire damage at the start of every turn for a minute or till extinguished.",
-				"The fire damage it's not stackable if you splash a creature with more juice or oil."
-			]
-		}
-	],
 
 	"monster": [
 		{
@@ -548,7 +1281,7 @@
 				"B"
 			],
 			"hasToken": true,
-			"tokenUrl": "https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/green_fist.png"
+			"tokenUrl": "https://github.com/santinobch/Cosmonauts/blob/main/Assets/green_fist.png?raw=true"
 		}
 	]
 }
