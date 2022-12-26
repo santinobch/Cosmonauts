@@ -204,7 +204,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 #### Living Weapon
 
-As and action you may touch a plant or fungi, it grows in interaction with your Ki into a quarterstaff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
+As and action you may touch a plant or fungi, it grows in interaction with your Ki into a staff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
 
 You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon. 
 
@@ -221,7 +221,7 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 
 #### Fury of Sticks
 
-As long you are wielding your *Living Weapon*, your martial dice becomes the weapon's damage dice.
+As long you are wielding your *Living Weapon*, your martial arts dice becomes the weapon's damage dice.
 
 
 

@@ -24,6 +24,34 @@
 			"name": "Way of the Ancient Roots",
 			"shortName": "Ancient Roots",
 			"source": "Fil",
+			"subclassSpells": [
+				"Caltrops's Spines|Fil",
+				"Detect Magic",
+				"Detect Poison and Disease",
+				"Entangle",
+				"Extending Vines|Fil",
+				"Purify Food and Drink",
+				"Snare|XGE",
+				"Beetlebomber’s Fire Flowers|Fil",
+				"Continual Flame",
+				"Cultivate|Fil",
+				"Hold Person",
+				"Pass without Trace",
+				"Protection from Poison",
+				"Wolf Dust Mushroom|Fil",
+				"Barkskin",
+				"Fruity Explotion|Fil",
+				"Spike Growth",
+				"Erupting Earth|XGE",
+				"Leaf Baloon|Fil",
+				"Plant Growth",
+				"Speak with Plants",
+				"Wall of Plants|Fil",
+				"Summon Green Fist|Fil",
+				"Freedom of Movement",
+				"Great Tree|Fil",
+				"Last Meal|Fil"
+			],
 			"subclassFeatures": [
 				"Way of the Ancient Roots|Monk||Ancient Roots|Fil|3",
 
@@ -177,6 +205,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
+				"{@i This feature is optional.}",
 				"As long as you are touching a focus, you may choose to cast a spell from any of it’s surfaces, distant branches, roots, flowers, etc… are valid up to a range of 60ft. Spells that consume materials also can be cast from any point of the focus, but you still require the materials."
 			]
 		},
@@ -427,7 +456,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a quarterstaff that does {@damage 1d6} bludgeoning damage. It has the Finesse and Light properties.",
+				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a staff that does {@damage 1d6} bludgeoning damage. It has the Finesse and Light properties.",
 
 				"You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon.",
 				
@@ -448,7 +477,7 @@
 			"level": 6,
 			"header": 1,
 			"entries": [
-				"As long you are wielding your Living Weapon, your martial dice becomes the weapon’s damage dice."
+				"As long you are wielding your Living Weapon, your martial arts dice becomes the weapon’s damage dice."
 			]
 		},
 		{
@@ -1185,7 +1214,6 @@
 			}
         }
     ],
-
 
 	"monster": [
 		{
