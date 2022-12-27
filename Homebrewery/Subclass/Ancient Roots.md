@@ -784,7 +784,7 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 10/12/2022, Spell version 1.10*
+*Made 27/12/2022, Spell version 1.11*
 }}
 
 \page
@@ -822,6 +822,14 @@ The other two players choose to play a **Bard** (College of Glamour) and a **Tam
 #### Sesion 0 notes
 
 No remarks.
+
+#### Sesion 1 notes
+
+After a social encounter with strad (arm dislocated, lung perforated) we leveled up to level 3, next sesion i can finally start testing. I choosed *Druidcraft* and *Frostbite* for my cantrips.
+
+<br/>
+
+Updated to 1.11 after this sesion.
 
 ### Game Min Maxing
 
@@ -883,9 +891,13 @@ On the next turn you can do 4 attacks using *Fury of Blows*, lets suppose our PC
 
 For a comparasion a rogue can make about 28 damage at that level with a rapier.
 
-Except for the increased damage of fury of blows (a d8 instead of a d6) this is the damage any monk can do if they multiclass into druid. Lets do a higher level build.
+
 
 \page
+
+Except for the increased damage of fury of blows (a d8 instead of a d6) this is the damage any monk can do if they multiclass into druid. Lets do a higher level build.
+
+<br/>
 
 **Level 15th Build.**
 
