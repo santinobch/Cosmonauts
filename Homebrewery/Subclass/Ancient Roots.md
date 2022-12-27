@@ -217,17 +217,18 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 <div style='margin-top:10px'></div>
 
 
+
+
+
+
+\page
+
 ### Monastic tradition (level 6)
 
 #### Fury of Sticks
 
 As long you are wielding your *Living Weapon*, your martial arts dice becomes the weapon's damage dice.
 
-
-
-
-
-\page
 
 
 #### Plant Connoisseur
@@ -266,32 +267,9 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 <div style='margin-top:20px'></div>
 
-### New spells
-
-<div style="position: absolute; z-index: 2; right: 72px; bottom: 402px; border-bottom: 2px solid #C0AD6A; width: 355px;">
-	
-</div>
 
 
-
-#### Caltrops's Spines
-*1-st level evocation*
-
-**Casting Time:**   :: 1 bonus action
-**Range:**          :: 30ft./60ft.
-**Components:**     :: V, S, M (A torny branch)
-**Duration:**       :: Instant
-
-You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. 
-
-Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
-
-<div style='margin-top:10px'></div>
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *martial arts dice* or *1d4*.
-
-
-<div style='margin-top:200px'></div>
+<div style='margin-top:400px'></div>
 
 
 ### Ancient Roots Spells List
@@ -336,21 +314,7 @@ Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plu
 <div style='margin-top:20px'></div>
 
 
-#### Extending Vines
-*1-st level transmutation*
 
-**Casting Time:**   :: 1 bonus action
-**Range:**          :: 30ft.
-**Components:**     :: M (A piece of a dried climbing plant)
-**Duration:**       :: Instant
-
-Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:
-
-<br/>
-
-**Move:** the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space. 
-
-If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
 
 
 
@@ -449,6 +413,42 @@ If an unwilling creature were to fall into a pit by the effect of this spell, it
 
 <!-- End Blending Area -->
 
+
+### New spells
+
+#### Caltrops's Spines
+*1-st level evocation*
+
+**Casting Time:**   :: 1 bonus action
+**Range:**          :: 30ft./60ft.
+**Components:**     :: V, S, M (A torny branch)
+**Duration:**       :: Instant
+
+You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. 
+
+Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
+
+<div style='margin-top:10px'></div>
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *martial arts dice* or *1d4*.
+
+
+#### Extending Vines
+*1-st level transmutation*
+
+**Casting Time:**   :: 1 bonus action
+**Range:**          :: 30ft.
+**Components:**     :: M (A piece of a dried climbing plant)
+**Duration:**       :: Instant
+
+Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:
+
+<br/>
+
+**Move:** the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space. 
+
+If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
+
 **Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. 
 
 You can swing holding the vine with this effect.
@@ -468,7 +468,11 @@ The vines can be used as improvised common rope
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more, per level.
 
 
+<div style='margin-top:100px'></div>
 
+<br/>
+
+<div style='margin-top:20px'></div>
 
 #### Beetlebomber's Fire Flowers
 *1-st level evocation*
@@ -512,6 +516,13 @@ You may take 1 pound of spores each day by feeding it 1 ration of food each day.
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level, you may instead use a bonus action instead of an action to cast it.
 
 
+
+
+
+
+\page
+
+
 #### Wolf Dust Mushroom
 *1-st level transmutation*
 
@@ -539,22 +550,7 @@ A creature covered in the juices may use its action to clean it in any way it ha
 
 The juice is flamable, a creature set a flame recieves your *martial arts dice or 1d6* as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.
 
-<div style='margin-top:10px'></div>
-
-
-
-
-
-
-
-<div style='margin-top:300px'></div>
-
-
-
-
-
-
-\page
+If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones.
 
 
 
@@ -606,7 +602,23 @@ If the ***Green Fist*** was summoned by consuming as component for the spell a l
 
 
 
-<img height="130px" src='https://raw.githubusercontent.com/santinobch/Cosmonauts/main/Subclasses/Ancient%20Roots/green_fist.png' style='position:absolute;top:-10px;right:10px;z-index:16' />
+
+
+
+
+
+
+
+
+
+
+\page
+
+<!-- 
+
+	<img height="130px" src='https://github.com/santinobch/Cosmonauts/blob/main/Assets/green_fist.png?raw=true' style='position:absolute;top:5px;left:290px;z-index:16' />
+
+-->
 
 {{monster,frame
 ## Green Fist
@@ -665,16 +677,6 @@ If the wall cuts through a creature's space when it appears, the creature is pus
 
 
 
-
-
-
-
-
-
-
-
-\page
-
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing cubes or ground to not fall. Thus, you can use this spell to bridge a chasm or create a ramp.
 
 
@@ -729,6 +731,10 @@ On a hit the creature takes 3d12 magic necrotic damage. Either if it hits or mis
 
 
 
+
+\page
+
+
 ### Multiclassing
 
 <div style='margin-top:10px'></div>
@@ -771,11 +777,6 @@ On a hit the creature takes 3d12 magic necrotic damage. Either if it hits or mis
 
 Thanks to my dudes <3
 
-
-
-<br/>
-
-
 {{note
 ##### Credits
 * Image 1, ['Photoshop Final Project'](https://www.deviantart.com/ashlmet/art/Photoshop-Final-Project-764598285) by Ashlmet.
@@ -787,7 +788,11 @@ Thanks to my dudes <3
 *Made 27/12/2022, Spell version 1.11*
 }}
 
+
+
+
 \page
+
 
 ### Testing
 
