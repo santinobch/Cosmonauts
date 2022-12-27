@@ -344,102 +344,121 @@ Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plu
 **Components:**     :: M (A piece of a dried climbing plant)
 **Duration:**       :: Instant
 
-Vines sprout to any direction you choose. Choose a target which if unwilling, they must make an athletics or acrobatics check against your spell save DC. On a fail choose one the following effects:
+Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:
 
-**Push or pull:** on a fail they are pushed or pulled 10ft. in the direction of your choosing. 
+<br/>
 
-**Hold**: on a fail their speed becomes 0 and can’t benefit from any bonus to their speed. 
+**Move:** the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space. 
 
-If you are aiming for a target the vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.
+If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
+
 
 
 
 
 \page
 
-<img 
-src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dd12257-b230-4fa5-89a7-1da7c03ec5a1/d7wyipn-375718f3-8976-46b6-93d5-d059908cc1bf.jpg/v1/fill/w_1600,h_1201,q_75,strp/like_the_wind_felt__but_not_seen_by_crg_free_d7wyipn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMSIsInBhdGgiOiJcL2ZcLzdkZDEyMjU3LWIyMzAtNGZhNS04OWE3LTFkYTdjMDNlYzVhMVwvZDd3eWlwbi0zNzU3MThmMy04OTc2LTQ2YjYtOTNkNS1kMDU5OTA4Y2MxYmYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lxcb8HWUZnRHqvTpzLiNwG4rX7T-on9ZD0aTbsy3vqQ' 
-  style='position: absolute;bottom:-150px; right:-50px; width:65%;
-  transform:
-    scaleX(-1);
-  filter:
-     hue-rotate(0deg)
-     contrast(110%)
-     saturate(110%)
-     brightness(110%)'
-/>
+<!--
+
+	<img 
+	src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7dd12257-b230-4fa5-89a7-1da7c03ec5a1/d7wyipn-375718f3-8976-46b6-93d5-d059908cc1bf.jpg/v1/fill/w_1600,h_1201,q_75,strp/like_the_wind_felt__but_not_seen_by_crg_free_d7wyipn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMSIsInBhdGgiOiJcL2ZcLzdkZDEyMjU3LWIyMzAtNGZhNS04OWE3LTFkYTdjMDNlYzVhMVwvZDd3eWlwbi0zNzU3MThmMy04OTc2LTQ2YjYtOTNkNS1kMDU5OTA4Y2MxYmYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lxcb8HWUZnRHqvTpzLiNwG4rX7T-on9ZD0aTbsy3vqQ' 
+		style='position: absolute;bottom:-150px; right:-50px; width:65%;
+		transform:
+			scaleX(-1);
+		filter:
+			 hue-rotate(0deg)
+			 contrast(110%)
+			 saturate(110%)
+			 brightness(110%)'
+	/>
+
+-->
 
 <!-- Begin Blending Area -->
 
-<img 
-src='http://i.imgur.com/oLWrLXF.png'
-style='position:absolute;bottom:-20px;right:340px;width:200px;
-transform:
-rotate(90deg)'
-/>
+<!--
+	<img 
+	src='http://i.imgur.com/oLWrLXF.png'
+	style='position:absolute;bottom:-20px;right:340px;width:200px;
+	transform:
+	rotate(90deg)'
+	/>
 
-<img 
-src='http://i.imgur.com/oLWrLXF.png'
-style='position:absolute;bottom:100px;right:300px;width:200px;
-transform:
-rotate(10deg)'
-/>
+	<img 
+	src='http://i.imgur.com/oLWrLXF.png'
+	style='position:absolute;bottom:100px;right:300px;width:200px;
+	transform:
+	rotate(10deg)'
+	/>
 
-<img 
-src='https://i.imgur.com/pbozDN4.png'
-style='position:absolute;bottom:100px;right:100px;width:200px;
-transform:
-rotate(0deg)'
-/>
+	<img 
+	src='https://i.imgur.com/pbozDN4.png'
+	style='position:absolute;bottom:100px;right:100px;width:200px;
+	transform:
+	rotate(0deg)'
+	/>
 
 
-<img 
-src='https://i.imgur.com/pbozDN4.png'
-style='position:absolute;bottom:90px;right:40px;width:200px;
-transform:
-rotate(0deg)'
-/>
+	<img 
+	src='https://i.imgur.com/pbozDN4.png'
+	style='position:absolute;bottom:90px;right:40px;width:200px;
+	transform:
+	rotate(0deg)'
+	/>
+
+-->
 
 <!-- hard blend circles -->
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:-60px;right:420px;width:200px;'
-/>
+<!--
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:-60px;right:420px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:50px;right:400px;width:200px;'
-/>
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:50px;right:400px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:100px;right:380px;width:200px;'
-/>
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:100px;right:380px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:130px;right:300px;width:200px;'
-/>
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:130px;right:300px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:130px;right:200px;width:200px;'
-/>
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:130px;right:200px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:150px;right:100px;width:200px;'
-/>
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:150px;right:100px;width:200px;'
+	/>
 
-<img 
-src='http://i.imgur.com/IQENPZX.png'
-style='position:absolute;bottom:140px;right:-50px;width:200px;'
-/>
-
-
+	<img 
+	src='http://i.imgur.com/IQENPZX.png'
+	style='position:absolute;bottom:140px;right:-50px;width:200px;'
+	/>
+-->
 
 <!-- End Blending Area -->
+
+**Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. 
+
+You can swing holding the vine with this effect.
+
+<br/>
+
+
+The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.
+
+If the vine would need to make an strength/athletics check add your spell attack bonus to the roll.
 
 The vines can be used as improvised common rope
 
@@ -523,7 +542,7 @@ The juice is flamable, a creature set a flame recieves your *martial arts dice o
 <div style='margin-top:10px'></div>
 
 
-If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones.
+
 
 
 
@@ -536,6 +555,7 @@ If a creature is covered in juice and other flamable material use the highest da
 
 
 \page
+
 
 
 #### Leaf Baloon
@@ -609,7 +629,7 @@ ___
 **Languages**              :: None
 **Challenge**              :: -  
 ___
-***Ancient Link.*** The Green Fist's Strenght modifier is equal to your spell ability modifier. It also shares your *Proficiency Bonus (PB)*.
+***Ancient Link.*** The Green Fist's Strength modifier is equal to your spell ability modifier. It also shares your *Proficiency Bonus (PB)*.
 :
 ***Massive.*** The Green Fist may provide half cover.
 
@@ -784,7 +804,7 @@ We only played vanilla races from the *PHB*, i choosed a ***Wood Elf*** for my c
 ##### Test Character initial Ability Scores
 | 		Ability 	| 	Score 	|
 |:-------------:|:----------|
-| Strenght      | 8 (-1)    |
+| Strength      | 8 (-1)    |
 | Dexterity     | 14 (+2)   |
 | Constitution  | 14 (+2)   |
 | Intelligence  | 12 (+1)   |

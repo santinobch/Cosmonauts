@@ -644,15 +644,21 @@
 				}
 			],
             "entries": [
-				"Vines sprout to any direction you choose. Choose a target which if unwilling, they must make an athletics or acrobatics check against your spell save DC. On a fail choose one the following effects:",
+				"Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:",
 
-				"{@b Push or pull.} on a fail they are pushed or pulled 10ft. in the direction of your choosing.",
+				"{@b Move.} the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space.",
 
-				"{@b Hold.} on a fail their speed becomes 0 and can’t benefit from any bonus to their speed. A creature can use their action to break the vines.",
+				"If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.",
 
-				"If you are aiming for a target the vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.",
+				"{@b Hold.} if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn.",
 
-				"The vines can be used as improvised common rope."
+				"You can swing holding the vine with this effect.",
+
+				"The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.",
+
+				"If the vine would need to make an strength/athletics check add your spell attack bonus to the roll.",
+				
+				"The vines can be used as improvised common rope"
 			],
 			"entriesHigherLevel": [
 				{
