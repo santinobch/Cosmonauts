@@ -531,26 +531,28 @@ You may take 1 pound of spores each day by feeding it 1 ration of food each day.
 **Components:**     :: V, S, M (1/16 pounds of spores dust, which is consumed)
 **Duration:**       :: 1 minute
 
-You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the bag. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. Creatures in this area can't see, except by wearing some eye protection and take your *martial arts dice or 1d6* magical necrotic damage at the start of their turn.
+You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. 
+
+Creatures in this area can't see, except by wearing some eye protection and take your *martial arts dice or 1d6* magical necrotic damage at the start of their turn.
 
 The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes your *martial arts dice or 1d6* as magic fire damage. This also removes the spore cloud. 
 
 
-#### Fruity Explotion
+#### Cordyceps Infestation
 *2-nd level transmutation*
 
 **Casting Time:**   :: 1 action
 **Range:**          :: 30ft.
-**Components:**     :: V, S, M (A seed, which is consumed)
-**Duration:**       :: Instant
+**Components:**     :: V, S, M (1/16 pounds of spores dust, which is consumed)
+**Duration:**       :: Concentration, up to 1 minute
 
-You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice. 
+You throw a handfull of spores into a point 30ft. from you, a thin orange cordyceps mushroom with a flat tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores.
 
-A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn't clean the juices, their walking speed gets reduced in half as they have to walk carefully to not slip.
+Creatures on this area must make a wisdom saving throw against your spell DC, on a fail, they become charmed for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell. 
 
-The juice is flamable, a creature set a flame recieves your *martial arts dice or 1d6* as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.
+At the begging of the creature's turn, they use their reaction to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.
 
-If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones.
+A creature can use it's action to remove the mushroom and end this effect.
 
 
 
@@ -666,15 +668,13 @@ ___
 
 **Casting Time:**   :: 1 action
 **Range:**          :: 60ft.
-**Components:**     :: V, S, M (A handful of roots or mycelium)
+**Components:**     :: V, S, M (A handful of branches or stems)
 **Duration:**       :: Instant
 
 
 A magical wall of living mush and branches springs into existence at a point you choose within range. The wall is composed of ten 10, 5ft cubes. Each cube must be contiguous with at least one other cube. Alternatively, you can create 20 half-cubes (2.5ft x 5ft. x 5ft).
 
 If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
-
-
 
 
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing cubes or ground to not fall. Thus, you can use this spell to bridge a chasm or create a ramp.
@@ -687,7 +687,7 @@ The wall is an object made of living mush and branches that can be damaged and t
 
 <br/>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
 
 #### Great Tree
 *4-th level transmutation*
@@ -718,14 +718,27 @@ You throw a bag of spores to a creature in range of the spell from you, make a r
 On a hit the creature takes 3d12 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
 
 <!--
-#### Mouth of the Garden
-*4-th level evocation*
+#### Hole of Roots
+*2-th level evocation*
 
 **Casting Time:**   :: 1 action
-**Range:**          :: 5ft.
-**Components:**     :: V, S, M (1 seed or 1/16 pounds of spores from a magical plant/mushroom, which is consumed)
+**Range:**          :: 30ft.
+**Components:**     :: V, S, M (A handful of roots or mycelium)
 **Duration:**       :: instant
+
+
+You call roots deep below to dig a hole for you, you remove up to 10, 5ft cubes of earth, sand, clay or small rocks.
+ 
+The hole is supported by roots so it wont colapse on itself. Each 5ft space supported by roots can withstand up to 100ft of water, 80ft of soil, 40ft of rocks and 10ft of heavy metals.
+
+This spell can push the soil up, which may deform the terrain or leave the soil within the range of the spell.
+
+
+At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
+
 -->
+
+
 
 <div style='margin-top:400px'></div>
 
