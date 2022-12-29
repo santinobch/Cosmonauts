@@ -237,13 +237,14 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 <div style='margin-top:10px'></div>
 
+
+### Green Foot (level 9)
+
+You gain an improvement to your *unarmored movement* ability. 
+
+If you end your turn touching a wall or ceilling, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
+
 ### Monastic tradition (level 11)
-
-
-#### Green Foot
-
-You gain the ability to move freely along plant and fungi surfaces. You may end your turn on a wall or ceilling, as long as that space is covered in plants or fungi, you will not fall.
-
 
 #### Master of the Watering Can
 
