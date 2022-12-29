@@ -156,7 +156,7 @@ Wisdom is your spellcasting ability for your monk spells. You use your Wisdom wh
 
 #### Spellcasting Focus
 
-To cast your monk spells you may use a *Plant Focus*, it can be anything that it's a plant or fungi as long as it is alive.
+To cast your monk spells you may use a *Plant Focus*, it can be anything that it's a plant or fungi as long as it is alive. Seeds and spores can't be used as focus.
 
 #### Plant Bender
 ***Optional Feature***
@@ -204,11 +204,11 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 #### Living Weapon
 
-As and action you may touch a plant or fungi, it grows in interaction with your Ki into a staff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
+As and action you may touch a seed, plant, spores (1/16 pounds) or fungi, it grows in interaction with your Ki into a staff that does 1d6 bludgeoning damage. It has the *Finesse* and *Light* properties.
 
 You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon. 
 
-The staff is considered alive. The staff instantly rots if you use this ability again, it's dispelled or dies.
+The staff is considered alive and a *plant focus*. The staff instantly rots if you use this ability again, it's dispelled or dies.
 
 <div style='margin-top:10px'></div>
 
@@ -289,24 +289,24 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 |  3rd  | 1       | Purify Food and Drink (PHB p270)			|
 |  3rd  | 1       | Snare (XGE p165)											|
 |  6th  | 1       | Beetlebomber's Fire Flowers 					|
-|  6th  | 2       | Continual Flame (PHB p227)						|
 |  6th  | 1       | Cultivate                   					|
-|  6th  | 2       | Hold Person (PHB p251)       					|
-|  6th  | 2       | Pass Withut Trace (PHB p264) 					|
-|  6th  | 2       | Protection from Poison (PHB p270)			|
 |  6th  | 1       | Wolf Dust Mushroom          					|
 |  6th  | 2       | Barkskin (PHB p217)         					|
-|  6th  | 2       | Fruity Explotion            					|
+|  6th  | 2       | Continual Flame (PHB p227)						|
+|  6th  | 2       | Cordyceps Infestation            			|
+|  6th  | 2       | Hold Person (PHB p251)       					|
+|  6th  | 2       | Pass Without Trace (PHB p264) 				|
+|  6th  | 2       | Protection from Poison (PHB p270)			|
 |  6th  | 2       | Spike Growth (PHB p277)     					|
-| 11th  | 3       | Erupting Earth (XGE p155)    					|
 | 11th  | 1       | Leaf Baloon                 					|
+| 11th  | 2       | Wall of Plants              					|
+| 11th  | 3       | Erupting Earth (XGE p155)    					|
 | 11th  | 3       | Plant Growth (PHB p266)    					  |
 | 11th  | 3       | Speak with Plants (PHB p277)    		  |
-| 11th  | 2       | Wall of Plants              					|
-| 11th  | 4       | Green Fist                  					|
+| 11th  | 4       | Summon Green Fist            					|
+| 17th  | 3       | Last Meal                   					|
 | 17th  | 4       | Freedom of Movement (PHB p244)				|
 | 17th  | 4       | Great Tree (Edited version of Guardian of Nature, XGE p157)	|
-| 17th  | 3       | Last Meal                   					|
 }}
 
 
@@ -445,22 +445,20 @@ Vines sprout to any direction you choose. Choose a creature or object and apply 
 
 <br/>
 
-**Move:** the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space. 
+**Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is an object you may move it to your hand or ally occupied space as long as it is within the 10ft of reach. 
 
 If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
 
-**Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. 
-
-You can swing holding the vine with this effect.
+**Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. If the target is an object you can wrap the vine around it.
 
 <br/>
 
 
-The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.
+The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces. After the casting is done, you will always hold one end of the vine.
 
 If the vine would need to make an strength/athletics check add your spell attack bonus to the roll.
 
-The vines can be used as improvised common rope
+The vine has the same properties as hempen rope, and it's lenght is the range of the spell.
 
 
 <br/>
@@ -533,7 +531,7 @@ You may take 1 pound of spores each day by feeding it 1 ration of food each day.
 
 You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. 
 
-Creatures in this area can't see, except by wearing some eye protection and take your *martial arts dice or 1d6* magical necrotic damage at the start of their turn.
+For the duration creatures in this area can't see, except by wearing some eye protection and take your *martial arts dice or 1d6* magical necrotic damage at the start of their turn.
 
 The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes your *martial arts dice or 1d6* as magic fire damage. This also removes the spore cloud. 
 
@@ -546,9 +544,9 @@ The spores are extremly flamable any contact with fire will light them up, and a
 **Components:**     :: V, S, M (1/16 pounds of spores dust, which is consumed)
 **Duration:**       :: Concentration, up to 1 minute
 
-You throw a handfull of spores into a point 30ft. from you, a thin orange cordyceps mushroom with a flat tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores.
+You throw a handfull of spores into a point 30ft. from you, a thin orange cordyceps mushroom with a flat tip grows from the point. It explodes making a, orange cloud 10Ft. in radius of dark spores.
 
-Creatures on this area must make a wisdom saving throw against your spell DC, on a fail, they become charmed for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell. 
+Creatures on this area at the moment of the casting must make a wisdom saving throw against your spell DC, on a fail, they become charmed for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell. 
 
 At the begging of the creature's turn, they use their reaction to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.
 
@@ -709,13 +707,15 @@ Your skin appears barky, leaves sprout from your hair, and you gain the followin
 *3-rd level evocation*
 
 **Casting Time:**   :: 1 action
-**Range:**          :: 30ft.
+**Range:**          :: 5ft.
 **Components:**     :: V, S, M (1 pound of spores dust, which is consumed)
-**Duration:**       :: instant
+**Duration:**       :: 1 minute
 
-You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium size mushroom inside the creature's body, pulsating and devouring.
+You throw a bag of spores to a creature in range of the spell. You try to manifest a medium size mushroom inside the creature's body, pulsating and devouring.
 
-On a hit the creature takes 3d12 magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, to a maximum of 3 levels of *Exhaustion*. 
+Make a melee spell attack. On a hit the creature takes 3d12 magic necrotic damage. 
+
+Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, up to a maximum of 3 levels of *Exhaustion*. 
 
 <!--
 #### Hole of Roots
@@ -798,7 +798,7 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 27/12/2022, Spell version 1.11*
+*Made 29/12/2022, version 1.11*
 }}
 
 

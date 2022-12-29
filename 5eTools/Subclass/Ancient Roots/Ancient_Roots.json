@@ -1,5 +1,5 @@
 {
-    "_meta": {
+	"_meta": {
 		"sources": [
 			{
 				"json": "Filkiati",
@@ -11,7 +11,7 @@
 				"convertedBy": [
 					"Vito"
 				],
-				"version": "1.10",
+				"version": "1.11",
 				"url": "",
 				"targetSchema": "1.0.0"
 			}
@@ -23,66 +23,101 @@
 		{
 			"name": "Way of the Ancient Roots",
 			"shortName": "Ancient Roots",
-			"source": "Fil",
+			"source": "Filkiati",
+			"className": "Monk",
+			"classSource": "PHB",
+			"additionalSpells": [
+				{
+					"prepared": {
+						"3": [
+							"Caltrops's Spines|Filkiati",
+							"Detect Magic",
+							"Detect Poison and Disease",
+							"Entangle",
+							"Extending Vines|Filkiati",
+							"Purify Food and Drink",
+							"Snare|XGE"
+						],
+						"6": [
+							"Barkskin",
+							"Beetlebomber’s Fire Flowers|Filkiati",
+							"Continual Flame",
+							"Cordyceps Infestation|Filkiati",
+							"Cultivate|Filkiati",
+							"Hold Person",
+							"Pass without Trace",
+							"Protection from Poison",
+							"Spike Growth",
+							"Wolf Dust Mushroom|Filkiati"
+						],
+						"11": [
+							"Erupting Earth|XGE",
+							"Leaf Baloon|Filkiati",
+							"Plant Growth",
+							"Speak with Plants",
+							"Summon Green Fist|Filkiati",
+							"Wall of Plants|Filkiati"
+						],
+						"17": [
+							"Freedom of Movement",
+							"Great Tree|Filkiati",
+							"Last Meal|Filkiati"
+						]
+					}
+				}
+			],
 			"subclassSpells": [
-				"Caltrops's Spines|Fil",
+				"Caltrops's Spines|Filkiati",
 				"Detect Magic",
 				"Detect Poison and Disease",
 				"Entangle",
-				"Extending Vines|Fil",
+				"Extending Vines|Filkiati",
 				"Purify Food and Drink",
 				"Snare|XGE",
-				"Beetlebomber’s Fire Flowers|Fil",
+				"Beetlebomber’s Fire Flowers|Filkiati",
 				"Continual Flame",
-				"Cultivate|Fil",
+				"Cultivate|Filkiati",
 				"Hold Person",
 				"Pass without Trace",
 				"Protection from Poison",
-				"Wolf Dust Mushroom|Fil",
+				"Wolf Dust Mushroom|Filkiati",
 				"Barkskin",
-				"Fruity Explotion|Fil",
+				"Cordyceps Infestation|Filkiati",
 				"Spike Growth",
 				"Erupting Earth|XGE",
-				"Leaf Baloon|Fil",
+				"Leaf Baloon|Filkiati",
 				"Plant Growth",
 				"Speak with Plants",
-				"Wall of Plants|Fil",
-				"Summon Green Fist|Fil",
+				"Wall of Plants|Filkiati",
+				"Summon Green Fist|Filkiati",
 				"Freedom of Movement",
-				"Great Tree|Fil",
-				"Last Meal|Fil"
+				"Great Tree|Filkiati",
+				"Last Meal|Filkiati"
 			],
 			"subclassFeatures": [
-				"Way of the Ancient Roots|Monk||Ancient Roots|Fil|3",
-
-				"Fury of Sticks|Monk||Ancient Roots|Fil|6",
-				"Plant Connoisseur|Monk||Ancient Roots|Fil|6",
-
-				"Green Foot|Monk||Ancient Roots|Fil|11",
-				"Master of the Watering Can|Monk||Ancient Roots|Fil|11",
-
-				"Ancient Tools of Soil|Monk||Ancient Roots|Fil|17",
-				"Gardening Leyend|Monk||Ancient Roots|Fil|17"
-			],
-            "className": "Monk",
-			"classSource": "PHB"
+				"Way of the Ancient Roots|Monk||Ancient Roots|Filkiati|3",
+				"Fury of Sticks|Monk||Ancient Roots|Filkiati|6",
+				"Plant Connoisseur|Monk||Ancient Roots|Filkiati|6",
+				"Green Foot|Monk||Ancient Roots|Filkiati|11",
+				"Master of the Watering Can|Monk||Ancient Roots|Filkiati|11",
+				"Ancient Tools of Soil|Monk||Ancient Roots|Filkiati|17",
+				"Gardening Leyend|Monk||Ancient Roots|Filkiati|17"
+			]
 		}
 	],
 	"subclassFeature": [
 		{
 			"name": "Way of the Ancient Roots",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"entries": [
 				"Monks who follow the Way of the Ancient Roots have learned from studying the simplest organisms, plants and fungi. And trough their studies they managed to control the flow of Ki in other beings.",
-
 				"One may hold a seed of a fruit in the morning and go to sleep with a full harvest, this is the way we walk",
-
 				{
 					"type": "quote",
 					"entries": [
@@ -91,74 +126,73 @@
 					"by": "Rembras Triadona",
 					"from": ""
 				},
-
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Spellcasting|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spell-Fueled Attack|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Spell-Fueled Attack|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Cantrips|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Cantrips|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Begginer's Roots|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Begginer's Roots|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancient Roots Spell List|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Ancient Roots Spell List|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Living Weapon|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Living Weapon|Monk||Ancient Roots|Filkiati|3"
 				}
 			]
 		},
 		{
 			"name": "Spellcasting",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting ability|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Spellcasting ability|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spellcasting focus|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Spellcasting focus|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Plant Bender|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Plant Bender|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ki Casting|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Ki Casting|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ki Upcasting|Monk||Ancient Roots|Fil|3"
+					"subclassFeature": "Ki Upcasting|Monk||Ancient Roots|Filkiati|3"
 				}
 			]
 		},
 		{
 			"name": "Spellcasting ability",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -182,117 +216,113 @@
 		},
 		{
 			"name": "Spellcasting focus",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"To cast your monk spells you may use a Plant Focus, it can be anything that it’s a plant or fungi as long as it is alive."
+				"To cast your monk spells you may use a Plant Focus, it can be anything that it’s a plant or fungi as long as it is alive. Seeds and spores can’t be used as focus."
 			]
 		},
 		{
 			"name": "Plant Bender",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"{@i This feature is optional.}",
+				"{@i Optional Feature.}",
 				"As long as you are touching a focus, you may choose to cast a spell from any of it’s surfaces, distant branches, roots, flowers, etc… are valid up to a range of 60ft. Spells that consume materials also can be cast from any point of the focus, but you still require the materials."
 			]
 		},
 		{
 			"name": "Ki Casting",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As a monk you don’t have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}."
+				"As a monk you don’t have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3}."
 			]
 		},
 		{
 			"name": "Ki Upcasting",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
 				"When you cast a spell you can spend additional ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.",
-
 				"For example, if you cast “Wall of Plants”, you can spend 4 ki points to cast it as a 3rd-level spell (the spells’s base cost of 2 ki plus 2 ki for the upcast)."
 			]
 		},
-
 		{
 			"name": "Spell-Fueled Attack",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
 				"If you cast a spell part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn."
 			]
 		},
-
 		{
 			"name": "Cantrips",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
 				"At 3rd level you gain knowledge of two cantrips from the {@filter druid spell list|spells|class=druid|level=0}.",
-
 				"You may change them every time you level up on this class."
 			]
 		},
 		{
 			"name": "Begginer's Roots",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3}"
 			]
 		},
 		{
 			"name": "Ancient Roots Spell List",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -319,43 +349,38 @@
 							"3rd",
 							"Cantrip",
 							"1st cantrip from the {@filter druid spell list|spells|class=druid|level=0}",
-
+							"6th",
+							"2",
+							"{@spell Cordyceps Infestation|Filkiati}"
+						],
+						[
+							"3rd",
+							"Cantrip",
+							"2nd cantrip from the {@filter druid spell list|spells|class=druid|level=0}",
+							"6th",
+							"2",
+							"{@spell Hold Person}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Caltrops's Spines|Filkiati}",
+							"6th",
+							"2",
+							"{@spell Pass without Trace}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Detect Magic}",
 							"6th",
 							"2",
 							"{@spell Protection from Poison}"
 						],
 						[
 							"3rd",
-							"Cantrip",
-							"2nd cantrip from the {@filter druid spell list|spells|class=druid|level=0}",
-
-							"6th",
-							"1",
-							"{@spell Wolf Dust Mushroom|Fil}"
-						],
-						[
-							"3rd",
-							"1",
-							"{@spell Caltrops's Spines|Fil}",
-
-							"6th",
-							"2",
-							"{@spell Barkskin}"
-						],
-						[
-							"3rd",
-							"1",
-							"{@spell Detect Magic}",
-
-							"6th",
-							"2",
-							"{@spell Fruity Explotion|Fil}"
-						],
-						[
-							"3rd",
 							"1",
 							"{@spell Detect Poison and Disease}",
-
 							"6th",
 							"2",
 							"{@spell Spike Growth}"
@@ -364,7 +389,22 @@
 							"3rd",
 							"1",
 							"{@spell Entangle}",
-
+							"11th",
+							"1",
+							"{@spell Leaf Baloon|Filkiati}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Extending Vines|Filkiati}",
+							"11th",
+							"2",
+							"{@spell Wall of Plants|Filkiati}"
+						],
+						[
+							"3rd",
+							"1",
+							"{@spell Purify Food and Drink}",
 							"11th",
 							"3",
 							"{@spell Erupting Earth|XGE}"
@@ -372,26 +412,15 @@
 						[
 							"3rd",
 							"1",
-							"{@spell Extending Vines|Fil}",
-
-							"11th",
-							"1",
-							"{@spell Leaf Baloon|Fil}"
-						],
-						[
-							"3rd",
-							"1",
-							"{@spell Purify Food and Drink}",
-
+							"{@spell Snare|XGE}",
 							"11th",
 							"3",
 							"{@spell Plant Growth}"
 						],
 						[
-							"3rd",
+							"6th",
 							"1",
-							"{@spell Snare|XGE}",
-
+							"{@spell Beetlebomber’s Fire Flowers|Filkiati}",
 							"11th",
 							"3",
 							"{@spell Speak with Plants}"
@@ -399,26 +428,23 @@
 						[
 							"6th",
 							"1",
-							"{@spell Beetlebomber’s Fire Flowers|Fil}",
-
-							"11th",
-							"2",
-							"{@spell Wall of Plants|Fil}"
-						],
-						[
-							"6th",
-							"2",
-							"{@spell Continual Flame}",
-
+							"{@spell Cultivate|Filkiati}",
 							"11th",
 							"4",
-							"{@spell Summon Green Fist|Fil}"
+							"{@spell Summon Green Fist|Filkiati}"
 						],
 						[
 							"6th",
 							"1",
-							"{@spell Cultivate|Fil}",
-
+							"{@spell Wolf Dust Mushroom|Filkiati}",
+							"17th",
+							"3",
+							"{@spell Last Meal|Filkiati}"
+						],
+						[
+							"6th",
+							"2",
+							"{@spell Barkskin}",
 							"17th",
 							"4",
 							"{@spell Freedom of Movement}"
@@ -426,20 +452,10 @@
 						[
 							"6th",
 							"2",
-							"{@spell Hold Person}",
-
+							"{@spell Continual Flame}",
 							"17th",
 							"4",
-							"{@spell Great Tree|Fil}"
-						],
-						[
-							"6th",
-							"2",
-							"{@spell Pass without Trace}",
-
-							"17th",
-							"3",
-							"{@spell Last Meal|Fil}"
+							"{@spell Great Tree|Filkiati}"
 						]
 					]
 				}
@@ -447,33 +463,29 @@
 		},
 		{
 			"name": "Living Weapon",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"As and action you may touch a plant or fungi, it grows in interaction with your Ki into a staff that does {@damage 1d6} bludgeoning damage. It has the Finesse and Light properties.",
-
+				"As and action you may touch a seed, plant, spores (1/16 pounds) or fungi, it grows in interaction with your Ki into a staff that does 1d6 bludgeoning damage. It has the Finesse and Light properties.",
 				"You may use your wisdom modifier for the attack and damage rolls of melee attacks of this weapon.",
-				
-				"The staff is considered alive. The staff instantly rots if you use this ability again, it’s dispelled or dies.",
-				
+				"The staff is considered alive and a plant focus. The staff instantly rots if you use this ability again, it’s dispelled or dies.",
 				"Your magical staff damage increases when you reach 5th level ({@damage 1d8}), 11th level ({@damage 1d10}), and 17th level ({@damage 1d12})."
 			]
 		},
-
 		{
 			"name": "Fury of Sticks",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 6,
 			"header": 1,
 			"entries": [
@@ -482,26 +494,26 @@
 		},
 		{
 			"name": "Plant Connoisseur",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 6,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3}"
 			]
 		},
 		{
 			"name": "Green Foot",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 11,
 			"header": 1,
 			"entries": [
@@ -510,86 +522,80 @@
 		},
 		{
 			"name": "Master of the Watering Can",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 11,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3}"
 			]
 		},
 		{
 			"name": "Ancient Tools of Soil",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 17,
 			"header": 1,
 			"entries": [
-				"Using a bonus action and 4 Ki points you may touch a weapon that has been created by the {@subclassFeature Living Weapon|Monk|PHB|Ancient Roots|Fil|3} ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a living scythe.",
-
+				"Using a bonus action and 4 Ki points you may touch a weapon that has been created by the {@subclassFeature Living Weapon|Monk|PHB|Ancient Roots|Filkiati|3} ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a living scythe.",
 				"For the duration your weapon and spells now deal an extra {@damage 1d6} magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops’s Spines and Wall of Plants for free, at their lowest levels, for the duration.",
-				
 				"Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free."
 			]
 		},
-
 		{
 			"name": "Gardening Leyend",
-			"source": "Fil",
+			"source": "Filkiati",
 			"className": "Monk",
 			"classSource": "PHB",
-            "page": 1,
+			"page": 1,
 			"subclassShortName": "Ancient Roots",
-			"subclassSource": "Fil",
+			"subclassSource": "Filkiati",
 			"level": 17,
 			"header": 1,
 			"entries": [
-				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Fil|3}"
+				"You add new spells to your know spell list as writen in the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3}"
 			]
 		}
 	],
-
-    "spell": [
-        {
-            "name": "Caltrops's Spines",
-			"source": "Fil",
-
+	"spell": [
+		{
+			"name": "Caltrops's Spines",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "V",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "bonus action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": "30/60"
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "A torny branch"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"You grow a pod of caltrop’s fruits, as you touch it the pod opens and a fruit covered in spines flies away.",
-
 				"Make two ranged spell attacks, on a hit deal your {@damage martial arts dice} or {@damage 1d4} plus spell ability modifier magical piercing damage."
 			],
 			"entriesHigherLevel": [
@@ -600,65 +606,46 @@
 						"When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one {@damage martial arts dice} or {@damage 1d4}."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Extending Vines",
-			"source": "Fil",
-
+			"name": "Extending Vines",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "bonus action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": "30"
 				}
 			},
-            "components": {
+			"components": {
 				"m": "A piece of a dried climbing plant"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:",
-
-				"{@b Move.} the target is moved up to 10ft. in the direction of your choosing unto an unnocupied space. If the target is an object you may pull it to your hand or ally occupied space.",
-
-				"If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.",
-
-				"{@b Hold.} if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn.",
-
-				"You can swing holding the vine with this effect.",
-
-				"The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces.",
-
+				{
+					"type": "list",
+					"items": [
+						"{@b Move.} the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is an object you may move it to your hand or ally occupied space as long as it is within the 10ft of reach. <br/> If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.",
+						"{@b Hold.} If the target is an object you can wrap the vine around it. If the target is an unwilling creature, they must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. "
+					]
+				},
+				"The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces. After the casting is done, you will always hold one end of the vine.",
 				"If the vine would need to make an strength/athletics check add your spell attack bonus to the roll.",
-				
-				"The vines can be used as improvised common rope"
+				"The vines can be used as improvised common rope, the lenght of the vine is the range of the spell."
 			],
 			"entriesHigherLevel": [
 				{
@@ -668,51 +655,36 @@
 						"When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine’s range for 30ft more, per level."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Beetlebomber’s Fire Flowers",
-			"source": "Fil",
-
+			"name": "Beetlebomber’s Fire Flowers",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "V",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "cone",
 				"distance": {
 					"type": "feet",
 					"amount": 15
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"m": "Two flower buds"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 15ft. cone, a creature inside the cone’s area must succed a dexterity saving throw against your spell save DC or take 3 times your {@damage martial arts dice} or {@damage 3d6} magic fire damage. If a creature succeds it takes half the damage rounded down."
 			],
 			"entriesHigherLevel": [
@@ -723,64 +695,44 @@
 						" When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one {@damage martial arts dice} or {@damage 1d6}."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Cultivate",
-			"source": "Fil",
-
+			"name": "Cultivate",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "touch"
 				}
 			},
-            "components": {
+			"components": {
 				"s": true,
 				"m": "Depends on effect"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"You may choose one of the following effects:",
 				{
 					"type": "list",
 					"items": [
 						"Grow a seed or a bush into a bush or size large tree.",
-
 						"Provided of a suitable ground (Earth, clay, sand, etc…), grow a patch of moss or mycelium from a seed or 1/16 pounds of spores. The patch is a 30ft. square centered on you, it can cover vertical surfaces.",
-						
 						"Create 2 Goodberries from a bush or 5 from a tree. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
-						
 						"Create a Fruit of Fertility from a bush or tree which contains 50 seeds that last fresh for a month.",
-						
 						"From 1 ration of food, which is consumed, create a Fungus of Propagation, you may take a pound of spores from it. You may take 1 pound of spores each day by feeding it 1 ration of food each day. Spores last fresh for a month.",
-						
 						"Touching a living tree create a simple object or objects made out of wood, that must fit in a 3ft cube, part of the tree is consumed. If the object is complex in nature you may require proficiency in Artisan’s Tools to make it."
 					]
 				}
@@ -793,107 +745,81 @@
 						"When you cast this spell using a spell slot of 2nd level, you may instead use a bonus action instead of an action to cast it."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Wolf Dust Mushroom",
-			"source": "Fil",
-
+			"name": "Wolf Dust Mushroom",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 30
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "1/16 pounds of spores dust, which is consumed"
 			},
-            "duration": [
+			"duration": [
 				{
-					"type": "minute",
-					"amount": 1
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					}
 				}
 			],
-            "entries": [
-				"You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the bag. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. Creatures in this area can’t see, except by wearing some eye protection and take your {@damage martial arts dice} or {@damage 1d6} magical necrotic damage at the start of their turn.",
-
+			"entries": [
+				"You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes.",
+				"For the duration creatures in this area can’t see, except by wearing some eye protection and take your {@damage martial arts dice} or {@damage 1d6} magical necrotic damage at the start of their turn.",
 				"The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes your {@damage martial arts dice} or {@damage 1d6} as magic fire damage. This also removes the spore cloud."
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Leaf Baloon",
-			"source": "Fil",
-
+			"name": "Leaf Baloon",
+			"source": "Filkiati",
 			"level": 1,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 5
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "A white leaf"
 			},
-            "duration": [
+			"duration": [
 				{
-					"type": "minute",
-					"amount": 1
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					}
 				}
 			],
-            "entries": [
+			"entries": [
 				"You create a sphere of silky white leaves, it rapidly bulks up as it becomes filled with air, slowly it floats upwards up to a height of 60ft. from the floor.",
-
 				"A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons adds to the floating velocity.",
-				
 				"For each size beyond large you may add an extra baloon to make them float at 15ft. per round."
 			],
 			"entriesHigherLevel": [
@@ -904,115 +830,81 @@
 						"When you cast this spell using a spell slot of 2nd level, increase the duration to 10 minutes. When you cast this spell using a spell slot of 3rd level, increase the duration to 1 hour. When you cast this spell using a spell slot of 4th level, increase the duration to 24 hours."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
-
-
+			]
+		},
 		{
-            "name": "Fruity Explotion",
-			"source": "Fil",
-
+			"name": "Cordyceps Infestation",
+			"source": "Filkiati",
 			"level": 2,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 30
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
-				"m": "A seed, which is consumed"
+				"m": "1/16 pounds of spores dust, which is consumed"
 			},
-            "duration": [
+			"duration": [
 				{
-					"type": "instant"
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
 				}
 			],
-            "entries": [
-				"You throw a seed to a point 30ft. from you. A giant palm fruit grows from the seed, and as it grows the explotion is inminent. Every creature in a 20ft radius of the point must make a Dexterity saving throw against your spell save DC, on a fail it becomes covered in fruit juice.",
-
-				"A creature covered in the juices may use its action to clean it in any way it has. If the creature doesn’t clean the juices, their walking speed gets reduced in half as they have to walk carefully to not slip.",
-
-				"The juice is flamable, a creature set a flame recieves your {@damage martial arts dice} or {@damage 1d6} as magic fire damage at the start of every turn for two turns or till extinguished. If the creature passed two turns while set a flame the juice is consumed.",
-
-				"If a creature is covered in juice and other flamable material use the highest damage material and ignore the other ones."
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			"entries": [
+				"You throw a handfull of spores into a point 30ft. from you, a thin orange cordyceps mushroom with a flat tip grows from the point. It explodes making a, orange cloud 10Ft. in radius of dark spores.",
+				"Creatures on this area at the moment of the casting must make a wisdom saving throw against your spell DC, on a fail, they become {@condition charmed} for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell.",
+				"At the begging of the creature’s turn, they use their reaction to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.",
+				"A creature can use it’s action to remove the mushroom and end this effect."
+			]
+		},
 		{
-            "name": "Wall of Plants",
-			"source": "Fil",
-
+			"name": "Wall of Plants",
+			"source": "Filkiati",
 			"level": 2,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 60
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "A handful of roots or mycelium"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"A magical wall of living mush and branches springs into existence at a point you choose within range. The wall is composed of ten 10, 5ft cubes. Each cube must be contiguous with at least one other cube. Alternatively, you can create 20 half-cubes (2.5ft x 5ft. x 5ft).",
-
 				"If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.",
-				
 				"The wall can have any shape you desire, though it can’t occupy the same space as a creature or object. The wall doesn’t need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing cubes or ground to not fall. Thus, you can use this spell to bridge a chasm or create a ramp.",
-				
 				"If you create a span greater than 40 feet in length, you must create supports. You can crudely shape the wall to create crenellations, battlements, and so on.",
-				
 				"The wall is an object made of living mush and branches that can be damaged and thus breached. Each cube has AC 12 and 40 hit points. Each half-cube has AC 12 and 20 hit points. The wall is vulnerable to fire damage. Reducing a cube or half-cube to 0 hit points destroys it and might cause connected cubes to collapse at the DM’s discretion."
 			],
 			"entriesHigherLevel": [
@@ -1023,97 +915,64 @@
 						"When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
-
+			]
+		},
 		{
-            "name": "Last Meal",
-			"source": "Fil",
-
+			"name": "Last Meal",
+			"source": "Filkiati",
 			"level": 3,
 			"school": "V",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 30
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "1 pound of spores dust, which is consumed"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "instant"
 				}
 			],
-            "entries": [
+			"entries": [
 				"You throw a bag of spores to a creature in range of the spell from you, make a range or melee spell attack (your choosing). You try to manifest a medium size mushroom inside the creature’s body, pulsating and devouring.",
-
-				"On a hit the creature takes {@damage 3d12} magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of Exhaustion, to a maximum of 3 levels of Exhaustion."
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
-
+				"On a hit the creature takes {@damage 3d12} magic necrotic damage. Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of Exhaustion, up to a maximum of 3 levels of Exhaustion."
+			]
+		},
 		{
-            "name": "Great Tree",
-			"source": "Fil",
-
+			"name": "Great Tree",
+			"source": "Filkiati",
 			"level": 4,
 			"school": "T",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "self"
 				}
 			},
-            "components": {
+			"components": {
 				"v": true,
 				"s": true,
 				"m": "1 pound of spores dust, which is consumed"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "timed",
 					"duration": {
@@ -1123,61 +982,42 @@
 					"concentration": true
 				}
 			],
-            "entries": [
+			"entries": [
 				"Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:",
-
 				{
 					"type": "list",
 					"items": [
 						"You gain 10 temporary hit points.",
-
 						"You make Constitution saving throws with advantage.",
-
 						"You make Dexterity- and Wisdom-based attack rolls with advantage.",
-
 						"While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        },
+			]
+		},
 		{
-            "name": "Summon Green Fist",
-			"source": "Fil",
-
+			"name": "Summon Green Fist",
+			"source": "Filkiati",
 			"level": 4,
 			"school": "C",
-            "time": [
+			"time": [
 				{
 					"number": 1,
 					"unit": "bonus action"
 				}
 			],
-            "range": {
+			"range": {
 				"type": "point",
 				"distance": {
 					"type": "feet",
 					"amount": 5
 				}
 			},
-            "components": {
+			"components": {
 				"s": true,
 				"m": "A hard piece of wood/hard mushroom cap, not consumed or large tree/large mushroom, which is consumed"
 			},
-            "duration": [
+			"duration": [
 				{
 					"type": "timed",
 					"duration": {
@@ -1186,14 +1026,11 @@
 					}
 				}
 			],
-            "entries": [
-				"You call forth a {@creature Green Fist|Fil} made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the Green Fist’s Nature’s Force multiattack and move it up to 30ft.",
-
+			"entries": [
+				"You call forth a {@creature Green Fist|Filkiati} made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the Green Fist’s Nature’s Force multiattack and move it up to 30ft.",
 				"In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.",
-				
 				"The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don’t issue any, it takes the {@action Dodge} action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it’s still alive.",
-				
-				"If the {@creature Green Fist|Fil} was summoned by consuming as component for the spell a large tree or large mushroom, the damage of Nature’s Force increases by one martial arts dice or 1d8."
+				"If the {@creature Green Fist|Filkiati} was summoned by consuming as component for the spell a large tree or large mushroom, the damage of Nature’s Force increases by one martial arts dice or 1d8."
 			],
 			"entriesHigherLevel": [
 				{
@@ -1203,30 +1040,15 @@
 						"When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block."
 					]
 				}
-			],
-			"classes": {
-				"fromSubclass": [
-					{
-						"class": {
-							"name": "Monk",
-							"source": "Fil"
-						},
-						"subclass": {
-							"name": "Way of the Ancient Roots",
-							"source": "Fil"
-						}
-					}
-				]
-			}
-        }
-    ],
-
+			]
+		}
+	],
 	"monster": [
 		{
 			"name": "Green Fist",
-			"source": "Fil",
+			"source": "Filkiati",
 			"page": 1,
-			"summonedBySpell": "Summon Green Fist|Fil",
+			"summonedBySpell": "Summon Green Fist|Filkiati",
 			"summonedBySpellLevel": 4,
 			"size": [
 				"L"
@@ -1243,13 +1065,11 @@
 			"speed": {
 				"walk": 30
 			},
-
 			"dex": 14,
 			"con": 18,
 			"int": 6,
 			"wis": 12,
 			"cha": 10,
-
 			"save": {
 				"str": "Strenght plus PB",
 				"con": "4 plus PB"
@@ -1257,7 +1077,6 @@
 			"skill": {
 				"athletics": "Strenght plus PB"
 			},
-
 			"senses": [
 				"Has no senses of it’s own, shares your knowledge of creature location."
 			],
