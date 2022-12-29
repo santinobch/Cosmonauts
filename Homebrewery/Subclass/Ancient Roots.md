@@ -240,9 +240,9 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 ### Green Foot (level 9)
 
-You gain an improvement to your *unarmored movement* ability. 
+You gain an improvement to your *unarmored movement* ability.
 
-If you end your turn touching a wall or ceilling, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
+You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
 
 ### Monastic tradition (level 11)
 
