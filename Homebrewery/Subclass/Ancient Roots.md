@@ -136,6 +136,15 @@ One may hold a seed of a fruit in the morning and go to sleep with a full harves
 </div>
 }}
 
+#### Preparing and Casting Spells
+
+You prepare the list spells that are available for you to cast, choosing from your *known spells list* (You can check the *Ancient Roots Spells List* for them).
+
+When you do so, choose a number of spells equal to your Wisdom modifier + half your monk level rounded up (minimum of three spells). You must know the spells to add it to your prepared list.
+
+<br>
+
+You can also change your list of prepared spells when you finish a short rest or long rest.
 
 #### Spellcasting ability
 
@@ -153,10 +162,13 @@ Wisdom is your spellcasting ability for your monk spells. You use your Wisdom wh
 </div>
 
 
-
 #### Spellcasting Focus
 
 To cast your monk spells you may use a *Plant Focus*, it can be anything that it's a plant or fungi as long as it is alive. Seeds and spores can't be used as focus.
+
+<div style='margin-top:170px'></div>
+<br/>
+<div style='margin-top:230px'></div>
 
 #### Plant Bender
 ***Optional Feature***
@@ -167,12 +179,6 @@ As long as you are touching a focus, you may choose to cast a spell from any of 
 #### Ki Casting
 
 As a monk you don't have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the **Ancient Roots Spells List**.
-
-
-
-<div style='margin-top:170px'></div>
-<br/>
-<div style='margin-top:230px'></div>
 
 
 
@@ -195,11 +201,12 @@ At 3rd level you gain knowledge of two cantrips from the druid spell list.
 You may change them every time you level up on this class.
 
 
-
-
-
 #### Begginer's Roots
 You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
+
+
+
+\page
 
 
 #### Living Weapon
@@ -217,11 +224,6 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 <div style='margin-top:10px'></div>
 
 
-
-
-
-
-\page
 
 ### Monastic tradition (level 6)
 
@@ -262,15 +264,15 @@ For the duration your weapon and spells now deal an extra 1d6 magic damage of th
 
 Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free.
 
+<br>
+<br>
+
 #### Gardening Leyend
 
 You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
 <div style='margin-top:20px'></div>
 
-
-
-<div style='margin-top:400px'></div>
 
 
 ### Ancient Roots Spells List
@@ -465,7 +467,7 @@ The vine has the same properties as hempen rope, and it's lenght is the range of
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more, per level.
 
-
+<br>
 
 #### Beetlebomber's Fire Flowers
 *1-st level evocation*
@@ -854,7 +856,7 @@ We had two encounters, the first was two druids and two berserkers. The second o
 
 <br/>
 
-I realised the level 6 ability *Fury of Sticks* was not poperlly worded, fixed that and updated to 1.12
+I realised the level 6 ability *Fury of Sticks* was not poperlly worded, fixed that. Also this subclass didn't prepare spells before this update, that was weird, as it had as many spells prepared as a full caster. Updated to 1.12.
 
 
 \page

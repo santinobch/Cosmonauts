@@ -165,6 +165,10 @@
 			"entries": [
 				{
 					"type": "refSubclassFeature",
+					"subclassFeature": "Preparing and casting spells|Monk||Ancient Roots|Filkiati|3"
+				},
+				{
+					"type": "refSubclassFeature",
 					"subclassFeature": "Spellcasting ability|Monk||Ancient Roots|Filkiati|3"
 				},
 				{
@@ -183,6 +187,24 @@
 					"type": "refSubclassFeature",
 					"subclassFeature": "Ki Upcasting|Monk||Ancient Roots|Filkiati|3"
 				}
+			]
+		},
+		{
+			"name": "Preparing and casting spells",
+			"source": "Filkiati",
+			"className": "Monk",
+			"classSource": "PHB",
+			"page": 1,
+			"subclassShortName": "Ancient Roots",
+			"subclassSource": "Filkiati",
+			"level": 3,
+			"header": 1,
+			"entries": [
+				"You prepare the list spells that are available for you to cast, choosing from your known spells list (You can check the {@subclassFeature Ancient Roots Spell List|Monk|PHB|Ancient Roots|Filkiati|3} for them).",
+
+				"When you do so, choose a number of spells equal to your Wisdom modifier + half your monk level rounded up (minimum of three spells). You must know the spells to add it to your prepared list.",
+				
+				"You can also change your list of prepared spells when you finish a short rest or long rest."
 			]
 		},
 		{
