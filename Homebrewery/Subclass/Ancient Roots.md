@@ -227,7 +227,7 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 
 #### Fury of Sticks
 
-As long you are wielding your *Living Weapon*, your martial arts dice becomes the weapon's damage dice.
+As long you are wielding your *Living Weapon*, your martial arts dice becomes the weapon's damage dice. You can also make unnarmed strikes wih your *Living Weapon*.
 
 
 
@@ -242,7 +242,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 You gain an improvement to your *unarmored movement* ability.
 
-You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
+Plants and fungi become attracted to your presence and grow in contact. You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
 
 ### Monastic tradition (level 11)
 
@@ -444,16 +444,15 @@ Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plu
 
 Vines sprout to any direction you choose. Choose a creature or object and apply one the following effects:
 
-<br/>
+<div style='margin-top:10px'></div>
 
-**Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is an object you may move it to your hand or ally occupied space as long as it is within the 10ft of reach. 
+&nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is an object you may move it to your hand or ally occupied space as long as it is within the 10ft of reach. 
 
 If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
 
 **Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. If the target is an object you can wrap the vine around it.
 
-<br/>
-
+<div style='margin-top:10px'></div>
 
 The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces. After the casting is done, you will always hold one end of the vine.
 
@@ -462,16 +461,11 @@ If the vine would need to make an strength/athletics check add your spell attack
 The vine has the same properties as hempen rope, and it's lenght is the range of the spell.
 
 
-<br/>
+<div style='margin-top:20px'></div>
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more, per level.
 
 
-<div style='margin-top:100px'></div>
-
-<br/>
-
-<div style='margin-top:20px'></div>
 
 #### Beetlebomber's Fire Flowers
 *1-st level evocation*
@@ -850,6 +844,21 @@ After a social encounter with strad (arm dislocated, lung perforated) we leveled
 
 Updated to 1.11 after this sesion.
 
+#### Sesion 2 notes
+
+We arrived to the city Vallaki at the end of th sesion, leveling up to level 5.
+
+I have used the spells *extending vines*, *entangle* and *frostbite*. *Extending vines* works great, had an encounter with a vampaire spawn, it was very handy to stop him from moving.
+
+We had two encounters, the first was two druids and two berserkers. The second one was a druid and 16 wolves. It all seems pretty balanced at the moment.
+
+<br/>
+
+I realised the level 6 ability *Fury of Sticks* was not poperlly worded, fixed that and updated to 1.12
+
+
+\page
+
 ### Game Min Maxing
 
 Here are some thoughts about how this sublclass can sinergise with other features.
@@ -896,6 +905,8 @@ I found three subclasses that would be interesting to multiclass: *Peace Domain,
 - Maybe grab the *Martial Adept* Feat.
 
 
+
+
 **Level 10th build.**
 
 Monk, Way of the Ancient Roots, 6 levels.
@@ -911,8 +922,6 @@ On the next turn you can do 4 attacks using *Fury of Blows*, lets suppose our PC
 For a comparasion a rogue can make about 28 damage at that level with a rapier.
 
 
-
-\page
 
 Except for the increased damage of fury of blows (a d8 instead of a d6) this is the damage any monk can do if they multiclass into druid. Lets do a higher level build.
 

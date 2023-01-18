@@ -11,7 +11,7 @@
 				"convertedBy": [
 					"Vito"
 				],
-				"version": "1.11",
+				"version": "1.12",
 				"url": "",
 				"targetSchema": "1.0.0"
 			}
@@ -98,7 +98,7 @@
 				"Way of the Ancient Roots|Monk||Ancient Roots|Filkiati|3",
 				"Fury of Sticks|Monk||Ancient Roots|Filkiati|6",
 				"Plant Connoisseur|Monk||Ancient Roots|Filkiati|6",
-				"Green Foot|Monk||Ancient Roots|Filkiati|11",
+				"Green Foot|Monk||Ancient Roots|Filkiati|9",
 				"Master of the Watering Can|Monk||Ancient Roots|Filkiati|11",
 				"Ancient Tools of Soil|Monk||Ancient Roots|Filkiati|17",
 				"Gardening Leyend|Monk||Ancient Roots|Filkiati|17"
@@ -489,7 +489,7 @@
 			"level": 6,
 			"header": 1,
 			"entries": [
-				"As long you are wielding your Living Weapon, your martial arts dice becomes the weapon’s damage dice."
+				"As long you are wielding your Living Weapon, your martial arts dice becomes the weapon’s damage dice. You can also make unnarmed strikes wih your Living Weapon."
 			]
 		},
 		{
@@ -514,10 +514,12 @@
 			"page": 1,
 			"subclassShortName": "Ancient Roots",
 			"subclassSource": "Filkiati",
-			"level": 11,
+			"level": 9,
 			"header": 1,
 			"entries": [
-				"You gain the ability to move freely along plant and fungi surfaces. You may end your turn on a wall or ceilling, as long as that space is covered in plants or fungi, you will not fall."
+				"You gain an improvement to your *unarmored movement* ability.",
+
+				"Plants and fungi become attracted to your presence and grow in contact. You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place."
 			]
 		},
 		{
