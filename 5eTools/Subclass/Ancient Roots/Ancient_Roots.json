@@ -539,7 +539,7 @@
 			"level": 9,
 			"header": 1,
 			"entries": [
-				"You gain an improvement to your *unarmored movement* ability.",
+				"You gain an improvement to your {@i unarmored movement} ability.",
 
 				"Plants and fungi become attracted to your presence and grow in contact. You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place."
 			]
