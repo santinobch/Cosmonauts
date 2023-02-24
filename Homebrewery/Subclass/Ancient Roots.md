@@ -170,16 +170,10 @@ To cast your monk spells you may use a *Plant Focus*, it can be anything that it
 <br/>
 <div style='margin-top:230px'></div>
 
-#### Plant Bender
-***Optional Feature***
-
-As long as you are touching a focus, you may choose to cast a spell from any of it's surfaces, distant branches, roots, flowers, etc... are valid up to a range of 60ft. *Spells that consume materials* also can be cast from any point of the focus, but you still require the materials.
-
 
 #### Ki Casting
 
-As a monk you don't have spell slots you instead use your Ki. The cost is equal to 1 Ki per spell level and will be detailed on the **Ancient Roots Spells List**.
-
+To cast your spells you use your Ki. The cost of a spell is equal to 1 Ki per spell level and will is detailed on the **Ancient Roots Spells List**.
 
 
 #### Ki Upcasting
@@ -187,11 +181,28 @@ When you cast a spell you can spend additional ki points to increase the spell l
 
  For example, if you cast "Wall of Plants", you can spend 4 ki points to cast it as a 3rd-level spell (the spells's base cost of 2 ki plus 2 ki for the upcast).
 
+
+#### Magic Arts
+
+When rolling for the damage of a monk spell you may replace the dice by your *martial arts dice*. For example if you were to roll *2d6 fire damage* and your *martial arts dice* is a d8 you may choose to deal *3d8 fire damage*.
  
 #### Spell-Fueled Attack 
 ***Optional Feature, requires Ki-Fueled Attack (TCE p48)***
 
 If you cast a spell part of your action on your turn, you can make one attack with an unarmed strike or a monk weapon as a bonus action before the end of the turn.
+
+
+#### Plant Bender
+***Optional Feature***
+
+As long as you are touching a focus, you may choose to cast a spell from any of it's surfaces, distant branches, roots, flowers, etc... are valid up to a range of 60ft. *Spells that consume materials* also can be cast from any point of the focus, but you still require the materials.
+
+
+
+
+
+
+\page
 
 
 #### Cantrips
@@ -200,14 +211,12 @@ At 3rd level you gain knowledge of two cantrips from the druid spell list.
 
 You may change them every time you level up on this class.
 
+<div style='margin-top:10px'></div>
 
 #### Begginer's Roots
 You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
-
-
-\page
-
+<div style='margin-top:10px'></div>
 
 #### Living Weapon
 
@@ -229,8 +238,9 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 
 #### Fury of Sticks
 
-As long you are wielding your *Living Weapon*, your martial arts dice becomes the weapon's damage dice. You can also make unnarmed strikes wih your *Living Weapon*.
+Attacks with your *Living Weapon* count as unnarmed strikes and as long as you are holding it, your *martial arts dice* becomes the weapon's damage dice.
 
+<div style='margin-top:10px'></div>
 
 
 #### Plant Connoisseur
@@ -246,13 +256,24 @@ You gain an improvement to your *unarmored movement* ability.
 
 Plants and fungi become attracted to your presence and grow in contact. You can now walk on walls or ceillings, as long as that space is covered in plants or fungi, you will not fall as the living matter holds you in place.
 
+<div style='margin-top:10px'></div>
+
 ### Monastic tradition (level 11)
 
 #### Master of the Watering Can
 
 You add new spells to your know spells list as writen in the *Ancient Roots Spells List*
 
-<div style='margin-top:10px'></div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Monastic tradition (level 17)
 
@@ -264,8 +285,7 @@ For the duration your weapon and spells now deal an extra 1d6 magic damage of th
 
 Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free.
 
-<br>
-<br>
+
 
 #### Gardening Leyend
 
@@ -289,11 +309,11 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 |  3rd  | 1       | Detect Poison and Disease (PHB p231)  |
 |  3rd  | 1       | Entangle (PHB p238)         					|
 |  3rd  | 1       | Extending Vines             					|
+|  3rd  | 1       | Goodberry (PHB p246)         					|
 |  3rd  | 1       | Purify Food and Drink (PHB p270)			|
 |  3rd  | 1       | Snare (XGE p165)											|
-|  6th  | 1       | Beetlebomber's Fire Flowers 					|
+|  6th  | 1       | Beetlebomber's Fire Flowers  					|
 |  6th  | 1       | Cultivate                   					|
-|  6th  | 1       | Wolf Dust Mushroom          					|
 |  6th  | 2       | Barkskin (PHB p217)         					|
 |  6th  | 2       | Continual Flame (PHB p227)						|
 |  6th  | 2       | Cordyceps Infestation            			|
@@ -301,6 +321,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 |  6th  | 2       | Pass Without Trace (PHB p264) 				|
 |  6th  | 2       | Protection from Poison (PHB p270)			|
 |  6th  | 2       | Spike Growth (PHB p277)     					|
+|  6th  | 2       | Wolf Dust Mushroom          					|
 | 11th  | 1       | Leaf Baloon                 					|
 | 11th  | 2       | Wall of Plants              					|
 | 11th  | 3       | Erupting Earth (XGE p155)    					|
@@ -429,11 +450,13 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. 
 
-Make two ranged spell attacks, on a hit deal your *martial arts dice or 1d4* plus *spell ability modifier* magical piercing damage.
+Make two ranged spell attacks, on a hit deal your *1d4* plus *spell ability modifier* magical piercing damage.
 
 <div style='margin-top:10px'></div>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *martial arts dice* or *1d4*.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *1d4*.
+
+<br>
 
 
 #### Extending Vines
@@ -448,7 +471,7 @@ Vines sprout to any direction you choose. Choose a creature or object and apply 
 
 <div style='margin-top:10px'></div>
 
-&nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is an object you may move it to your hand or ally occupied space as long as it is within the 10ft of reach. 
+&nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is unwilling it must pass a strength saving throw against your spell DC, on a fail they are moved to the choosed location. You may also move it to your hand as long as it is within the 10ft of you. 
 
 If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
 
@@ -456,7 +479,7 @@ If an unwilling creature were to fall into a pit by the effect of this spell, it
 
 <div style='margin-top:10px'></div>
 
-The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces. After the casting is done, you will always hold one end of the vine.
+The vines can twist around corners but you must be able to see the target. They can pass trough a hole an inch in diameter and can root themselves to the ground and walls, as long as the DM allows it to stick to those surfaces. After the casting is done, you will always hold one end of the vine on one free hand if you have one.
 
 If the vine would need to make an strength/athletics check add your spell attack bonus to the roll.
 
@@ -464,10 +487,17 @@ The vine has the same properties as hempen rope, and it's lenght is the range of
 
 
 <div style='margin-top:20px'></div>
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the vine's range for 30ft more, per level.
-
 <br>
+<br>
+<br>
+<br>
+<br>
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the spell's range for 30ft more, per level.
+
+
+<div style='margin-top:10px'></div>
+
 
 #### Beetlebomber's Fire Flowers
 *1-st level evocation*
@@ -477,12 +507,12 @@ The vine has the same properties as hempen rope, and it's lenght is the range of
 **Components:**     :: V, M (Two flower buds)
 **Duration:**       :: Instant
 
-You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 15ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3 times your *martial arts dice* or 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
+You blossom 2 flowers in your hand, as they touch each other they react. A hot spray of chemicals covers a 15ft. cone, a creature inside the cone's area must succed a dexterity saving throw against your spell save DC or take 3d6 magic fire damage. If a creature succeds it takes half the damage rounded down.
 
 <div style='margin-top:20px'></div>
 
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one *martial arts dice or 1d6*.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by one 1d6.
 
 
 #### Cultivate
@@ -497,20 +527,13 @@ You may choose one of the following effects:
 
 * Grow a seed or a bush into a bush or size large tree.
 
-* Provided of a suitable ground (Earth, clay, sand, etc...), grow a patch of moss or mycelium from a *seed or 1/16 pounds of spores*. The patch is a 30ft. square centered on you, it can cover vertical surfaces.
+* From *a seed or 1/16 pounds of spores* which are consumed and provided of a suitable ground (Earth, clay, sand, etc...), grow a patch of moss or mycelium (depends on material consumed). The patch is either a 15ft. radius area or 24 connected 5ft squares, the range of casting is 5ft. The patch can cover vertical surfaces.
 
-* Create 2 *Goodberries* from a bush or 5 from a tree. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day. The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+* From 1 ration of food which is consumed, create an edible mushroom called *Fungus of Propagation*, you may take a pound of spores which stay fresh for month.
 
-* Create a *Fruit of Fertility* from a bush or tree which contains 50 seeds that last fresh for a month.
+* From a bush or tree create an edible fruit called *Fruit of Fertility* which contains 16 seeds that last fresh for a month.
 
-* From 1 ration of food, which is consumed, create a *Fungus of Propagation*, you may take a pound of spores from it. 
-You may take 1 pound of spores each day by feeding it 1 ration of food each day. Spores last fresh for a month.
-
-* Touching a living tree create a simple object or objects made out of wood, that must fit in a 3ft cube, part of the tree is consumed. If the object is complex in nature you may require proficiency in Artisan’s Tools to make it.
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level, you may instead use a bonus action instead of an action to cast it.
-
-
+<!-- * Touching a living tree create a simple object or objects made out of wood, that must fit in a 1ft cube, part of the tree is consumed. If the object is complex in nature you may require proficiency in Artisan’s Tools to make it. -->
 
 
 
@@ -518,19 +541,7 @@ You may take 1 pound of spores each day by feeding it 1 ration of food each day.
 \page
 
 
-#### Wolf Dust Mushroom
-*1-st level transmutation*
 
-**Casting Time:**   :: 1 action
-**Range:**          :: 30ft.
-**Components:**     :: V, S, M (1/16 pounds of spores dust, which is consumed)
-**Duration:**       :: 1 minute
-
-You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. 
-
-For the duration creatures in this area can't see, except by wearing some eye protection and take your *martial arts dice or 1d6* magical necrotic damage at the start of their turn.
-
-The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes your *martial arts dice or 1d6* as magic fire damage. This also removes the spore cloud. 
 
 
 #### Cordyceps Infestation
@@ -549,6 +560,38 @@ At the begging of the creature's turn, they use their reaction to move up to the
 
 A creature can use it's action to remove the mushroom and end this effect.
 
+#### Wolf Dust Mushroom
+*2-nd level transmutation*
+
+**Casting Time:**   :: 1 action
+**Range:**          :: 30ft.
+**Components:**     :: V, S, M (1/16 pounds of spores dust, which is consumed)
+**Duration:**       :: 1 minute
+
+You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. 
+
+For the duration creatures in this area can't see, except by wearing air tight eye protection and take 1d6 necrotic damage at the start of their turn.
+
+The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes 1d6 magic fire damage. This also removes the spore cloud. 
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 #### Leaf Baloon
@@ -580,7 +623,7 @@ For each size beyond large you may add an extra baloon to make them float at 15f
 **Casting Time:**   :: 1 bonus action
 **Range:**          :: 5ft.
 **Components:**     :: S, M (A hard piece of wood/hard mushroom cap, not consumed or large tree/large mushroom, which is consumed)
-**Duration:**       :: 1 minute
+**Duration:**       :: Concentration, up to 1 minute
 
 You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
 
@@ -588,7 +631,7 @@ In combat, the creature shares your initiative count, but it takes its turn imme
 
 The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it's still alive.
 
-If the ***Green Fist*** was summoned by consuming as component for the spell a large tree or large mushroom, the damage of ***Nature's Force*** increases by one *martial arts dice* or *1d8*. 
+If the ***Green Fist*** was summoned by consuming as component for the spell a large tree or large mushroom, the damage of ***Nature's Force*** increases by 1d8. 
 
 <div style='margin-top:10px'></div>
 
@@ -639,8 +682,6 @@ ___
 **Challenge**              :: -  
 ___
 ***Ancient Link.*** The Green Fist's Strength modifier is equal to your spell ability modifier. It also shares your *Proficiency Bonus (PB)*.
-:
-***Massive.*** The Green Fist may provide half cover.
 
 
 ### Actions
@@ -650,7 +691,7 @@ ___
 
 ***Nature's Force.*** *Melee Weapon Attack:* *Str + PB* to hit, reach 5 ft., one target you can see. 
 
-2 times your *martial arts dice* or *2d8* + *Str* magic bludgeoning damage. For each spell level above 4th add one time your *martial arts dice* or *1d8* to the damage formula.
+2d8 + *Str* magic bludgeoning damage. For each spell level above 4th add 1d8 to the damage formula.
 }}
 
 
@@ -751,8 +792,6 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or hi
 
 - When determining your caster level you may treat this class as a third-caster but receive no extra spell slots from it.
 
-- You may only use the **Ki Casting** & **Ki Upcasting** features to cast and upcast spells from any other source (race, class, feat, etc) if your total level as a caster would give you access to those spells. 
-
 - You can not pay the base cost of a spell with spell slots and the upcast with **Ki Upcasting**.
 
 ### Autor's Notes & Other Things
@@ -795,7 +834,7 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 29/12/2022, version 1.11*
+*Made 29/12/2022, version 1.13*
 }}
 
 
