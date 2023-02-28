@@ -138,9 +138,9 @@ One may hold a seed of a fruit in the morning and go to sleep with a full harves
 
 #### Preparing and Casting Spells
 
-You prepare the list spells that are available for you to cast, choosing from your *known spells list* (You can check the *Ancient Roots Spells List* for them).
+You prepare the list spells that are available for you to cast, choosing from your **Ancient Roots Spells List**.
 
-When you do so, choose a number of spells equal to your Wisdom modifier + half your monk level rounded up (minimum of three spells). You must know the spells to add it to your prepared list.
+When you do so, choose a number of spells equal to your Wisdom modifier + half your monk level rounded down (minimum of two spells).
 
 <br>
 
@@ -164,7 +164,7 @@ Wisdom is your spellcasting ability for your monk spells. You use your Wisdom wh
 
 #### Spellcasting Focus
 
-To cast your monk spells you may use a *Plant Focus*, it can be anything that it's a plant or fungi as long as it is alive. Seeds and spores can't be used as focus.
+To cast your monk spells you may use a *Plant Focus*, it can be anything that it's a plant or fungi as long as it is alive.
 
 <div style='margin-top:170px'></div>
 <br/>
@@ -173,13 +173,13 @@ To cast your monk spells you may use a *Plant Focus*, it can be anything that it
 
 #### Ki Casting
 
-To cast your spells you use your Ki. The cost of a spell is equal to 1 Ki per spell level and will is detailed on the **Ancient Roots Spells List**.
+To cast your spells you use your Ki. The cost of a spell is equal to 1 Ki per spell level and will is detailed on the *Ancient Roots Spells List*.
 
 
 #### Ki Upcasting
-When you cast a spell you can spend additional ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.
+When you cast a spell using Ki, you can spend additional Ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.
 
- For example, if you cast "Wall of Plants", you can spend 4 ki points to cast it as a 3rd-level spell (the spells's base cost of 2 ki plus 2 ki for the upcast).
+ For example, if you cast "Wall of Plants", you can spend 6 Ki points to cast it as a 4th-level spell (the spells's base cost of 3 ki plus 3 ki for the upcast).
 
 
 #### Magic Arts
@@ -281,7 +281,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 Using a bonus action and 4 Ki points you may touch a weapon that has been created by the *Living Weapon* ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a **living scythe**. 
 
-For the duration your weapon and spells now deal an extra 1d6 magic damage of the weapon/spell damage, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration. 
+For the duration your weapon gets a +1 to attacks and damage rolls, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration. 
 
 Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free.
 
@@ -323,10 +323,10 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 |  6th  | 2       | Spike Growth (PHB p277)     					|
 |  6th  | 2       | Wolf Dust Mushroom          					|
 | 11th  | 1       | Leaf Baloon                 					|
-| 11th  | 2       | Wall of Plants              					|
 | 11th  | 3       | Erupting Earth (XGE p155)    					|
 | 11th  | 3       | Plant Growth (PHB p266)    					  |
 | 11th  | 3       | Speak with Plants (PHB p277)    		  |
+| 11th  | 3       | Wall of Plants              					|
 | 11th  | 4       | Summon Green Fist            					|
 | 17th  | 3       | Last Meal                   					|
 | 17th  | 4       | Freedom of Movement (PHB p244)				|
@@ -450,11 +450,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 You grow a pod of caltrop's fruits, as you touch it the pod opens and a fruit covered in spines flies away. 
 
-Make two ranged spell attacks, on a hit deal your *1d4* plus *spell ability modifier* magical piercing damage.
-
-<div style='margin-top:10px'></div>
-
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage of each attack increases by one *1d4*.
+Make two ranged spell attacks, on a hit each deal *1d6* plus *spell ability modifier* magical piercing damage.
 
 <br>
 
@@ -487,16 +483,16 @@ The vine has the same properties as hempen rope, and it's lenght is the range of
 
 
 <div style='margin-top:20px'></div>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the spell's range for 30ft more, per level.
 
 
-<div style='margin-top:10px'></div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 #### Beetlebomber's Fire Flowers
@@ -612,33 +608,19 @@ For each size beyond large you may add an extra baloon to make them float at 15f
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level, increase the duration to 10 minutes. When you cast this spell using a spell slot of 3rd level, increase the duration to 1 hour. When you cast this spell using a spell slot of 4th level, increase the duration to 24 hours.
 
+#### Sculpt Flesh
+*3-rd level transmutation*
 
+**Casting Time:**   :: 10 minutes
+**Range:**          :: Touch
+**Components:**     :: V, S, M (A piece of wood from a living tree or giant living mushroom)
+**Duration:**       :: Instantaneous
 
+You touch the living tree or giant living mushroom required as material for the spell, you may remove up to a 5ft. cube of matter from the tree/mushroom and leave it in a space within 5ft. of you. 
 
+The matter may be reshapped into any form, into one object or multiple objects, for as long all of the objects fit within the 5ft. cube.
 
-#### Summon Green Fist
-*4-th level conjuration*
-
-
-**Casting Time:**   :: 1 bonus action
-**Range:**          :: 5ft.
-**Components:**     :: S, M (A hard piece of wood/hard mushroom cap, not consumed or large tree/large mushroom, which is consumed)
-**Duration:**       :: Concentration, up to 1 minute
-
-You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
-
-In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
-
-The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it's still alive.
-
-If the ***Green Fist*** was summoned by consuming as component for the spell a large tree or large mushroom, the damage of ***Nature's Force*** increases by 1d8. 
-
-<div style='margin-top:10px'></div>
-
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
-
-
-
+Creatures or magic items can't be created or transmuted by this spell. You also can't use it to create items that ordinarily require a high degree of craftsmanship, such as weapons or armor, unless you have proficiency with the type of artisan's tools used to craft such objects.
 
 
 
@@ -654,11 +636,58 @@ If the ***Green Fist*** was summoned by consuming as component for the spell a l
 
 \page
 
+
 <!-- 
 
 	<img height="130px" src='https://github.com/santinobch/Cosmonauts/blob/main/Assets/green_fist.png?raw=true' style='position:absolute;top:5px;left:290px;z-index:16' />
 
 -->
+
+#### Summon Green Fist
+*4-th level conjuration*
+
+
+**Casting Time:**   :: 1 bonus action
+**Range:**          :: 5ft.
+**Components:**     :: S, M (A hard piece of wood or hard mushroom cap)
+**Duration:**       :: Concentration, up to 1 minute
+
+You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
+
+In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
+
+The creature is an ally to you and your companions. It obeys your verbal commands (bonus action required). If you don't issue any, it takes the Dodge action and uses its move to avoid danger. The creature rots when it drops to 0 hit points. When the spell ends the creature transforms into vegetation if it's still alive.
+
+<div style='margin-top:10px'></div>
+
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+#### Wall of Plants
+*3-rd level transmutation*
+
+**Casting Time:**   :: 1 action
+**Range:**          :: 60ft.
+**Components:**     :: V, S, M (A handful of branches or stems)
+**Duration:**       :: Instant
+
+
+A magical wall of living mush and branches springs into existence at a point you choose within range. The wall is composed of ten 10, 5ft cubes. Each cube must be contiguous with at least one other cube. Alternatively, you can create 20 half-cubes (2.5ft x 5ft. x 5ft).
+
+If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
+
+
+
+
 
 {{monster,frame
 ## Green Fist
@@ -687,34 +716,18 @@ ___
 ### Actions
 ***Multiattack.*** The Green Fist makes two attacks.
 
-<br>
+<div style='margin-top:10px'></div>
 
 ***Nature's Force.*** *Melee Weapon Attack:* *Str + PB* to hit, reach 5 ft., one target you can see. 
 
 2d8 + *Str* magic bludgeoning damage. For each spell level above 4th add 1d8 to the damage formula.
 }}
 
-
-
-<div style='margin-top:10px'></div>
-
-
-#### Wall of Plants
-*2-nd level transmutation*
-
-**Casting Time:**   :: 1 action
-**Range:**          :: 60ft.
-**Components:**     :: V, S, M (A handful of branches or stems)
-**Duration:**       :: Instant
-
-
-A magical wall of living mush and branches springs into existence at a point you choose within range. The wall is composed of ten 10, 5ft cubes. Each cube must be contiguous with at least one other cube. Alternatively, you can create 20 half-cubes (2.5ft x 5ft. x 5ft).
-
-If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
-
+<br/>
+<br/>
+<br/>
 
 The wall can have any shape you desire, though it can't occupy the same space as a creature or object. The wall doesn't need to be vertical or rest on any firm foundation. It must, however, merge with and be solidly supported by existing cubes or ground to not fall. Thus, you can use this spell to bridge a chasm or create a ramp.
-
 
 If you create a span greater than 40 feet in length, you must create supports. You can crudely shape the wall to create crenellations, battlements, and so on.
 
@@ -723,7 +736,33 @@ The wall is an object made of living mush and branches that can be damaged and t
 
 <br/>
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 30 cubes or 60 half-cubes.
+
+
+
+
+
+
+
+
+
+
+
+<div style='margin-top:10px'></div>
+
+
+
+
+
+
+
+<div style='margin-top:400px'></div>
+
+
+
+
+\page
+
 
 #### Great Tree
 *4-th level transmutation*
@@ -755,35 +794,36 @@ Make a melee spell attack. On a hit the creature takes 3d12 magic necrotic damag
 
 Either if it hits or misses the creature must make a Constitution saving throw against your spell save DC, on a fail it becomes stunned till the beginning of your next turn and gains one level of *Exhaustion*, up to a maximum of 3 levels of *Exhaustion*. 
 
-<!--
-#### Hole of Roots
-*2-th level evocation*
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-**Casting Time:**   :: 1 action
-**Range:**          :: 30ft.
-**Components:**     :: V, S, M (A handful of roots or mycelium)
-**Duration:**       :: instant
 
 
-You call roots deep below to dig a hole for you, you remove up to 10, 5ft cubes of earth, sand, clay or small rocks.
- 
-The hole is supported by roots so it wont colapse on itself. Each 5ft space supported by roots can withstand up to 100ft of water, 80ft of soil, 40ft of rocks and 10ft of heavy metals.
-
-This spell can push the soil up, which may deform the terrain or leave the soil within the range of the spell.
-
-
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you may add 10 more plant cubes or 20 half-cubes to the wall, up to a maximum of 40 cubes or 80 half-cubes.
-
--->
-
-
-
-<div style='margin-top:400px'></div>
-
-
-
-
-\page
 
 
 ### Multiclassing
@@ -834,16 +874,103 @@ Thanks to my dudes <3
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 29/12/2022, version 1.13*
+*Made 29/12/2022, version 1.14*
 }}
+
+
+
 
 
 
 
 \page
 
+# Expanding the Core Rules
 
-### Testing
+This subclass was thinked at the time with a theme of plants and the control of nature, but there is nothing stopping you to use the core of this subclass and change the theme.
+
+#### Monk Subclass Creation
+
+I'm going to make a new subclass using this one as a template and I'm going to choose a "four elements" theme.
+
+#### Lv3
+
+- Spellcasting Focus: Your focus can be, ice, volcanic rock, conductive metals, literally acid.
+- Plant Bender: this subclass does not have this feature
+- Living Weapon: You can make your living weapon out of acid, ice, fire or electricity. Your attacks with your living weapon do elemental damage of the choosen type.
+- Cantrips: instead of two driud cantrips, choose two from a list composed of cantrips that deal: acid, cold, fire or lighting damage.
+
+#### Lv9
+
+- Green Foot: this subclass does not have this feature
+
+#### Lv17
+
+- Acient Tools Of Soil: Change the name to "Primordial Form", change the free spells you can cast to any of level 1 as long is a monk spell.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+#### New spell list, need to check
+
+{{classTable,frame
+
+| Lv. in this class | Spell Lv. | Spell |
+|:-----:|:-------:|:--------------------------------------|
+|  3rd  | Cantrip | 1st cantrip from the druid spell list |
+|  3rd  | Cantrip | 2nd cantrip from the druid spell list |
+|  3rd  | 1       | Absorb Elements  											|
+|  3rd  | 1       | Burning Hands         								|
+|  3rd  | 1       | Ice Knife             								|
+|  3rd  | 1       | Tasha's Caustic Brew         					|
+|  6th  | 2       | Scorching Ray        									|
+|  6th  | 2       | Continual Flame (PHB p227)						|
+|  6th  | 2       | Snilloc's Snowball Swarm            	|
+|  6th  | 2       | Melf's Acid Arrow      								|
+| 11th  | 3       | Call Lightning                				|
+| 11th  | 3       | Wall of Water              						|
+| 11th  | 4       | Summon Elemental            					|
+| 17th  | 4       | Wall of fire                   				|
+| 17th  | 4       | Elemental Bane												|
+}}
+
+\page
+
+# Testing
 
 This supplement was tested by playing **"Curse of Strad"**, for our setting we used rules from supplements up to *"Tasha's Cauldron of Everything"*. 
 
