@@ -184,7 +184,7 @@ When you cast a spell using Ki, you can spend additional Ki points to increase t
 
 #### Magic Arts
 
-When rolling for the damage of a monk spell you may replace the dice by your *martial arts dice*. For example if you were to roll *2d6 fire damage* and your *martial arts dice* is a d8 you may choose to deal *3d8 fire damage*.
+When rolling for the damage of a monk spell you may replace the dice by your *martial arts dice*. For example if you were to roll *3d6 damage* and your *martial arts dice* is a d8 you may choose to deal *3d8 damage*.
  
 #### Spell-Fueled Attack 
 ***Optional Feature, requires Ki-Fueled Attack (TCE p48)***
@@ -467,7 +467,7 @@ Vines sprout to any direction you choose. Choose a creature or object and apply 
 
 <div style='margin-top:10px'></div>
 
-&nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is unwilling it must pass a strength saving throw against your spell DC, on a fail they are moved to the choosed location. You may also move it to your hand as long as it is within the 10ft of you. 
+&nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is unwilling it must pass a strength saving throw against your spell DC, on a fail they are moved to the choosed location. You may also move it to your hand (you now hold it) as long as it is within the 10ft of you. 
 
 If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
 
@@ -552,7 +552,7 @@ You throw a handfull of spores into a point 30ft. from you, a thin orange cordyc
 
 Creatures on this area at the moment of the casting must make a wisdom saving throw against your spell DC, on a fail, they become charmed for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell. 
 
-At the begging of the creature's turn, they use their reaction to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.
+At the begging of the creature's turn, they must use their movement to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.
 
 A creature can use it's action to remove the mushroom and end this effect.
 
@@ -568,7 +568,9 @@ You throw a handfull of spores into a point 30ft. from you, a dark grey puffball
 
 For the duration creatures in this area can't see, except by wearing air tight eye protection and take 1d6 necrotic damage at the start of their turn.
 
-The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes 1d6 magic fire damage. This also removes the spore cloud. 
+The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes 1d6 magic fire damage. This also removes the spore cloud.
+
+A strong wind can remove the spore cloud.
 
 
 <br/>
@@ -652,7 +654,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 **Components:**     :: S, M (A hard piece of wood or hard mushroom cap)
 **Duration:**       :: Concentration, up to 1 minute
 
-You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft.
+You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft (in whichever order your want).
 
 In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
 
@@ -832,8 +834,6 @@ Either if it hits or misses the creature must make a Constitution saving throw a
 
 - When determining your caster level you may treat this class as a third-caster but receive no extra spell slots from it.
 
-- You can not pay the base cost of a spell with spell slots and the upcast with **Ki Upcasting**.
-
 ### Autor's Notes & Other Things
 
 <div style='margin-top:10px'></div>
@@ -857,7 +857,7 @@ Either if it hits or misses the creature must make a Constitution saving throw a
 
 - A cube from ***"Wall of Plants"*** weights about 300 kilograms or 660 pounds and a half-cube half of that, 150 kilograms or 330 pounds.
 
-- To simplify: if you have at least 16 Wisdom score ***Green Fist*** can carry one cube while *Heavily Encumbered* and a hal-cube while *Encumbered*
+- To simplify: if you have at least 16 Wisdom score ***Green Fist*** can carry one cube while *Heavily Encumbered* and a half-cube while *Encumbered*
 
 
 ### Some last words
