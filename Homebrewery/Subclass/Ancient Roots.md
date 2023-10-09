@@ -118,9 +118,9 @@ style='position:absolute;top:235px;right:-50px;width:200px;'
 
 ### Monastic tradition (level 3)
 
-Monks who follow the Way of the Ancient Roots have learned from studying the simplest organisms, plants and fungi. And trough their studies they managed to control the flow of Ki in other beings.
+Monks who follow the Way of the Ancient Roots have learned from studying the simplest organisms, plants and fungi. And trough their studies they managed to control the flow of Ki in such beings.
 
-One may hold a seed of a fruit in the morning and go to sleep with a full harvest, this is the way we walk.
+The way they walk: one may hold a few seeds in the morning and go to sleep with a full harvest.
 
 <div style='margin-top:10px'></div>
 
@@ -173,13 +173,13 @@ To cast your monk spells you may use a *Plant Focus*, it can be anything that it
 
 #### Ki Casting
 
-To cast your spells you use your Ki. The cost of a spell is equal to 1 Ki per spell level and will is detailed on the *Ancient Roots Spells List*.
+To cast your spells you may use your Ki. The cost of a spell is equal to 1 Ki per spell level and will is detailed on the *Ancient Roots Spells List*. 
 
 
 #### Ki Upcasting
 When you cast a spell using Ki, you can spend additional Ki points to increase the spell level. To increase the spell level by 1, add the base Ki cost to the total cost of the spell. You may do this any number of times up to a 9th level spell.
 
- For example, if you cast "Wall of Plants", you can spend 6 Ki points to cast it as a 4th-level spell (the spells's base cost of 3 ki plus 3 ki for the upcast).
+ For example, if you cast "Wall of Plants", you can spend 6 Ki points to cast it as a 4th-level spell (the spells's base cost of 3 Ki plus 3 Ki for the upcast).
 
 
 #### Magic Arts
@@ -238,7 +238,7 @@ Your magical staff damage increases when you reach 5th level (1d8), 11th level (
 
 #### Fury of Sticks
 
-Attacks with your *Living Weapon* count as unnarmed strikes and as long as you are holding it, your *martial arts dice* becomes the weapon's damage dice.
+As long as you are holding your *Living Weapon*, your *martial arts dice* becomes the weapon's damage dice. Furthermore you may use your *Living Weapon* when attacking with *Flury of Blows*.
 
 <div style='margin-top:10px'></div>
 
@@ -281,7 +281,7 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 Using a bonus action and 4 Ki points you may touch a weapon that has been created by the *Living Weapon* ability, you enhance its power for 1 minute growing a wood blade of any color out of your staff, transforming it into a **living scythe**. 
 
-For the duration your weapon gets a +1 to attacks and damage rolls, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration. 
+For the duration your weapon and spells get a +1 to attacks and damage rolls, and you may cast the spells Extending Vines, Caltrops's Spines and Wall of Plants for free, at their lowest levels, for the duration. 
 
 Spells cast this way can be upcast if you pay the necesary Ki cost, minus the initial cost, which is free.
 
@@ -302,8 +302,8 @@ You add new spells to your know spells list as writen in the *Ancient Roots Spel
 
 | Lv. in this class | Spell Lv. | Spell |
 |:-----:|:-------:|:--------------------------------------|
-|  3rd  | Cantrip | 1st cantrip from the druid spell list |
-|  3rd  | Cantrip | 2nd cantrip from the druid spell list |
+|  3rd  | Cantrip | 1st cantrip from druid's spell list   |
+|  3rd  | Cantrip | 2nd cantrip from druid's spell list   |
 |  3rd  | 1       | Caltrops's Spines           					|
 |  3rd  | 1       | Detect Magic (PHB p231)     					|
 |  3rd  | 1       | Detect Poison and Disease (PHB p231)  |
@@ -469,7 +469,7 @@ Vines sprout to any direction you choose. Choose a creature or object and apply 
 
 &nbsp; **Move:** the target is moved up to 10ft in the direction of your choosing unto an unnocupied space. If the target is unwilling it must pass a strength saving throw against your spell DC, on a fail they are moved to the choosed location. You may also move it to your hand (you now hold it) as long as it is within the 10ft of you. 
 
-If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone. They may use half their movement to stand up.
+If an unwilling creature were to fall into a pit by the effect of this spell, it must make a strength saving throw against your spell DC, on a fail they fall, on a success they hold onto the edge and become prone.
 
 **Hold**: if unwilling the target must make a strength saving throw against your spell DC, on a fail their speed becomes 0 and can’t benefit from any bonus to their speed, until the begining of your next turn. If the target is an object you can wrap the vine around it.
 
@@ -488,6 +488,8 @@ The vine has the same properties as hempen rope, and it's lenght is the range of
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you may extend the spell's range for 30ft more, per level.
 
 
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -550,7 +552,7 @@ You may choose one of the following effects:
 
 You throw a handfull of spores into a point 30ft. from you, a thin orange cordyceps mushroom with a flat tip grows from the point. It explodes making a, orange cloud 10Ft. in radius of dark spores.
 
-Creatures on this area at the moment of the casting must make a wisdom saving throw against your spell DC, on a fail, they become charmed for the duration, growing mushrooms on the top on their heads. Creatures inmune to the charmed condition, are inmune to the effects of this spell. 
+Creatures on this area at the moment of the casting must make a wisdom saving throw against your spell DC, on a fail, they become affected for the duration, growing mushrooms on the top on their heads.  
 
 At the begging of the creature's turn, they must use their movement to move up to their speed to the highest place posible, if terrain is plain they scatter randomly.
 
@@ -566,13 +568,15 @@ A creature can use it's action to remove the mushroom and end this effect.
 
 You throw a handfull of spores into a point 30ft. from you, a dark grey puffball mushroom with a spherical tip grows from the point. It explodes making a dense cloud 10Ft. in radius of dark spores, which is iritating to the eyes. 
 
-For the duration creatures in this area can't see, except by wearing air tight eye protection and take 1d6 necrotic damage at the start of their turn.
+For the duration creatures in this area can't see, except by wearing air tight eye protection and take 1d6 necrotic damage at the start of their turn, or the first time they enter the area.
 
 The spores are extremly flamable any contact with fire will light them up, and any creature in the area takes 1d6 magic fire damage. This also removes the spore cloud.
 
 A strong wind can remove the spore cloud.
 
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -604,7 +608,7 @@ You create a sphere of silky white leaves, it rapidly bulks up as it becomes fil
 
 A maximum of 2 medium creatures or 1 large creature can hold to it and float upwards at a velocity of 15ft. per round. Having multiple Leaf Baloons adds to the floating velocity.
 
-For each size beyond large you may add an extra baloon to make them float at 15ft. per round.
+For each size beyond large you may add an extra baloon to make them float at 15ft. per round, otherwise they will not float.
 
 <br/>
 
@@ -654,7 +658,7 @@ Creatures or magic items can't be created or transmuted by this spell. You also 
 **Components:**     :: S, M (A hard piece of wood or hard mushroom cap)
 **Duration:**       :: Concentration, up to 1 minute
 
-You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately use the ***Green Fist's Nature's Force*** multiattack and move it up to 30ft (in whichever order your want).
+You call forth a ***Green Fist*** made of veiny wood, roots and leaves. It manifests in an unoccupied space that you can see within range. After the cast you may immediately make 2 attacks with the ***Green Fist's Nature's Force*** and move it up to 30ft (in whichever order your want).
 
 In combat, the creature shares your initiative count, but it takes its turn immediately after yours. You may command the creature attacks and movement using your bonus action.
 
@@ -866,15 +870,17 @@ Either if it hits or misses the creature must make a Constitution saving throw a
 
 Thanks to my dudes <3
 
+<br/>
+<br/>
+
 {{note
 ##### Credits
 * Image 1, ['Photoshop Final Project'](https://www.deviantart.com/ashlmet/art/Photoshop-Final-Project-764598285) by Ashlmet.
-* Image 2, ['Like the Wind Felt, But Not Seen'](https://www.deviantart.com/crg-free/art/Like-the-Wind-Felt-But-Not-Seen-478621499) by CRG-Free.
-* The Art for the Green Fist comes from [Kodama's Reach](https://scryfall.com/card/c17/154/kodamas-reach) a Magic the Gathering card, illustrated by [Heather Hudson](https://www.instagram.com/studiowondercabinet/) for Wizards of the Coast.
+
 * Written by Vito ([@vitodraws](https://www.instagram.com/vitodraws))
 * The current art is temporary, this is just a test and i want to do my own art for this project in the future.
 
-*Made 29/12/2022, version 1.14*
+*Made 09/10/2023, version 1.15*
 }}
 
 
